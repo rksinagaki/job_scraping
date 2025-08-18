@@ -1,21 +1,41 @@
-,job_offer_id,job_offer_name,job_offer_areas,job_offer_min_salary,job_offer_max_salary,job_offer_skill_names,client_name,skills_list
-0,294081,データエンジニア（メンバーポジション）,['東京都'],400,550,"['SQL', 'Python', 'AWS', 'Azure', 'GCP']",株式会社 cococo,"['SQL', 'Python', 'AWS', 'Azure', 'GCP']"
-1,267455,データエンジニア（メンバー）,['大阪府'],540,840,"['SQL', 'Python', 'AWS', 'Docker', 'MySQL', 'PostgreSQL', 'Lambda', 'Oracle', 'GCP', 'Redis', 'SQLServer']",ナッシュ 株式会社,"['SQL', 'Python', 'AWS', 'Docker', 'MySQL', 'PostgreSQL', 'Lambda', 'Oracle', 'GCP', 'Redis', 'SQLServer']"
-2,288361,◢◤ビッグデータ人材◢◤データオペレーションスタッフ,['東京都'],400,800,"['SQL', 'Python']",TRUSTART 株式会社,"['SQL', 'Python']"
-3,187679,（職種未経験者歓迎）データエンジニア,"['東京都', '神奈川県']",400,600,"['C', 'SQL', 'Java', 'Python', 'R', 'AWS', 'MySQL', 'PostgreSQL', 'Lambda', 'GCP']",株式会社 メンバーズ メンバーズデータアドベンチャーカンパニー,"['C', 'SQL', 'Java', 'Python', 'R', 'AWS', 'MySQL', 'PostgreSQL', 'Lambda', 'GCP']"
-4,267012,データエンジニア,"['東京都', 'フルリモート']",600,900,"['C', 'C++', 'JavaScript', 'SQL', 'Java', 'Python', 'Node.js', 'Hadoop', 'TypeScript', 'AWS', 'Docker', 'Apache', 'IoT', 'Azure', 'Spark']",株式会社 ヘッドウォータース,"['C', 'C++', 'JavaScript', 'SQL', 'Java', 'Python', 'Node.js', 'Hadoop', 'TypeScript', 'AWS', 'Docker', 'Apache', 'IoT', 'Azure', 'Spark']"
-5,226213,データエンジニア BASE,"['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県']",350,450,"['SQL', 'Python', 'AWS', 'Docker']",株式会社 FLINTERS,"['SQL', 'Python', 'AWS', 'Docker']"
-6,286281,データエンジニア（データ基盤構築）／リードエンジニア,['東京都'],500,650,"['SQL', 'AWS', 'Azure', 'Google Cloud Platform', 'GCP']",株式会社 エスタイル,"['SQL', 'AWS', 'Azure', 'Google Cloud Platform', 'GCP']"
-7,236056,データ基盤エンジニア,['東京都'],400,700,"['Python', 'Docker']",株式会社 grasys,"['Python', 'Docker']"
-8,291176,バックエンド、フルスタック、プロジェクトマネージャー,['福岡県'],440,600,"['Python', 'Node.js', 'React', 'AWS', 'Azure', 'GCP']",and roots 株式会社,"['Python', 'Node.js', 'React', 'AWS', 'Azure', 'GCP']"
-9,258668,データエンジニア,['東京都'],600,900,"['SQL', 'Python', 'Hadoop', 'Salesforce', 'Spark']",株式会社 テックオーシャン,"['SQL', 'Python', 'Hadoop', 'Salesforce', 'Spark']"
-10,154493,データエンジニア（リードエンジニア）※副業・リモート可！モダンな開発環境！【デジタルパートナー事業部】,['東京都'],600,1000,"['SQL', 'Python', 'AWS', 'Apache', 'Azure', 'GCP']",株式会社 ビットエー,"['SQL', 'Python', 'AWS', 'Apache', 'Azure', 'GCP']"
-11,293113,【大阪】データ分析基盤を支えるデータエンジニア（Python/SQL/クラウド）,['大阪府'],420,700,[],ワークスアイディ 株式会社,[]
-12,293435,データ分析基盤エンジニア｜Data Platform Engineer,['東京都'],500,750,"['SQL', 'Python', 'R', 'AWS', 'Azure']",株式会社 アクセルスペースホールディングス,"['SQL', 'Python', 'R', 'AWS', 'Azure']"
-13,292390,"データサイエンティスト,データエンジニア",['東京都'],552,800,"['SQL', 'Python', 'AWS', 'GCP']",ＧＭＯメディア 株式会社,"['SQL', 'Python', 'AWS', 'GCP']"
-14,280838,【技術開発部】データエンジニア,['東京都'],600,900,[],株式会社 VRAIN Solution,[]
-15,289920,※CTO候補※マーケ支援会社のデータエンジニア／テックリード【安定した事業基盤のもと、裁量を持ってゼロイチに挑戦したい方】,['東京都'],1000,0,"['SQL', 'AWS', 'GCP']",アナグラム 株式会社,"['SQL', 'AWS', 'GCP']"
-16,173246,データ基盤構築エンジニア,['東京都'],500,1200,['SQL'],株式会社 ベネフィット・ワン,['SQL']
-17,288436,【リモート・時差・副業可】データマーケター,['東京都'],450,700,"['SQL', 'GCP']",株式会社 マイナビ,"['SQL', 'GCP']"
-18,288107,【中国・四国勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア,"['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県']",625,814,"['SQL', 'AWS', 'Azure', 'GCP']",株式会社 ニジボックス,"['SQL', 'AWS', 'Azure', 'GCP']"
-19,177585,データエンジニア,['東京都'],650,900,"['C', 'SQL', 'Hadoop', 'TypeScript', 'AWS', 'PostgreSQL', 'Kotlin', 'DDD']",株式会社 スイッチメディア,"['C', 'SQL', 'Hadoop', 'TypeScript', 'AWS', 'PostgreSQL', 'Kotlin', 'DDD']"
+,job_offer_id,job_offer_name,job_offer_areas,job_offer_min_salary,job_offer_max_salary,job_offer_skill_names,client_name,employee_count
+0,294052,最先端AI技術を習得！未来を創る生成AIエンジニアを募集！,"['東京都', '神奈川県', '千葉県', '埼玉県', '大阪府', '兵庫県', '京都府', '愛知県', '福岡県']",500,1040,"['Java', 'Python']",10X 株式会社,20
+1,293842,AI/NLPエンジニア（ナレッジグラフ＆セマンティックシステム）技術リーダー,['東京都'],1500,2200,[],Polimill 株式会社,20
+2,294323,ソフトウェアエンジニア（AI）,['フルリモート'],600,1600,"['Ruby', 'Ruby on Rails']",株式会社 kickflow,34
+3,294243,AIエンジニア(LLMを活用したAIエージェント開発),['東京都'],700,900,"['Python', 'Azure']",VISITS Technologies 株式会社,60
+4,267455,データエンジニア（メンバー）,['大阪府'],540,840,"['SQL', 'Python', 'AWS', 'Docker', 'MySQL', 'PostgreSQL', 'Lambda', 'Oracle', 'GCP', 'Redis', 'SQLServer']",ナッシュ 株式会社,460
+5,294081,データエンジニア（メンバーポジション）,['東京都'],400,550,"['SQL', 'Python', 'AWS', 'Azure', 'GCP']",株式会社 cococo,10
+6,271423,【DX事業開発部】AIコンサルティングエンジニア,['東京都'],320,800,"['Python', 'TensorFlow']",株式会社 VRAIN Solution,97
+7,273756,AIエンジニア,['東京都'],450,1200,"['Python', 'AWS']",株式会社 EQUES,50
+8,292720,AIソリューションアーキテクト／技術開発本部,['東京都'],800,1500,"['AWS', 'TensorFlow']",CPAエクセレントパートナーズ 株式会社,435
+9,269155,未経験エンジニア,['東京都'],280,360,[],株式会社 ピアズ,815
+10,131157,【東京】エンジニア（ChatGPT等の先端技術の開発）【ID0000069】,['東京都'],699,1084,"['AWS', 'Azure', 'Google Cloud Platform']",株式会社 ジェーエムエーシステムズ,329
+11,99076,【機械学習・データサイエンティスト】/Openworkスコア3.9（上位１％）,['東京都'],370,880,"['SQL', 'Python', 'AWS', 'Keras', 'pandas']",株式会社 ラクスパートナーズ,1108
+12,293284,【業務委託】販売予測モデル構築エンジニア,['フルリモート'],200,0,"['SQL', 'Python']",株式会社 Prazto,30
+13,288361,◢◤ビッグデータ人材◢◤データオペレーションスタッフ,['東京都'],400,800,"['SQL', 'Python']",TRUSTART 株式会社,31
+14,238837,データエンジニア（経験者）,"['東京都', '神奈川県']",500,850,"['SQL', 'Python', 'AWS', 'GCP']",株式会社 メンバーズ メンバーズデータアドベンチャーカンパニー,2303
+15,267012,データエンジニア,"['東京都', 'フルリモート']",600,900,"['C', 'C++', 'JavaScript', 'SQL', 'Java', 'Python', 'Node.js', 'Hadoop', 'TypeScript', 'AWS', 'Docker', 'Apache', 'IoT', 'Azure', 'Spark']",株式会社 ヘッドウォータース,127
+16,226213,データエンジニア BASE,"['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県']",350,450,"['SQL', 'Python', 'AWS', 'Docker']",株式会社 FLINTERS,90
+17,286288,【AIテックリード】将来的に技術責任者として新技術の導入・検証の裁量権をお渡しします！/子会社BTMAIZへの出向,"['東京都', 'フルリモート']",700,1000,"['AWS', 'TensorFlow', 'IoT', 'Azure']",株式会社 BTM,201
+18,287457,プリンシパルエンジニア（生成AI/LLM関連）,"['東京都', 'フルリモート']",800,1200,"['C#', 'C', 'C++', 'PHP', 'Ruby', 'Java', 'Python', 'Scala', 'Go', 'React', 'TypeScript', 'AWS', 'Azure', 'Rust', 'GCP', 'React Native', 'Fargate', 'SRE']",株式会社 Carat,10
+19,99690,AIエンジニア（⼤阪）,['大阪府'],400,800,"['Python', 'AWS', 'Docker', 'IoT', 'Jupyter']",株式会社 スマレジ,322
+20,99087,データサイエンティスト,['東京都'],600,1200,"['SQL', 'Python', 'R']",株式会社 ピープルドット,45
+21,286419,SQLを利用したABEMAのデータ分析,['沖縄県'],540,720,['SQL'],株式会社 シーエー・アドバンス,1685
+22,128433,AIエンジニア(進化計算),['東京都'],400,650,"['C#', 'C', 'C++', 'Java']",株式会社 タイムインターメディア,106
+23,167082,【データサイエンティスト（AI活用）】IPアドレスをもとに様々な情報を判定する技術「IP Geolocation」を提供する国内オンリーワン企業です。,['静岡県'],400,550,"['SQL', 'Perl', 'PHP', 'Python', 'AWS', 'MySQL', 'Nginx', 'PostgreSQL', 'Apache', 'Redis', 'Fluentd']",株式会社 Geolocation Technology,59
+24,241109,【開発】AIエンジニア,['東京都'],500,1500,"['JavaScript', 'Python', 'TypeScript', 'AWS', 'Docker', 'TensorFlow', 'PostgreSQL', 'Azure', 'Kubernetes', 'Keras', 'GCP', 'Chainer']",株式会社 BLOCKSMITH&Co.,30
+25,284899,AIエンジニア / モデル調整 / LangChain設計,['東京都'],500,600,[],株式会社 SHO-SAN,19
+26,112812,AIエンジニア,['東京都'],550,850,"['C', 'JavaScript', 'Java', 'Python', 'TensorFlow', 'OpenCV', 'Keras', 'Chainer']",株式会社 ワンズパワー,20
+27,163804,開発エンジニア（データマート）,['東京都'],330,510,"['SQL', 'Oracle']",ピセ 株式会社,120
+28,272243,AI開発エンジニア◆オンライン麻雀ゲーム・ヘルスケアアプリ,['東京都'],600,960,"['Python', 'Corona']",株式会社 シグナルトーク,35
+29,223105,機械学習エンジニア/データやAI利活用提案、PoC、実装まで,"['東京都', 'フルリモート']",600,900,"['C', 'C++', 'JavaScript', 'SQL', 'Python', 'R', 'Node.js', 'React', 'TypeScript', 'Haskell', 'Rust']",株式会社 テクノプロ　テクノプロ・デザイン社,8522
+30,188059,データエンジニア（データレイク＋分析基盤）＜福岡銀行＞,['福岡県'],500,1500,"['SQL', 'Java', 'Python', 'Hadoop', 'AWS', 'Spark']",株式会社 福岡銀行,3718
+31,281004,データエンジニア　PL/TL層,['東京都'],400,600,"['VBA', 'SQL', 'PHP']",株式会社 ワールドスカイ,101
+32,282752,AI・機械学習エンジニア（システム開発部）,['東京都'],504,900,"['Python', 'AWS', 'Lambda', 'Flask']",株式会社 くすりの窓口,370
+33,215138,ISP運用データ分析/サーバーエンジニア,['東京都'],470,750,"['C', 'Python', 'AWS']",ニフティ 株式会社,392
+34,265702,データサイエンティスト,"['東京都', '京都府']",500,900,"['Python', 'AWS', 'Docker', 'OpenCV', 'Jupyter', 'pandas', 'scikit-learn']",株式会社 HACARUS,70
+35,243037,TE03.開発エンジニア／リモート相談可,['東京都'],600,800,"['SQL', 'Python', 'Node.js', 'TypeScript', 'AWS', 'Docker', 'Kubernetes', 'GCP']",株式会社 CFPコンサルティング,30
+36,227444,データサイエンティスト,['東京都'],544,1379,"['SQL', 'Python', 'R', 'AWS', 'Redis', 'Spark']",株式会社 リクルート,20767
+37,282510,データテクノロジスト【戦略的なデジタルマーケティング支援の根幹を支えるスペシャリスト】,['大阪府'],400,700,"['SQL', 'Python']",a-works 株式会社,38
+38,253161,AIエンジニア・データサイエンティスト,['大阪府'],500,700,"['C#', 'C', 'C++', 'Java', 'Python', 'React', 'TensorFlow', 'Keras']",PaMeLa 株式会社,9
+39,207594,データベースエンジニア,"['東京都', '神奈川県', '千葉県', '埼玉県']",400,600,['SQL'],フレックシステムズ 株式会社,56

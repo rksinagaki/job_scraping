@@ -1,8 +1,103 @@
 ﻿job_offer_id,job_offer_title,job_offer_name,client,photo_urls,job_offer_detail,job_offer_areas,job_offer_min_salary,job_offer_max_salary,job_offer_skill_names,job_offer_features,job_offer_new_flg,job_offer_updated_at_timestamp,is_send_user_favorite,other_job_offers,summaries,features,client_business,favorite_status,job_apply_status
-294081,当社 3人目社員・エンジニアメンバー募集｜受託開発/データエンジニアとして顧客課題を解決！,データエンジニア（メンバーポジション）,"{'id': 10667, 'name': '株式会社 cococo', 'title': '「ただ作る」では終わらせない。技術と対話力で、ビジネスを一歩前へ進める仲間を募集。', 'established_at': 1701356400, 'employee_count': 10, 'company_features': ['カジュアル面談歓迎'], 'logo_photo_url': 'https://www.green-japan.com/photo/728610'}","['https://www.green-japan.com/photo/728615', 'https://www.green-japan.com/photo/727445', 'https://www.green-japan.com/photo/723309']","お客様の抱える課題に対して、エンジニアリング力×問題解決力を武器にソリューションを提供していただきます。
-プロジェクトは様々ありますが、あなたのこれまでの経験や今後のWillを大事に、最適なプロジェクトにいただきます。
+294052,【AIエンジニア】話題の生成AIを駆使し、企業のDX推進を支援しませんか？,最先端AI技術を習得！未来を創る生成AIエンジニアを募集！,"{'id': 10529, 'name': '10X 株式会社', 'title': '宇宙産業への進出を視野に、ネットワークインフラ、SESで急成長を遂げる', 'established_at': 1580482800, 'employee_count': 20, 'company_features': ['カジュアル面談歓迎', '上場を目指す', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/693672'}","['https://www.green-japan.com/photo/732441', 'https://www.green-japan.com/photo/732442', 'https://www.green-japan.com/photo/732443']","• 生成AIを用いたシステム導入・開発
+• 音声データの分析・テキスト化・要約
+• 画像生成AIの開発・実装
+• チャットボットの設計・開発
+• レコメンド機能の開発","['東京都', '神奈川県', '千葉県', '埼玉県', '大阪府', '兵庫県', '京都府', '愛知県', '福岡県']",500,1040,"['Java', 'Python']","['リモート勤務の相談可', '学歴不問', '採用枠5名以上']",True,1755478318,True,[],[],['リモート勤務の相談可'],"{'photo_url': 'https://www.green-japan.com/photo/692720', 'name': '生成AIのプロジェクトに参画', 'introduction': '音声データ分析、画像生成、チャットボット開発など、多様なプロジェクトで経験を積み、市場価値の高いエンジニアを目指せます。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+293842,社会のあらゆる担い手が信頼でつながる新しい「公共OS」を一緒に作りませんか？,AI/NLPエンジニア（ナレッジグラフ＆セマンティックシステム）技術リーダー,"{'id': 10658, 'name': 'Polimill 株式会社', 'title': '生成AIの社会実装をリードする、ICTスタートアップ', 'established_at': None, 'employee_count': 20, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '平均年齢20代', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/713366'}","['https://www.green-japan.com/photo/731730', 'https://www.green-japan.com/photo/731728', 'https://www.green-japan.com/photo/729907']","■　役割と裁量
+技術戦略・スキーマ進化・IE/RAG方針・GraphOpsを横断して意思決定権を持つ担当役員級のテックリード。
+重要ユースケースのE2Eを設計し、品質基準と投資配分を決めます。
 
-また、創業から間もない為創業メンバーとして経営戦略や事業戦略にも携わっていただきたいと考えており、経営視点を座学だけでなく実践も交えながら学ぶことができます。将来的な起業も支援していきたいと考えています。",['東京都'],400,550,"['SQL', 'Python', 'AWS', 'Azure', 'GCP']","['リモート勤務の相談可', '業務委託契約可', 'クライアントワーク']",True,1755063987,True,[],[],"['リモート勤務の相談可', '業務委託契約可']","{'photo_url': 'https://www.green-japan.com/photo/728590', 'name': '提案力と技術力で伴走する「テックスタジオ（受託開発）事業」', 'introduction': 'DX推進や新規事業・ECサイト構築において、企画段階から関与。技術力と提案力で課題に向き合い、顧客と共にビジネスを創る伴走型のパートナーとして価値提供を目指しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+■　行政オントロジー／スキーマ設計／行政ナレッジグラフの設計と進化
+ドメイン概念・関係の抽象化、語彙／表記揺れポリシー、拡張可能なスキーマ設計。
+
+■　異種データ統合パイプラインのリード
+文書・地理・数値・ログを正規化し、同定してグラフへ統合。運用・セキュリティ・マルチテナント方針を定義。
+
+■　情報抽出（IE）の高度化
+LLM／ルール／辞書のハイブリッドでNER/RE/Eventを高精度化。データ改善ループと精度モニタリングの仕組みを設計。
+
+■　自然言語→意味クエリ基盤
+NL→Graph Query変換ロジックを設計し、根拠提示つき回答を返す仕組みを主導。RAG最適化と可観測性を整える。
+
+■　時空間×財務の横断アナリティクス
+地図・予算・契約・進捗の横断集計APIを設計。ダッシュボード連携で“行政の意思決定”に直結する可視化を実現。
+
+■　品質・ガバナンス／監査対応
+グラフ健全性検査、由来・変更履歴管理、アクセス制御と監査ログの標準を定義。
+
+■　MLOps／GraphOps
+実験管理～本番運用の自動化、SLO・コスト最適化の設計とレビュー。
+
+■　クロスファンクショナル牽引
+Eng/DS/政策アナリストを束ね、レビュー・メンタリング・採用にも関与。学術発信や特許化を歓迎。",['東京都'],1500,2200,[],"['リモート勤務の相談可', '服装自由', '語学を活かす', '多国籍な職場']",False,1755072008,True,"[{'id': 293843, 'title': '社会のあらゆる担い手が信頼でつながる新しい「公共OS」を一緒に作りませんか？', 'name': 'AI/NLPエンジニア（ナレッジグラフ＆セマンティックシステム）', 'min_salary': 1000, 'max_salary': 1500, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/731730'}]",[],['リモート勤務の相談可'],"{'photo_url': 'https://www.green-japan.com/photo/731731', 'name': '社会のあらゆる担い手が信頼でつながる新しい公共OS【Qommons】', 'introduction': '日本の行政に特化した「意思決定OS」です。市民・住民・企業・NPO・パブリックセクター・ヒューマノイド・社会インフラなどが参加する公共OSです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+294323,【フルリモート・フルフレックス】約5億円の資金調達済／SaaSプロダクトのソフトウェアエンジニア（AI）募集中！,ソフトウェアエンジニア（AI）,"{'id': 9210, 'name': '株式会社 kickflow', 'title': '『エンタープライズ企業の課題と向き合い、未来を切り拓く』稟議・ワークフローSaaSを提供するスタートアップ企業です', 'established_at': 1580482800, 'employee_count': 34, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/585616'}","['https://www.green-japan.com/photo/646776', 'https://www.green-japan.com/photo/646777']","稟議・ワークフローSaaS「kickflow」を提供して
+企業の経営速度や事業成長に大きく貢献し、エンタープライズ企業の課題解決が弊社のミッションです。
+ 
+kickflowのプロダクトチームは、正社員と業務委託（副業など）合わせて数名の極めて小規模なチームです。
+全員フルリモート体制でプロダクト開発を行っており、Slackと定期的なZoomでの定例でコミュニケーションしています。
+日々セールスチームやCSチームから寄せられるお客様の声を元に、どういう機能を提供することでお客様の課題を解決できるかを考えるところからリリースまでがエンジニアの領域となります。
+
+チームにはバックエンドが得意な人とフロントエンドが得意な人がいますが職種としては区別せず、未経験の分野は勉強しながらバックエンドもフロントエンドも両方担当することが多いです。
+ベンチャー風土のあるエキサイティングな環境で、自身の成長とともに会社の成長を牽引いただける方、お待ちしております！
+
+▍「kickflow」とは？
+『脱オンプレミス。大企業が使いやすいエンタープライズ向けクラウドワークフロー』
+kickflowは稟議・承認ワークフローにおける圧倒的な使いやすさと管理のしやすさを実現する次世代のクラウドワークフローです。
+今も残り続ける課題を解決し、企業の業務効率化を後押しします。
+オンプレミスのような柔軟性があり、またクラウドとして運用負荷が軽いサービスを実現しています。
+
+▍具体的な業務内容
+kickflowの新機能やユーザー体験の改善のための開発業務のうち、AI/LLMやエージェント技術を活用した技術検証から機能開発までを幅広く担当します。複雑な顧客の課題をAIにより解決することで、顧客価値を最大化し事業を成功に導くことがミッションです。
+
+■具体例
+・AIに関する技術の検証・評価
+・AIを活用した顧客や自社の課題解決の提案
+・AIを活用した本番環境への機能開発
+
+※ご希望に応じて将来的にテックリードをお任せすることもございます。
+
+変更の範囲：本人の希望がない限り業務内容の変更はございません。
+
+▍現在の課題
+kickflowでは2025年よりバリューに「AI 1st」を掲げて、全社的にAIを中心とした業務へ移行している途上にあります。プロダクト開発においてもAIを活用した機能開発の比重を上げていく予定ですが、AIの活用経験が豊富なエンジニアが不足しており、機能開発のスピードアップやAIの精度向上など課題は山積しています。
+
+▍今後取り組んでいきたいこと
+kickflowではすでに「AIオプション」としていくつかのAIを活用した機能をお客様向けに提供しており、このオプション機能にさらに付加価値を追加していくことを予定しています。直近では、稟議の申請前の自動レビューや、稟議の要約機能、ベクトル検索などを計画しています。
+
+また、kickflow以外の新規事業も計画しており、そちらでは最初からAIを中心に設計したAIネイティブなプロダクト開発を行う予定です。
+
+▍働き方
+フルリモートワークとなり、コアタイムなしのフレックスタイム制を導入しています。
+社員が裁量を持ちながら仕事ができる、働きやすい環境です。
+
+kickflowではさまざまなライフステージのメンバーが安心して長く働けるような会社でありたいと思っています。
+創業者がふたりとも子育てをしているように、
+それぞれのメンバーが仕事と家庭を無理なく両立させながら働くことができるような組織や制度を設計しています。",['フルリモート'],600,1600,"['Ruby', 'Ruby on Rails']","['フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'toB自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",True,1755481186,True,[],[],"['フルリモート', '週に1回以上のリモート', '副業可']","{'photo_url': 'https://www.green-japan.com/photo/646760', 'name': 'エンタープライズ向けクラウドワークフローSaaS『Kickflow』', 'introduction': '企業の経営速度を加速する次世代クラウドワークフローを提供します。\r\n「圧倒的な使いやすさ」と「機能性」を両立したkickflowで企業の課題解決をサポートします。\r\n'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+294243,【AIエンジニア】先端のAI技術で世界を驚愕させるプロダクトを開発したい方を募集！／リモート勤務可で働きやすさも◎,AIエンジニア(LLMを活用したAIエージェント開発),"{'id': 4556, 'name': 'VISITS Technologies 株式会社', 'title': '誰かの小さなアイデアを、世界を変えるイノベーションへと育てたい。', 'established_at': 1401548400, 'employee_count': 60, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', 'シェアトップクラス', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/558069', 'https://www.green-japan.com/photo/533595', 'https://www.green-japan.com/photo/533594']","【業務】
+＜概要＞
+AI開発チームのメンバーとして当社の中核となるAI領域のプロダクトの開発を担当していただきます。
+
+＜具体的業務＞
+LLMを活用したAIエージェントの設計と構築
+AIエージェント学習用の外部システムからのデータ収集と蓄積
+速度とトークン消費量を考慮したプロンプトのチューニングによる、最適な回答生成
+クラウド・コンテナ環境におけるWeb API構築
+
+＜体制・配属＞
+製品開発はフロントエンド、バックエンド、データサイエンスチームで構成されており、データサイエンスチームへの配属になります。
+
+＜主に使用するツール・環境＞
+・Visual Studio Code
+・GitHub
+・Azure AI Foundry(Azure Open AI)
+・Azure web apps for containers
+
+【やりがい】
+今までにないものを生み出すための大変さ、苦しみはありますが、考え抜いた自社のプロダクト・サービスが多くの企業で使われ、「このプロダクト・サービスには驚いた！これはすごい！」というユーザーの声を聞けることがやりがいです。
+
+【社内の雰囲気】
+和気藹々としつつも、仕事に対して誰よりも強く自覚と責任を持って仕事をしています。自分の意見を発していける一方、時にはぶつかることもありますが、「世界を良くしよう」という共通の信念をベースとしているので、「ではどうしたらいいか」「より良い方法はないか」と常に前向きな議論ができます。",['東京都'],700,900,"['Python', 'Azure']","['フルリモート', 'フレックスタイム', 'toB自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",True,1755162574,True,[],[],"['フルリモート', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/726203', 'name': 'マルチAIエージェントと独自AI技術で企業の課題解決を自動化するプロダクトを提供', 'introduction': 'マルチAIエージェントと独自AI特許技術を活用したプロダクト「VISITS forms」で、企業のあらゆる課題解決を自動化し、創造的な社会を目指します！'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
 267455,【データエンジニア（インハウス）】手軽でヘルシーな冷凍弁当 nosh（ナッシュ）を提供／D2C自社サービス,データエンジニア（メンバー）,"{'id': 6913, 'name': 'ナッシュ 株式会社', 'title': '＼速報／販売累計5,000万食突破！！おいしさと健康を両立する低糖質料理デリバリー『nosh』', 'established_at': 1464706800, 'employee_count': 460, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '平均年齢20代', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/559596'}","['https://www.green-japan.com/photo/421133', 'https://www.green-japan.com/photo/416747']","自社サービスのWebシステム開発を担うエンジニアを募集しています。
 
 ◾️◾️業務の一例◾️◾️　
@@ -29,6 +124,150 @@ CI：GitHub Actions
 エディタ：VSCode・IntelliJ IDEA・vim など、自由に選択可
 PC：MacBook Pro（M4チップ／メモリ32GB／512GB SSD）をはじめ、最新スペックのMacを支給
 モニター：デュアルモニターを標準支給。快適な開発環境を整備",['大阪府'],540,840,"['SQL', 'Python', 'AWS', 'Docker', 'MySQL', 'PostgreSQL', 'Lambda', 'Oracle', 'GCP', 'Redis', 'SQLServer']","['toC自社サービス', '転勤なし', '学歴不問', '服装自由']",True,1754970631,True,[],[],[],"{'photo_url': None, 'name': '糖質料理デリバリーサービス『nosh』', 'introduction': 'noshは健康を意識した糖質制限食を提供するデリバリーサービスです。専属料理人が調理した健康的で美味しい食事を冷凍でお届けします。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+294081,当社 3人目社員・エンジニアメンバー募集｜受託開発/データエンジニアとして顧客課題を解決！,データエンジニア（メンバーポジション）,"{'id': 10667, 'name': '株式会社 cococo', 'title': '「ただ作る」では終わらせない。技術と対話力で、ビジネスを一歩前へ進める仲間を募集。', 'established_at': 1701356400, 'employee_count': 10, 'company_features': ['カジュアル面談歓迎'], 'logo_photo_url': 'https://www.green-japan.com/photo/728610'}","['https://www.green-japan.com/photo/728615', 'https://www.green-japan.com/photo/727445', 'https://www.green-japan.com/photo/723309']","お客様の抱える課題に対して、エンジニアリング力×問題解決力を武器にソリューションを提供していただきます。
+プロジェクトは様々ありますが、あなたのこれまでの経験や今後のWillを大事に、最適なプロジェクトにいただきます。
+
+また、創業から間もない為創業メンバーとして経営戦略や事業戦略にも携わっていただきたいと考えており、経営視点を座学だけでなく実践も交えながら学ぶことができます。将来的な起業も支援していきたいと考えています。",['東京都'],400,550,"['SQL', 'Python', 'AWS', 'Azure', 'GCP']","['リモート勤務の相談可', '業務委託契約可', 'クライアントワーク']",True,1755063987,True,[],[],"['リモート勤務の相談可', '業務委託契約可']","{'photo_url': 'https://www.green-japan.com/photo/728590', 'name': '提案力と技術力で伴走する「テックスタジオ（受託開発）事業」', 'introduction': 'DX推進や新規事業・ECサイト構築において、企画段階から関与。技術力と提案力で課題に向き合い、顧客と共にビジネスを創る伴走型のパートナーとして価値提供を目指しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+271423,【創業4年で上場/大手クライアント多数】製造業へのAI実装を推進するAIコンサルティングエンジニア募集,【DX事業開発部】AIコンサルティングエンジニア,"{'id': 8646, 'name': '株式会社 VRAIN Solution', 'title': '大手製造業を中心に導入実績多数。国内AI関連で上位の実績を誇るAIベンチャー企業', 'established_at': 1582988400, 'employee_count': 97, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/553501'}","['https://www.green-japan.com/photo/492366', 'https://www.green-japan.com/photo/492370', 'https://www.green-japan.com/photo/491768']","製造業向けAIモデル開発・実装プロジェクトにおいてリサーチ・開発業務を行っていただきます。 単にアルゴリズムの検証を行うだけでなく、データの取得部分の改善や現場での運用を目的としたアプリケーションの実装まで幅広く関わっていただきます。 また、自社AIプロダクトの企画・プロト開発にも一部携わって頂く予定です。
+
+【プロジェクト事例】
+
+＜画像認識＞
+・外観検査
+・ロボットピッキング
+
+＜時系列解析＞
+・設備センサデータを用いた異常検知や予知保全
+・完成品の異音検査
+
+＜自然言語処理＞
+・特許文書調査
+・社内文書の検索
+・ナレッジグラフ生成
+
+＜数理最適化＞
+・生産スケジューリング最適化
+・配送計画最適化
+・設備制御最適化
+
+【具体的な業務】
+①開発・現場実装　※得意な分野のプロジェクトに参画 　
+・アルゴリズムリサーチ 　
+・エッジデバイス実装 　
+・クラウドデプロイ
+
+②資料作成・顧客折衝 　
+・定例MTGにおける資料作成・報告",['東京都'],320,800,"['Python', 'TensorFlow']","['業界未経験歓迎', 'toB自社サービス', '急募求人', '転勤なし', '採用枠5名以上']",False,1754959589,True,"[{'id': 271739, 'title': '【製造業×AI】製造業現場の課題解決に挑むAIテックリードエンジニア募集！', 'name': '【技術開発部】AIテックリード', 'min_salary': 800, 'max_salary': 1200, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/491768'}, {'id': 271741, 'title': '【AI×製造業】前例のない製造現場のAI実装を実現するするアルゴリズムエンジニア募集！', 'name': '【技術開発部】AIエンジニア', 'min_salary': 400, 'max_salary': 800, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/491768'}, {'id': 280839, 'title': '【製造業×AI】製造業向け自社開発プロダクトの画像処理エンジニア募集！（C++/並列処理）', 'name': '【技術開発部】画像処理エンジニア', 'min_salary': 500, 'max_salary': 800, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/492366'}, {'id': 280838, 'title': '【製造業×DX支援のAIスタートアップ】データエンジニア募集！', 'name': '【技術開発部】データエンジニア', 'min_salary': 600, 'max_salary': 900, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/492366'}]",[],['業界未経験歓迎'],"{'photo_url': None, 'name': '製造現場のDX支援AIコンサルティング事業', 'introduction': 'AI技術で製造業のDXを実現し、生産効率を向上させるコンサルティング事業です。画像認識や自然言語処理を駆使し、顧客に合わせたAIソリューションを提供しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+273756,LLM,AIエンジニア,"{'id': 10489, 'name': '株式会社 EQUES', 'title': '東京大学発のAIスタートアップ！「研究」と「サービス」を結び、社会実装を叶える', 'established_at': 1643641200, 'employee_count': 50, 'company_features': ['カジュアル面談歓迎', '平均年齢20代'], 'logo_photo_url': 'https://www.green-japan.com/photo/679493'}","['https://www.green-japan.com/photo/678400', 'https://www.green-japan.com/photo/678401', 'https://www.green-japan.com/photo/678402']","▍お任せすること
+・機械学習技術の社会実装
+・PythonやAWS等を用いたアルゴリズムやアプリケーション開発
+・生成AIの開発",['東京都'],450,1200,"['Python', 'AWS']","['リモート勤務の相談可', '業務委託契約可', 'フレックスタイム', '転勤なし', '学歴不問', '服装自由']",False,1736490000,True,"[{'id': 286530, 'title': '機械学習の知見を活かしたいPM募集！社会の発展を加速させる開発をここで。', 'name': 'PM・AIエンジニア', 'min_salary': 450, 'max_salary': 1200, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/678400'}]",[],"['リモート勤務の相談可', '業務委託契約可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/680104', 'name': 'AIソリューション開発業務', 'introduction': '参画プロジェクトはジョインの後に相談のもと、決定します。開発やPM業務から携わっていただき、ゆくゆくは事業責任者をおまかせしていきたいと思っております。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+292720,AIソリューションアーキテクト｜生成AIを活用したサービス開発をリード,AIソリューションアーキテクト／技術開発本部,"{'id': 8621, 'name': 'CPAエクセレントパートナーズ 株式会社', 'title': '会計を軸に教育から人材支援までNo.1を目指す', 'established_at': 999270000, 'employee_count': 435, 'company_features': ['上場を目指す', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/638564'}",['https://www.green-japan.com/photo/732663'],"■ 仕事内容
+当社が次の成長フェーズへ進むためには、ITの力を最大限に活かし、戦略的な打ち手を着実かつスピーディーに実行していく必要があります。
+
+本ポジションでは、以下の業務をお任せします：
+
+AI活用アイデアや企画に対しての技術的観点での仮説構築、PoCやプロトタイピングを通じての検証
+ソリューションの実現性(品質・コスト・スピードのバランス)を考慮した設計
+ソリューション設計を実現できるベンダーのアサイン、製品化までの技術的観点での管理
+プロダクトの利用状況をモニタリング・チューニングや改善",['東京都'],800,1500,"['AWS', 'TensorFlow']","['急募求人', '服装自由']",False,1755156323,True,[],[],[],"{'photo_url': 'https://www.green-japan.com/photo/727204', 'name': '「会計ファイナンス人材に貢献するインフラ企業」', 'introduction': '公認会計士資格スクール「CPA会計学院」、簿記検定や会計ファイナンスが無学べる「CPAラーニング」、会計ファイナンス人材特化型転職エージェント「CPASSキャリア」'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+269155,未経験から“AI事業のエンジニア”へ。【未経験歓迎/育成特化/ITパスポート取得支援】,未経験エンジニア,"{'id': 10393, 'name': '株式会社 ピアズ', 'title': '新常識を加速させる！開発部門を新設した通信キャリア向けセールス支援企業', 'established_at': 1104505200, 'employee_count': 815, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/667068'}","['https://www.green-japan.com/photo/687918', 'https://www.green-japan.com/photo/668673', 'https://www.green-japan.com/photo/668659']","◆1年間を目処に技術研修からスタート
+当社では、未経験からIT業界で活躍できるよう、*約1年をかけた研修プログラム「BOOTCAMP」*をご用意しています。
+動画教材はいつでも何度でも視聴可能。加えて、現役エンジニアによる実践的な補足研修で、着実にスキルが身につきます。
+さらに、IT業界の登竜門「ITパスポート」取得も全力でサポート。
+学びの質と量、どちらも大切にしています。
+
+◆AIも、インフラも、コンサルも。あなたの未来を広げるキャリアパス
+AIや自社サービス開発をはじめ、アプリ開発、ITコンサルティングなど、多彩なプロジェクトがそろっています。
+ー未経験から目指せるキャリアは以下の通りー
+システムエンジニア / インフラエンジニア
+AIエンジニア / UI・UXデザイナー
+Webマーケター / DXコンサルタント など
+入社後に方向性を見極めてから進めるため、「やってみて決める」が可能です。
+
+◆最初は“初心者向け”案件で安心スタート！
+「いきなり難しい開発は不安…」という方もご安心ください。
+まずは、以下のような初心者向けの実務からスタートできます
+・スマホアプリの動作チェック
+・テスト評価・データ入力
+・PCの初期設定（キッティング）
+・ヘルプデスク・コールセンター
+など少しずつ経験を積みながら、自信をつけて次のステップへ進めます。",['東京都'],280,360,[],"['職種未経験歓迎', '業界未経験歓迎', '急募求人', '転勤なし', '学歴不問', '採用枠5名以上']",False,1748232670,True,[],[],"['職種未経験歓迎', '業界未経験歓迎']","{'photo_url': 'https://www.green-japan.com/photo/667173', 'name': '人材ソリューション事業', 'introduction': 'エンジニア人材の育成やクライアント様の開発人材不足を解決するべくSES（System Engineering Service）事業を展開しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+131157,ChatGPT等の先端技術の開発エンジニア,【東京】エンジニア（ChatGPT等の先端技術の開発）【ID0000069】,"{'id': 5067, 'name': '株式会社 ジェーエムエーシステムズ', 'title': '自由な発想を出し合い新しい分野へ技術を展開する環境と風土があります！', 'established_at': 57769200, 'employee_count': 329, 'company_features': ['自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/545077'}","['https://www.green-japan.com/photo/418733', 'https://www.green-japan.com/photo/601954', 'https://www.green-japan.com/photo/601959']","最新の技術の調査やそれを使ったシステムの開発を行っており、新しい価値やサービスの検討や提案に取り組んでいます。ここで考えられたものを実現するためにインフラ構築からアプリケーション開発まで行っています。
+
+直近では生成型AI（Azure OpenAI、Amazon Bedrock）が会社でどのように利用できるか提案し開発を行っています。
+
+【具体的な仕事内容】
+・先進技術の調査
+・システムの企画、検討、提案
+・クラウドサービスを使ったインフラ構築
+・アプリケーションの開発",['東京都'],699,1084,"['AWS', 'Azure', 'Google Cloud Platform']","['週に1回以上のリモート', 'フレックスタイム', '学歴不問', '服装自由']",False,1755477042,True,[],[],"['週に1回以上のリモート', 'フレックスタイム']","{'photo_url': None, 'name': 'AWSを活用したクラウドインテグレーションサービス', 'introduction': 'AWSを駆使したシステム構築やクラウド移行サービスを提供しています。顧客の業務課題を最新クラウド技術で解決し、柔軟なシステム環境を実現します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+99076,"◥◣機械学習・ＡＩ・データサイエンティスト◢◤2025年内に""完全""未経験からプロのエンジニアになりませんか？/専⾨講師による3ヶ⽉の研修/ラクスグループ(プライム上場)/機械学習モデル・データ分析・画像処理etc",【機械学習・データサイエンティスト】/Openworkスコア3.9（上位１％）,"{'id': 7022, 'name': '株式会社 ラクスパートナーズ', 'title': '【楽楽精算・プライム上場ラクスG】元ITスクールのノウハウを活かした3ヶ月の超実践型研修アリ／1,700名以上の育成実績／９割が未経験スタート！', 'established_at': 1519830000, 'employee_count': 1108, 'company_features': ['カジュアル面談歓迎', '平均年齢20代', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/591531'}","['https://www.green-japan.com/photo/730420', 'https://www.green-japan.com/photo/643728', 'https://www.green-japan.com/photo/664661']","まずは3ヶ月の研修からスタート！
+研修でしっかりと基礎を身につけ、最先端の機械学習プロジェクトで活躍！
+※研修中も給与支給あり。
+
+【研修内容】
+＜1ヶ月目：統計学／エンジニアリング＞
+統計学
+- データの可視化と数値要約
+- 確率と確率分布
+- 統計的推測
+- 統計的仮説検定
+- 単回帰分析
+
+エンジニアリング
+- SQL基礎
+- python基礎
+- pandas基礎
+- Git基礎
+
+▼
+＜2ヶ月目：多変量解析と機械学習＞
+- 機械学習の基礎
+- 機械学習の基本的な手法
+　・線形回帰モデル
+　・主成分分析
+　・k-means法　など
+- 機械学習の発展的な手法
+　・ロジスティック回帰モデル
+　・ハイパーパラメータ最適化
+　・決定木
+　・ランダムフォレスト
+　・線形SVM　など
+
+▼
+＜3ヶ月目：機械学習の実践＞
+- Numpy,Pandas演習
+- AWS EMRを用いたHive演習
+- ロジスティック回帰を用いた演習
+- リッジ回帰、Kerasを用いた演習
+- 推薦システムについての演習
+
+
+【研修を終えたらプロジェクトへ】
+研修後は、大手・有名企業からITスタートアップまで様々なプロジェクトで活躍！
+
+■プロジェクト例
+- 自社広告データとサードパーティデータを活用したデータ分析による広告最適化
+- 飲食口コミサイトのログデータや検索ワード集計によるレコメンド
+- 医用画像・動画解析/環境構築/Python/Fine-tuning/転移学習
+- 自動運転ソフトウェア開発に関わる画像処理、画像認識
+- 車載 画像処理系の機械学習モデルの実装
+- 決済サービスにおける顧客データ分析
+- AIベンダーでの各業界に特化した機械学習モデル実装　など",['東京都'],370,880,"['SQL', 'Python', 'AWS', 'Keras', 'pandas']",[],False,1754300777,True,[],[],[],"{'photo_url': 'https://www.green-japan.com/photo/658765', 'name': 'IT人材育成特化のプロフェッショナル育成事業', 'introduction': 'ITエンジニアへの道を開く研修と支援に特化した人材育成事業です。経験の浅い応募者を対象に、ITプロジェクトでの成功を支える技術と知識を提供します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+293284,【長期/フルリモート】POS・天候・販促情報を活用した物販の販売予測モデル構築エンジニア募集,【業務委託】販売予測モデル構築エンジニア,"{'id': 7683, 'name': '株式会社 Prazto', 'title': 'Salesforce×SaaS導入・運用の伴走支援事業で大切にするのは社員の心と自分らしさ', 'established_at': 1546268400, 'employee_count': 30, 'company_features': ['カジュアル面談歓迎'], 'logo_photo_url': 'https://www.green-japan.com/photo/552753'}","['https://www.green-japan.com/photo/388530', 'https://www.green-japan.com/photo/552769', 'https://www.green-japan.com/photo/552765']","【プロジェクト概要】
+物販（青果物・日配品・一般消費財など）の販売実績 × 天候 × 販促情報を組み合わせ、統計解析を使用したモデル構築・需要予測システムを構築していただく長期案件です。
+実務でのモデルを開発・運用した経験を重視します！
+モデル構築後は精度改善とナレッジ共有を継続的にお願いする想定です。
+
+▼業務内容
+・データ前処理：POS・天候・販促データのクレンジング/特徴量設計
+・統計解析を使用したモデル構築
+・モデル評価・改善
+・ナレッジ共有：コード・ドキュメント整備、社内勉強会での知見共有
+
+★求める人物像
+年齢や性別、上下に関係なく、互いをプロフェッショナルとして認め高め合えることが、Prazto最大の強みです。クライアントはもちろん、ご自身の課題に真摯にそしてとことん向き合い、解決し続けられる方を求めています。",['フルリモート'],200,0,"['SQL', 'Python']","['フルリモート', '副業可', '業務委託契約可', 'クライアントワーク', '転勤なし', '学歴不問', '服装自由']",False,1755502873,True,[],[],"['フルリモート', '副業可', '業務委託契約可']","{'photo_url': None, 'name': 'Salesforce中心のSaaS導入コンサルティング事業', 'introduction': 'Salesforceを中心に、企業課題解決のためのSaaS導入支援を行っています。高い技術力で企業の成長を支援し、課題解決に向けた最適なソリューションを提供します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
 288361,シリーズC13億｜ビッグデータ人材｜事業を支えるデータオペレーションスタッフ,◢◤ビッグデータ人材◢◤データオペレーションスタッフ,"{'id': 10165, 'name': 'TRUSTART 株式会社', 'title': '不動産データベースを活用したSaaSを開発する不動産TECHスタートアップ', 'established_at': 1588258800, 'employee_count': 31, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/663499'}","['https://www.green-japan.com/photo/657812', 'https://www.green-japan.com/photo/657774']","◢◤期待する役割◢◤
 急成長中の不動産ビッグデータ事業において、データの収集・加工・提供を担うデータオペレーションスタッフとして、サービスの根幹を支える重要な役割を担っていただきます。具体的には、不動産データの収集、データのクレンジング・検証、データ加工、データベースへの登録といった業務に携わっていただきます。
 データの品質管理はサービスの信頼性に関わる重要な要素となるため、正確かつ迅速な作業が求められます。また、データ分析チームと連携し、データの精度向上や新たなデータ活用方法の提案にも貢献していただきます。
@@ -41,46 +280,47 @@ PC：MacBook Pro（M4チップ／メモリ32GB／512GB SSD）をはじめ、最�
 データ関連業務の効率化・自動化の検討
 顧客からのデータ関連問い合わせ対応
 など",['東京都'],400,800,"['SQL', 'Python']","['週に1回以上のリモート', 'リモート勤務の相談可', '時短勤務可', '業務委託契約可', 'toB自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",False,1755156777,True,[],[],"['週に1回以上のリモート', '時短勤務可', '業務委託契約可']","{'photo_url': 'https://www.green-japan.com/photo/666676', 'name': '不動産ビッグデータ提供サービス『R.E.DATA』', 'introduction': '当社独自に収集した不動産データ。『R.E.DATA』はお客様のニーズに合わせて、当社が保有するビッグデータからお客様の価値創出のために適切なデータを提供するサービスです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-187679,【データ未経験OK】データエンジニア募集！エンジニア経験がある方大歓迎（研修制度・スキルアップ制度充実/在宅勤務制度有り/顧客直取引/クラウドメイン）,（職種未経験者歓迎）データエンジニア,"{'id': 6167, 'name': '株式会社 メンバーズ メンバーズデータアドベンチャーカンパニー', 'title': 'データと意思と情熱で、心豊かな社会をつくる。', 'established_at': 801932400, 'employee_count': 2303, 'company_features': ['カジュアル面談歓迎', '上場', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/527112'}","['https://www.green-japan.com/photo/597691', 'https://www.green-japan.com/photo/597692', 'https://www.green-japan.com/photo/496911']","大手企業・IT目がベンチャーを中心に、出勤または自宅からリモート環境で常駐先のデータ分析基盤の構築・運用業務を担当して頂きます。
-エンジニアとしてシステム開発経験やSQLの業務利用経験があればOKです！弊社ではデータエンジニアは未経験だけど、基幹システム開発やWebアプリ開発、ＰＭの経験があるエンジニアが多数活躍しています！！
+238837,データエンジニア経験者募集！データ領域に特化してスキルを磨いていきませんか？,データエンジニア（経験者）,"{'id': 6167, 'name': '株式会社 メンバーズ メンバーズデータアドベンチャーカンパニー', 'title': 'データと意思と情熱で、心豊かな社会をつくる。', 'established_at': 801932400, 'employee_count': 2303, 'company_features': ['カジュアル面談歓迎', '上場', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/527112'}","['https://www.green-japan.com/photo/597432', 'https://www.green-japan.com/photo/597430', 'https://www.green-japan.com/photo/496911']","データをビジネス上の価値に繋げるためのデータ分析環境の構築をお任せします。
+データ活用を効率的に行うための、データ分析基盤の構築はもちろん、運用・定着化まで支援していきます。
 
 【具体的な仕事内容】
-スキルやご経験、今後のキャリアプランに合わせて、主に①、②の業務をお任せします。
-データ分析基盤構築の経験がない方であれば、データエンジニア研修で知識をインプットしてから常駐からスタートします。
+スキルやご経験、今後のキャリアプランに合わせて、主に①、②、③の業務をお任せします。
 
-①データのビジュアライゼーション
-データ分析基盤からデータを抽出、可視化する業務を行っていただきます。例えば、SQLでデータマートを作成し、データマートからのデータの集計をBIツール（Tableau、 Google Data Portalなど）で行います。また、Tableauダッシュボードを自動更新するためにBIとDWHのデータパイプラインを構築することもあります。
+①データ活用のためのデータ分析基盤構築・運用
+クライアントが持つビッグデータを活用するためのデータ分析基盤を構築していただきます。開発環境はAWSやGoogleCloud、Snowflakeなどクラウドメインで、要件整理、データ連携（ETL）、データ蓄積（DWH）を行い、データ利用者がデータを利用できるように様々なデータ分析環境を整える業務です。クライアントの業務フローやデータの構造を把握したり、クライアントの要望をヒアリングするなど上流工程からかかわることも多いです。
 
-②データ活用のためのデータ分析基盤構築・運用
-クライアントが持つビッグデータを活用するためのデータ分析基盤を構築していただきます。開発環境はAWSやGCPなどクラウドメインで、要件整理、データ連携（ETL）、データ蓄積（DWH）を行い、データ利用者がデータを利用できるように様々なデータ分析環境を整える業務です。
-クライアントの業務フローやデータの構造を把握したり、クライアントの要望をヒアリングするなど上流工程からかかわることも多いです。
+②データ分析環境を開発するためのPM業務
+クライアント先でデータ活用を推進するためにプロジェクトリーダーを担っていただきます。顧客が抱えている課題のヒアリングをし、どのように実現していくかを設計していきます。複数名のメンバーのマネジメントを行うこともあります。
 
-その他にも、データ分析環境を開発するためのPM業務、機械学習モデルの開発、常駐先でのスキルトランスファーなどを行っていただく場合もあります。
+③データのビジュアライゼーション、生成AIの活用
+可視化や機械学習はアナリストやサイエンティストが行うことが多いですが、エンジニアリングが必要な場合や社員のスキルに応じてデータエンジニアがこの領域を担うことがあります。
+ビジュアライゼーションでは、データマートの作成、データマートからのデータの集計をBIツール（Tableau、Googleデータポータルなど）で行います。また、生成AI活用ではクライアントの社内業務効率化を目的に生成AI環境を構築していただきます。
+
+その他にも、常駐先でのスキルトランスファーなどを行っていただき、クライアント社内でのデータ活用内製化を支援していきます。
+
+＜プロジェクトについて＞
+クライアントはIT系から通信・金融・アパレル・物流など、幅広い業界の大手有名企業が多数揃います。担当するフェーズも当社のエンジニアが、要件など最上流から関わるケースがほとんどです。また、1年以上の長期案件に携わりますので、腰を据えてじっくりと経験を積んでいただけます。
 
 ■開発環境の例（案件によりますが、以下環境が多いです）
-言語：SQL、Python、R
-クラウド：AWS（EC2、Lambda、S3、Athena等）、GCP（Compute Engine、Cloud Functions、Cloud Storage、BigQuery等）
-RDB：MySQL、PostgreSQL
+言語：SQL、Python
+インフラ：GoogleCloud、AWS、Terraform
+DWH：BigQuery、Redshift(+Spectrum)、Snowflake
 ソースコード管理：GitHub
-コミュニケーションツール：Slack
-BI：Tableau、Googleデータポータル、QuickSight
-扱うデータ：テーブルデータ中心（売上データ、POSデータ、webサイトアクセスデータ、会員情報など）
+BI：Tableau、DOMO、Googleデータポータル、QuickSight　など
 
-■タスクの例
-・SQLを用いてクライアントの依頼に合わせたテーブル作成やデータ抽出を行う。
-・SQLでデータマートを作成。データマートからのデータの集計をBIツール（Tableau、 Google Data Portal）で行う。
-・Tableauダッシュボードを自動更新するため、GCP/BigQuery上のDWHをベースとしてデータパイプラインを構築する。
+【取り扱うデータ】
+売上データ、POSデータ、Webサイトアクセスデータ、会員情報などのテーブルデータが中心
+※案件により異なります
 
-【社員が語る会社の魅力】
-常駐型でありながら会社の中でも団結がしっかりしているというところだと思います。勉強会が頻繁に開かれていたり、そのコミュニティからの発信が多いこと、また帰社会という形でDAの社員全員が集まる機会があることで自然と帰属意識や繋がりみたいなことを感じています。
-前職では業務システムのバックエンドの開発を行っておりデータエンジニアは未経験でしたが、こういった環境の中で新しい知識を得てスキルアップできていると思います。
+【社員が語る会社の面白さ】
+弊社のデータエンジニアは上流から、実装、保守まで広い範囲を任されることが多いと感じています。なかなかできないことだと私は思うのでその経験ができていることがこの会社の面白さだと思います。クライアントからのオーダーがふわっとしていることもあるので、オーダーした人と話して何が必要なのかを理解し、実際に画面を見せて見たり、提案して、という経験は今までなかったのでそこは勉強になってます。幅広くやるので大変だなと感じる人もいると思いますが、自分は面白いと思えるタイプなので弊社でのデータエンジニアの仕事は面白いしプラスになっています！
 
 【入社後の流れ】
-入社後約1ヶ月はGCPなどの研修を受けていただきながら常駐先の案件を選定していきます。常駐先が決定しましたら、出勤または在宅勤務で業務を開始していただきます。基本的には今ある経験・スキルを活かしながら、やったことがない・やりたい業務を経験できる案件に入り、常駐中も勉強会などでインプットしながら実務でアウトプットして成長していって欲しいと思っています。
+入社後はGCPなどの研修と並行して常駐先の案件を選定していきます。常駐先が決定しましたら、出勤または在宅勤務で業務を開始していただきます。基本的には今ある経験・スキルを生かしながら、やったことがない・やってみたい業務を経験できる案件に入り、常駐中も勉強会などでインプットしながら実務でアウトプットして成長していって欲しいと思っています。
 
-少しでも興味を持っていただけましたら、オンラインカジュアル面談で一度お話しができればと思います。ちょっと話を聞いてみたい、この部分の詳細が知りたい！など、お気軽にご連絡ください。
-ぜひ、ご応募をお待ちしております！
-※面談/面接はすべてオンラインにて実施しております。","['東京都', '神奈川県']",400,600,"['C', 'SQL', 'Java', 'Python', 'R', 'AWS', 'MySQL', 'PostgreSQL', 'Lambda', 'GCP']","['職種未経験歓迎', '業界未経験歓迎', '副業可', '急募求人', '転勤なし', '学歴不問', '採用枠5名以上']",False,1755160718,True,"[{'id': 238837, 'title': 'データエンジニア経験者募集！データ領域に特化してスキルを磨いていきませんか？', 'name': 'データエンジニア（経験者）', 'min_salary': 500, 'max_salary': 850, 'areas': ['東京都', '神奈川県'], 'photo_url': 'https://www.green-japan.com/photo/597432'}, {'id': 273505, 'title': '【データエンジニア／生成AIエンジニア】顧客直取引／生成AI経験者歓迎！／DX推進／生成AIを用いたシステム・アプリケーション開発を行うエンジニア募集', 'name': 'データエンジニア／生成AIエンジニア（東京エリア）', 'min_salary': 450, 'max_salary': 500, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/597692'}]",[],"['職種未経験歓迎', '業界未経験歓迎', '副業可']","{'photo_url': None, 'name': 'データ活用デジタルプロフェッショナルサービス', 'introduction': '顧客企業の業績向上を支えるデータ活用型プロフェッショナルサービスを提供します。AWSやGCPを使ってビッグデータ分析基盤を構築し、データのビジュアル化を推進します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+少しでも興味を持っていただけましたら、カジュアル面談の実施も可能です。
+ご応募お待ちしております。
+※オンラインにて実施しております。","['東京都', '神奈川県']",500,850,"['SQL', 'Python', 'AWS', 'GCP']","['副業可', '急募求人', '転勤なし', '学歴不問', '採用枠5名以上']",False,1755160761,True,"[{'id': 187679, 'title': '【データ未経験OK】データエンジニア募集！エンジニア経験がある方大歓迎（研修制度・スキルアップ制度充実/在宅勤務制度有り/顧客直取引/クラウドメイン）', 'name': '（職種未経験者歓迎）データエンジニア', 'min_salary': 400, 'max_salary': 600, 'areas': ['東京都', '神奈川県'], 'photo_url': 'https://www.green-japan.com/photo/597691'}, {'id': 273505, 'title': '【データエンジニア／生成AIエンジニア】顧客直取引／生成AI経験者歓迎！／DX推進／生成AIを用いたシステム・アプリケーション開発を行うエンジニア募集', 'name': 'データエンジニア／生成AIエンジニア（東京エリア）', 'min_salary': 450, 'max_salary': 500, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/597692'}]",[],['副業可'],"{'photo_url': None, 'name': 'データ活用デジタルプロフェッショナルサービス', 'introduction': '顧客企業の業績向上を支えるデータ活用型プロフェッショナルサービスを提供します。AWSやGCPを使ってビッグデータ分析基盤を構築し、データのビジュアル化を推進します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
 267012,最先端技術を駆使して、顧客の課題を解決していくデータエンジニア募集,データエンジニア,"{'id': 10030, 'name': '株式会社 ヘッドウォータース', 'title': 'AIを通じて顧客の経営課題を解決する国内トップのAIテックカンパニー集団', 'established_at': 1130770800, 'employee_count': 127, 'company_features': ['カジュアル面談歓迎', '上場', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/603897'}","['https://www.green-japan.com/photo/602672', 'https://www.green-japan.com/photo/602674', 'https://www.green-japan.com/photo/602673']","・データアーキテクチャ設計、データベース最適化、データ・パイプラインの構築などを通して多様なプロジェクトへ参画する
 ・データ分析チーム、AI開発チームと密接に協力し、効率的で安全かつ迅速なデータの収集・保存・検索等を実現し、信頼性高く、価値あるデータ主導のソリューションを組織に提供する
 ・ビックデータシステムに携わり、オープンソーステクノロジーを活用する
@@ -96,7 +336,7 @@ BI：Tableau、Googleデータポータル、QuickSight
 ・データブリックスのSIコンサルティングパートナーに認定
 ・伊藤忠商事様：「バーチャルオフィス」の生成AI及び Microsoft Fabric等のデータプラットフォーム活用支援
 ・ローソンで店舗DXに向けたエッジAI活用による実証実験を2023年3月～8月に実施 ～エッジAI技術を用いた棚分析や顧客行動分析がオペレーションの効率化を実現～
-・渋谷区都市データ連携基盤・実装委託事業者に選定されました ～ 日本マイクロソフトと連携し、渋谷区の都市データ連携基盤構築を支援～","['東京都', 'フルリモート']",600,900,"['C', 'C++', 'JavaScript', 'SQL', 'Java', 'Python', 'Node.js', 'Hadoop', 'TypeScript', 'AWS', 'Docker', 'Apache', 'IoT', 'Azure', 'Spark']","['フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', '時短勤務可', 'フレックスタイム', 'クライアントワーク', '服装自由', '採用枠5名以上']",False,1755066318,True,[],[],"['フルリモート', '週に1回以上のリモート', '副業可', '時短勤務可', 'フレックスタイム']","{'photo_url': None, 'name': '最先端AI技術ソリューションサービス', 'introduction': '最先端AI技術を活用し、顧客の課題解決とビジネス成功を支援します。ディープラーニングや機械学習を駆使し、多様な分野で新たな価値を提供します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+・渋谷区都市データ連携基盤・実装委託事業者に選定されました ～ 日本マイクロソフトと連携し、渋谷区の都市データ連携基盤構築を支援～","['東京都', 'フルリモート']",600,900,"['C', 'C++', 'JavaScript', 'SQL', 'Java', 'Python', 'Node.js', 'Hadoop', 'TypeScript', 'AWS', 'Docker', 'Apache', 'IoT', 'Azure', 'Spark']","['フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', '時短勤務可', 'フレックスタイム', 'クライアントワーク', '服装自由', '採用枠5名以上']",False,1755066318,True,"[{'id': 241358, 'title': '最先端技術を駆使して、顧客の課題を解決していくAIエンジニア募集', 'name': 'AIエンジニア', 'min_salary': 600, 'max_salary': 900, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/602672'}]",[],"['フルリモート', '週に1回以上のリモート', '副業可', '時短勤務可', 'フレックスタイム']","{'photo_url': None, 'name': '最先端AI技術ソリューションサービス', 'introduction': '最先端AI技術を活用し、顧客の課題解決とビジネス成功を支援します。ディープラーニングや機械学習を駆使し、多様な分野で新たな価値を提供します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
 226213,【データエンジニア】開発経験を活かしてデータ領域に挑戦（FLINTERS BASE社採用）,データエンジニア BASE,"{'id': 6440, 'name': '株式会社 FLINTERS', 'title': '社会に役立つ事業を通じて未来につながる火を灯そう', 'established_at': 1388502000, 'employee_count': 90, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', 'シェアトップクラス', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/528543'}","['https://www.green-japan.com/photo/610307', 'https://www.green-japan.com/photo/415196', 'https://www.green-japan.com/photo/610308']","【データエンジニアとは？】
 多種多様なデータを統合・活用する基盤を構築し、企業のビジネス成長を支援する職種です。
 マーケティングデータやユーザーデータなどを活用する仕組みを設計し、企業の意思決定を加速させます。
@@ -131,360 +371,573 @@ IaCツール：Terraform
 ▼まずはカジュアル面談からOK▼
 「データエンジニアってどんな仕事？」
 「自分の経験でも挑戦できる？」
-そんな疑問からでも大歓迎です。ぜひ一度、お話ししましょう！","['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県']",350,450,"['SQL', 'Python', 'AWS', 'Docker']","['職種未経験歓迎', '業界未経験歓迎', 'フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'フレックスタイム', 'クライアントワーク', '急募求人', '転勤なし', '学歴不問', '服装自由', '語学を活かす', '採用枠5名以上', '多国籍な職場']",False,1754363438,True,"[{'id': 273394, 'title': 'テックリードとしてチームを牽引し、自己実現しませんか？', 'name': 'データエンジニア リーダー候補', 'min_salary': 600, 'max_salary': 1000, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/670088'}, {'id': 238018, 'title': '★裁量を持って成長できる！デジタルマーケティング領域のデータエンジニア募集★', 'name': 'データエンジニア', 'min_salary': 500, 'max_salary': 700, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/526917'}, {'id': 275115, 'title': '【エンジニア初心者歓迎】データエンジニアとして市場価値上げて活躍しませんか？（FLINTERS BASE社採用）', 'name': 'データエンジニア未経験', 'min_salary': 350, 'max_salary': 450, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/532094'}, {'id': 270344, 'title': '【データエンジニア】電通×セプテーニ グループ｜データ×アプリで幅広い領域に挑戦！裁量労働制◎エンジニアドリブンで働きやすい環境', 'name': 'データエンジニア【データ×アプリ】', 'min_salary': 500, 'max_salary': 700, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/670088'}]",[],"['職種未経験歓迎', '業界未経験歓迎', 'フルリモート', '週に1回以上のリモート', '副業可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/670089', 'name': 'データ統合と活用を推進するDX支援サービス', 'introduction': '多様なデータの統合とAI技術を活用し、企業のDXを支援します。デジタルマーケティングとAI技術を駆使して、ビジネスの最適化を実現します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-286281,【リモート可／残業15h未満】データエンジニア／大手クライアントPJ多数／平均昇給率7.7%!,データエンジニア（データ基盤構築）／リードエンジニア,"{'id': 3452, 'name': '株式会社 エスタイル', 'title': '【コウキシンが世界をカクシンする】AI・データサイエンスによって課題解決&価値提供を行います！様々なビジネスシーンで、DX化を加速させます！', 'established_at': 1151679600, 'employee_count': 63, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '平均年齢20代', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/546825'}","['https://www.green-japan.com/photo/711207', 'https://www.green-japan.com/photo/455080', 'https://www.green-japan.com/photo/727282']","◆業務例
-データ活用を前提に、クライアントと密に連携をとりながら、データを収集・整理・管理したりするデータ活用基盤の設計・構築・運用・定着化させていきます。
+そんな疑問からでも大歓迎です。ぜひ一度、お話ししましょう！","['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県']",350,450,"['SQL', 'Python', 'AWS', 'Docker']","['職種未経験歓迎', '業界未経験歓迎', 'フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'フレックスタイム', 'クライアントワーク', '急募求人', '転勤なし', '学歴不問', '服装自由', '語学を活かす', '採用枠5名以上', '多国籍な職場']",False,1754363438,True,"[{'id': 238018, 'title': '★裁量を持って成長できる！デジタルマーケティング領域のデータエンジニア募集★', 'name': 'データエンジニア', 'min_salary': 500, 'max_salary': 700, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/526917'}, {'id': 270344, 'title': '【データエンジニア】電通×セプテーニ グループ｜データ×アプリで幅広い領域に挑戦！裁量労働制◎エンジニアドリブンで働きやすい環境', 'name': 'データエンジニア【データ×アプリ】', 'min_salary': 500, 'max_salary': 700, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/670088'}, {'id': 275115, 'title': '【エンジニア初心者歓迎】データエンジニアとして市場価値上げて活躍しませんか？（FLINTERS BASE社採用）', 'name': 'データエンジニア未経験', 'min_salary': 350, 'max_salary': 450, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/532094'}, {'id': 273394, 'title': 'テックリードとしてチームを牽引し、自己実現しませんか？', 'name': 'データエンジニア リーダー候補', 'min_salary': 600, 'max_salary': 1000, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '茨城県', '栃木県', '群馬県'], 'photo_url': 'https://www.green-japan.com/photo/670088'}]",[],"['職種未経験歓迎', '業界未経験歓迎', 'フルリモート', '週に1回以上のリモート', '副業可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/670089', 'name': 'データ統合と活用を推進するDX支援サービス', 'introduction': '多様なデータの統合とAI技術を活用し、企業のDXを支援します。デジタルマーケティングとAI技術を駆使して、ビジネスの最適化を実現します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+286288,【AIに関わるテックリード】将来の技術責任者を募集中◎/安定した基盤を活用しながら、AIインテグレーションを行う「スタートアップカンパニー」で自由度高く挑戦したい方大歓迎！,【AIテックリード】将来的に技術責任者として新技術の導入・検証の裁量権をお渡しします！/子会社BTMAIZへの出向,"{'id': 5042, 'name': '株式会社 BTM', 'title': 'Mission『日本の全世代を活性化する』を軸に、躍進を続ける上場IT企業\u3000｜\u3000東証グロース上場×りそな銀行提携×柔軟な就業環境・安心の福利厚生', 'established_at': 1312124400, 'employee_count': 201, 'company_features': ['カジュアル面談歓迎', '上場', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/688983'}","['https://www.green-japan.com/photo/709574', 'https://www.green-japan.com/photo/677358', 'https://www.green-japan.com/photo/706069']","BTMAIZは、東証グロース市場に上場している株式会社BTMの子会社として
+「日本をAI先進国に、人生を豊かに。」という壮大なMissonのもと2025年1月17日創業を開始し、
+AI分野におけるソリューション提供を行っています。
 
-■具体的には
-・分析を前提としたデータベースの要件定義
-・パブリッククラウド基盤(AWS/GCP)へのシステム構築
-・DWHシステム開発
-・技術動向の調査／検証
-・データ分析基盤システム運用
-・BIツールやダッシュボードの開発、運用
-・データサイエンティスト・データアナリストへの技術的サポート
-など
+国内DX市場は2030年に5兆円、AIビジネス、生成AI市場はともに
+2兆円に迫る勢いで拡大をしておりまして、
+これから少子高齢化における生産人口の減少を解決する中核であると考えております。
 
-◆扱う製品例
-・Google Cloud Platform
-・CDP（TreasureData）
-・Tealium
-・AWS
-・Azure
-・Databricks　など",['東京都'],500,650,"['SQL', 'AWS', 'Azure', 'Google Cloud Platform', 'GCP']","['業界未経験歓迎', '週に1回以上のリモート', 'リモート勤務の相談可', 'クライアントワーク', '服装自由']",False,1755241114,True,"[{'id': 285940, 'title': '【リモートOK／残業15h未満】データエンジニア／データ基盤構築エンジニア／ワークライフバランス重視', 'name': 'データエンジニア／データ基盤構築エンジニア', 'min_salary': 400, 'max_salary': 600, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/595235'}]",[],"['業界未経験歓迎', '週に1回以上のリモート']","{'photo_url': None, 'name': 'エスタイルのデータサイエンス事業', 'introduction': 'AIとDXを活用し、社会課題を解決するデータサイエンスを推進します。未経験者を積極採用し、「コウキシン」を重視するAI・データ活用事業です。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-236056,データ基盤エンジニア募集！クラウド移行プロジェクトに参画しませんか？,データ基盤エンジニア,"{'id': 7819, 'name': '株式会社 grasys', 'title': 'パブリッククラウドを用いて多様な顧客を課題解決に導く', 'established_at': None, 'employee_count': 48, 'company_features': [], 'logo_photo_url': 'https://www.green-japan.com/photo/561146'}","['https://www.green-japan.com/photo/561113', 'https://www.green-japan.com/photo/561116', 'https://www.green-japan.com/photo/561117']","■仕事内容
-代表と共に、顧客の課題解決に技術面から積極的に参加していただきます。
-このプロセスを通じて、様々な業界のビジネス課題を技術的に解決する経験を積むことができます。
-その結果、技術応用の範囲が広げることができると考えています。
-ぜひ私たちと一緒に、技術を活用して課題解決を行い、技術者として実現と貢献をしていきましょう。 
+現在、様々な企業様のAIへ挑戦したいというAIニーズが非常に高まっており、
+当社の主力サービスとなるAIソリューションへ多くの企業様からお問い合わせをいただいております。
+また株式会社ヘッドウォータース社との資本提携により、すでに複数のAI案件に関する
+ご相談をいただいている状況です。
 
-■エンジニアとして成長に必要な体験と経験ができる環境
-エンジニアの成長に必要なものには体験と経験があると考えています。
-grasysはその体験と経験に以下の要素が重要だと定義しています。
+このような背景を踏まえ、早期に顧客の皆様のニーズにお応えし、
+会社の成長を加速させるため立ち上げフェーズを一緒になってリードしていただける
+AIテックリードポジションをメインとした将来の技術責任者を募集いたします。
 
-- 技術的リソース
-    - 投入可能なコンピューティングリソース
-    - ナレッジ
-- プロジェクト
-    - 実際に手を動かして対応できる環境
-    - 実際の課題や問題解決
-- メンターシップ
-    - 周りのエンジニアとの活発な意見交換によるInput/Output
-    - システムレビュー
-    - 日頃からの技術的なコミュニケーション",['東京都'],400,700,"['Python', 'Docker']",[],False,1754553427,True,[],[],[],"{'photo_url': None, 'name': 'パブリッククラウド活用のWeb・データ基盤開発', 'introduction': 'パブリッククラウドを駆使しWebアプリとデータ基盤の開発を手掛けるチームです。スキル向上を支援する環境で、広範な技術習得の機会が豊富にあります。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-291176,【PM募集！】年商数億円の事業を支える！福岡D2C企業でAI×広告自動化システム開発！,バックエンド、フルスタック、プロジェクトマネージャー,"{'id': 10756, 'name': 'and roots 株式会社', 'title': 'D2CやWEBコンサルなど事業の多角化で社員のビジョン達成を支援する会社', 'established_at': 1346425200, 'employee_count': 170, 'company_features': ['カジュアル面談歓迎', '平均年齢20代', '自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/724408'}","['https://www.green-japan.com/photo/724277', 'https://www.green-japan.com/photo/724278', 'https://www.green-japan.com/photo/725504']","年商数百億、社員150名のグループ会社全体を技術面から支える少数精鋭のデータエンジニア組織です。「デジタル技術の専門家として、and rootsの1人ひとりが事業の本質と向き合える時間を創る」をチームミッションに、各社がより働きやすく、データドリブンな組織になるよう最新技術で課題解決を行います。
+■仕事概要■
+AI、IoTなど最先端技術を活用した
+Webシステム、アプリ、ロボット開発プロジェクトにおいてテックリードポジションとして、
+アーキテクチャ設計から運用・改善まで、プロジェクトの全ライフサイクルに携わっていただきます。
 
-【チームの主な業務内容】
-■データインジェスション・モデリング
-グループ会社全体のデータを統合し、信頼性の高いデータ基盤を構築します。
+主に携わっていただきたい業務内容は以下となります。 
+・プロダクトマネージャーやプロダクトデザイナーとの仕様策定 
+・プロダクト開発計画の策定及び推進 
+・コードやアーキテクチャのレビュー 
+・新技術の選定（調査、検証、PoCなど）
+・開発メンバーへの技術フォロー
+・提案段階の案件に対する技術フォロー（営業商談同席）や見積作成や見積レビュー
 
-■レポーティング・ダッシュボード開発
-各社の意思決定を支える分析レポートと可視化ツールを提供します。
+また、2025年1月設立のスタートアップ企業の創業メンバーとして、
+組織づくりや企業文化の構築にも参画し、経営陣と共に会社を創っていくという
+やりがいのあるポジションも合わせて担っていただきたいと思います。
 
-■DX推進・業務効率化
-API連携による業務自動化システムの開発や、最新AIツールを活用した業務改善支援を行います。
+****************************************************
+【あなたの可能性を最大限に開花】
 
-【開発環境・技術スタック】
-■フロント：React (Next.js)／Tailwind CSS
-■バックエンド：Python (FastAPI)／Node.js (NestJS)
-■データ基盤：BigQuery／dbt ／Supabase
-■インフラ：GCP（Cloud Run, Cloud Functions, Cloud Storage, Netlify 他）
-■CI/CD：GitHub Actions／Terraform
-■コミュニケーション：Slack／Notion",['福岡県'],440,600,"['Python', 'Node.js', 'React', 'AWS', 'Azure', 'GCP']","['リモート勤務の相談可', '副業可', '急募求人', '転勤なし', '学歴不問', '服装自由']",False,1753492204,True,[],[],"['リモート勤務の相談可', '副業可']","{'photo_url': 'https://www.green-japan.com/photo/725438', 'name': '年商数百億のD2C企業をデータで動かす「データエンジニア組織」', 'introduction': '年商数百億のD2C企業を「データの力」で動かす少数精鋭組織。「最新AI技術」を駆使したデータ基盤構築から「全社DX推進」まで、最先端テクノロジーで事業成長を加速させます。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-258668,【データエンジニア】急成長のHRTech企業でAIとデータ基盤を駆使しDXをリードするデータエンジニアを募集,データエンジニア,"{'id': 6853, 'name': '株式会社 テックオーシャン', 'title': 'パナソニック、東京エレクトロン、AGCなど日本を代表する大手企業が導入する注目のHRTech企業', 'established_at': 1527778800, 'employee_count': 74, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/675527'}","['https://www.green-japan.com/photo/523494', 'https://www.green-japan.com/photo/693786', 'https://www.green-japan.com/photo/712044']","■株式会社テックオーシャンについて
-弊社は、理系・テクノロジー人材と企業の出会いを支援するオファー型サービス「TECH OFFER」を主力サービスとして提供しています。学生のスキルや志向性を可視化し、企業と高精度にマッチングすることで、理系人材の可能性が正しく評価される環境を実現します。
+BTMAIZは「年功序列」は一切なく、一人ひとりの能力とポテンシャルを重視する風土です。
+これまでの実績はもちろん、新しいことに挑戦する意欲や、未来を創り出す力を持った方を
+積極的に抜擢します。当社で、あなたのキャリアを大きく飛躍させませんか？","['東京都', 'フルリモート']",700,1000,"['AWS', 'TensorFlow', 'IoT', 'Azure']","['フルリモート', '副業可', 'フレックスタイム', 'toB自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",False,1755479023,True,"[{'id': 285314, 'title': '【AIに関わるテックリード】創業期の中核メンバー募集！/フルリモート可能/上場企業子会社のため、安定した基盤を活用しながら、AIインテグレーションを行う「スタートアップカンパニー」で幅広く挑戦したい方大歓迎！', 'name': '【AIテックリード】創業期の中核メンバー募集！/子会社BTMAIZへの出向', 'min_salary': 700, 'max_salary': 1000, 'areas': ['フルリモート'], 'photo_url': 'https://www.green-japan.com/photo/709574'}, {'id': 291192, 'title': '【フルリモート\u3000Python未経験可\u3000PM、SE、PG、テックリードと幅広く募集中！】Azureを活用した生成AI開発で急成長！プロンプトエンジニアを大募集。自由度の高い「AIスタートアップ」であなたの経験値を高めませんか？', 'name': '【プロンプトエンジニア】Azure AIに特化した急成長企業！自由度高く開発経験を活かしませんか？', 'min_salary': 400, 'max_salary': 900, 'areas': ['東京都', '神奈川県', '千葉県', '埼玉県', '大阪府', '兵庫県', '京都府', '愛知県', '北海道', '青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県', '茨城県', '栃木県', '群馬県', '新潟県', '富山県', '石川県', '福井県', '山梨県', '長野県', '岐阜県', '静岡県', '三重県', '滋賀県', '奈良県', '和歌山県', '鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県', '福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県', '沖縄県', 'フルリモート'], 'photo_url': 'https://www.green-japan.com/photo/641482'}, {'id': 281118, 'title': '【リモート可\u3000グロース上場企業子会社】AIに特化した子会社へ出向\u3000AIテックリードとしてAI時代を創りませんか。', 'name': 'AI技術で世の中を変革するテックリード職', 'min_salary': 500, 'max_salary': 900, 'areas': ['フルリモート'], 'photo_url': 'https://www.green-japan.com/photo/686570'}, {'id': 285454, 'title': '【AIエンジニア】創業期の中核メンバー募集！/フルリモート可能/上場企業子会社のため、安定した基盤を活用しながら、AIインテグレーションを行う「スタートアップカンパニー」で幅広く挑戦したい方大歓迎！', 'name': '【AIエンジニア】創業期の中核メンバー募集！/スタートアップ企業で自由度高く開発経験を活かしませんか？', 'min_salary': 400, 'max_salary': 700, 'areas': ['フルリモート'], 'photo_url': 'https://www.green-japan.com/photo/643521'}]",[],"['フルリモート', '副業可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/677359', 'name': '「日本をAI先進国に、人生を豊かに。」を叶える｜株式会社BTMAIZ', 'introduction': '株式会社ヘッドウォータースと資本業務提携し、「日本をAI先進国に、人生を豊かに。」という壮大なMissonのもと、AI分野におけるソリューション提供をします。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+287457,【プリンシパルエンジニア／CTOパートナー】toC領域 × LLM社会実装——“会話で仕事発見”するAIジョブサーチを創る,プリンシパルエンジニア（生成AI/LLM関連）,"{'id': 9772, 'name': '株式会社 Carat', 'title': '生成AI/LLMを活用したプロダクト開発。新たな価値を発明し続けるHR Tech企業', 'established_at': 1480518000, 'employee_count': 10, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/559353'}","['https://www.green-japan.com/photo/715290', 'https://www.green-japan.com/photo/715453', 'https://www.green-japan.com/photo/600641']","■ AIジョブサーチとは、どのようなサービスであるのか
+「AIジョブサーチ」は生成AI/大規模言語モデル（LLM）を活用し、自然言語による求人検索ができるサービスです。
+2023年11月にリリースしたばかりの新しいプロダクトですが、現在、非正規雇用の方々を中心に、月間3万人のアクティブユーザーに利用されています。
+LLMを活用したプロダクト開発は非常に面白く、新たな挑戦であると同時に、難しさも日々感じています。
+今後は、ユーザーはまるで優秀な人材エージェントと話しているかのように、カジュアルかつ効率的に自分に合った仕事を見つけられるサービスを目指しております。
 
-現在、理系の就職活動の在り方は、技術系学生の特性に適しておらず、就活時のミスマッチによって年間約5億時間分の学習努力が社会に活かされないという構造的な課題があります。私たちは、若者の時間と努力を無駄にしない社会の仕組みを創るために、教育と採用の接続を再設計しています。
+■ Caratが目指したい世界線
+我々が実現したいのは、求職者が「探す」のではなく「出会える」転職体験です。生成AIがユーザーの意図や潜在的なニーズを深く理解し、最適な求人だけでなく、キャリアパスや働き方に関する示唆を提供することも目指しています。
+まさに人材エージェントの代替となる「AIエージェント」を実現し、個人の可能性を最大限に引き出し、より最短で、より良い仕事、より良い未来に繋がるプラットフォームとなることです。
+これは、単なる転職マッチングに留まらず、日本の「働く」をもっと豊かに、人生の総価値を上げる社会の実現に貢献できると信じています。
 
-一人ひとりの学びが未来につながり、社会全体がより豊かになる——その未来をテクノロジーと仕組みの力で支える仲間が、今、テックオーシャンに集まっています。
+■ なぜ、やろうと思ったのか
+従来の転職・採用活動には、求職者が情報収集に苦労したり、自分に合った求人を見つけにくかったり、企業側が求める人材になかなかリーチできなかったりといった多くの「負」が存在します。 
+Caratは創業以来、機械学習による求人レコメンデーションアプリ「GLIT」などを通して、こうした非効率を解消することを目指してきました。そして、近年進化が著しい生成AI/LLMの登場により、パーソナライズされた対話と求人提案をテクノロジーで実現できる体験設計と技術可能性が見えてきました。
+これにより、より多くの人が、時間や場所に縛られずに、自分のキャリア選択により一層満足できる世界を目指しています。この大きな課題に対し、生成AI/LLMという最新技術で挑戦するため、「AIジョブサーチ」の開発に着手しました。
+
+■ 直面している課題・面白さ
+LLMの柔軟性を活かしつつも、求人検索として正確かつユーザーが期待するUXをどのように提供するか、といった挑戦的な課題があります。
+早期にマネタイズも開始し一定の成果は出ていますが、PMF（プロダクトマーケットフィット）の達成に向け、ユーザーの期待値を満たせていない部分や、サービスの精度・安定性など、乗り越えるべき課題は数多くあります。
+過去のアセットとしての機械学習による求人レコメンデーション開発経験も活かしつつ、これらの課題を特定し、技術とプロダクトの両面から高速で改善を回していくフェーズです。
+
+■ お任せしたいミッション
+・AIジョブサーチの事業成長をさせるための、アーキテクチャ設計・技術選定
+・応募数増加に必要な、求人レコメンドにおけるRAG／ベクトル検索基盤の構築とモデル(OpenAI/Gemini/Claude等)及びパラメーター最適化
+・直近立ち上げる予定の新規HRプロダクトの0→1立ち上げ（企画/PoC/実装/デリバリーまで）
+・開発チームの生産性最大化（開発プロセス改善、採用・育成、ナレッジ発信）
+※ 技術スタック：Python（FastAPI）、AWS（ECS Fargate／OpenSearch など）、TypeScript（Expo + React Native）、Terraform ほか
+※ ChatGPT Team, Cursor, Devin, GitHub CopilotなどのAIツールを導入しており、生産性が向上するAIツールはどんどん導入していく予定でございます","['東京都', 'フルリモート']",800,1200,"['C#', 'C', 'C++', 'PHP', 'Ruby', 'Java', 'Python', 'Scala', 'Go', 'React', 'TypeScript', 'AWS', 'Azure', 'Rust', 'GCP', 'React Native', 'Fargate', 'SRE']","['フルリモート', '副業可', 'フレックスタイム', 'toC自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",False,1755249686,True,[],[],"['フルリモート', '副業可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/650956', 'name': '対話型求人検索サービス「AIジョブサーチ」', 'introduction': '対話を通して自然言語による求人検索ができ、複数の求人サービスをアグリゲーションしているため、数百万件の求人情報の中からAIによる求人提案を受け取ることが可能です。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+99690,【大阪発の自社サービス/大阪勤務】累計取扱高5兆円を超えるSaaS★ユーザー向け新規事業開発に挑むAIエンジニア募集！,AIエンジニア（⼤阪）,"{'id': 5109, 'name': '株式会社 スマレジ', 'title': '上場SaaS｜レジのスタンダードを変えるクラウドPOS「スマレジ」｜データを活用した新時代の店舗運営を支援', 'established_at': 1114873200, 'employee_count': 322, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/532792'}","['https://www.green-japan.com/photo/416064', 'https://www.green-japan.com/photo/248384', 'https://www.green-japan.com/photo/409059']","AIエンジニアとして、スマレジに蓄積されるビッグデータを活用して小売店向けの新規事業開発を担当する方を募集します。
+弊社は元々受託開発をしてきた会社であり役員もみなエンジニア出身です。
+そのため、エンジニア視点でプロダクトの良さを追求しています！
+
+＝＝＝＝＝＝＝＝＝【開発環境】＝＝＝＝＝＝＝＝＝
+　■言語 : Python
+　■ツール：Jupyter Notebook, Docker, Sequel Pro
+　■インフラ：AWS（S3, Aurora, Redshift等）
+　■バージョン管理、コラボレーションツール：GitLab（マージリクエストベースでレビューを実施）, slack
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+当社のデータを活用し、将来的にサービス展開を考えている小売店向けの新規事業開発をお任せします。POSシステムの販売を元に蓄積してきたビックデータを活用し、世の中にないものを創っていただくことがメインのミッションになります。入社後はご経験に合わせて統計解析などのデータ分析やIoT機器、システム開発に取り組んでいただいても構いません。
+
+たとえば、カメラ認証による来客分析サービス（POS情報と連携した人物、属性カウント滞在時間、売り上げとのデータ分析など）を想定しています。
 
 
-プロダクトや組織の成長に伴い、社内外に散在するデータを横断的に活用する基盤整備が急務となっており、データ活用の土台をつくるデータエンジニアを募集します。
+※従事すべき業務の変更の範囲：会社の定める業務
+※本人の希望を考慮します",['大阪府'],400,800,"['Python', 'AWS', 'Docker', 'IoT', 'Jupyter']","['急募求人', '転勤なし', '服装自由']",False,1755068452,True,[],[],[],"{'photo_url': None, 'name': 'アパレル・飲食店に最適なクラウド型POSレジ「スマレジ」', 'introduction': '業界最高峰の機能を持つクラウド型POSレジ「スマレジ」が、店舗運営をサポートします。モバイルを活用し、リアルタイムで売上管理やデータ集計を可能にするシステムです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+99087,データサイエンティスト,データサイエンティスト,"{'id': 6991, 'name': '株式会社 ピープルドット', 'title': 'ビジネスにフォーカスしたデータサイエンティストの育成で企業の競争力強化に貢献', 'established_at': 1485874800, 'employee_count': 45, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', 'グローバルに活動'], 'logo_photo_url': 'https://www.green-japan.com/photo/631460'}","['https://www.green-japan.com/photo/488316', 'https://www.green-japan.com/photo/488315']","企業のデータ活用に関する課題を解決するコンサルティングやデータ分析をお任せします。
 
-■具体的な業務内容
-１，データ基盤構築・運用
-これからさらに多角的な分析を行うための整備を進めていきます。本ポジションでは、ゼロベースでスケーラブルかつ再利用可能なデータ基盤を構築し、継続的に運用していただきます。
+1. 顧客企業へのプロジェクトの提案補助
 
-主な業務：
-・各種SaaS（Salesforce、MAツール、Google Analytics、CS管理ツール等）やプロダクトDBからのデータ収集・統合
-・データレイク、データウェアハウス、データマートの3層構造の設計・構築
-・ETL/ELTパイプラインの構築・運用
-・クラウドDWHへのスキーマ設計と最適化
-・バッチ処理・スケジューラーの自動化および障害監視設計
-・追加データのスムーズな取込に向けた拡張性の確保
+顧客ヒアリングやワークショップなどを通じてクライアント企業の課題を整理し、解決への道筋を提示しながら、提案活動を行います。場合によっては、提案書作成も行います。
 
-２，データ品質の維持
-構築した基盤は「つくって終わり」ではありません。日々の運用で発生するデータの変化やエラーへの対応、データ品質の維持向上が不可欠です。また、情報の一貫性・信頼性を担保し、社内で安心して活用される状態を目指します。
+【主に当社に寄せられる課題の例】
 
-主な業務：
-・データのクレンジング処理（形式統一・欠損補完・重複排除）
-・スキーマバージョン管理・リネージ設計（どのデータがどこから来て、どう変換されたかを追える設計）
-・データディクショナリやカタログの整備と運用
-・データ利用権限やアクセスログの管理によるセキュリティ対策
+データドリブンな企業文化への変革プロジェクト
+自社データを活用したマーケティングやオペレーション改善の支援
+AIを活用した新規事業立ち上げ
+データ分析チームの立ち上げ
+AI関連スタートアップのM&Aに関わるデューデリジェンス
 
-３，社内連携・支援
-社内では、マーケティング、セールス、プロダクトマネジメントなど、さまざまな部門がデータを必要としています。本ポジションでは「作ったデータをどう使ってもらうか」「どんな問いを解決できるか」という観点で支援・連携を行います。
+2. プロジェクトの進行およびデータ分析
 
-主な業務：
-・各部門からの「こんな分析がしたい」ニーズをヒアリングし、要件定義・マート設計
-・BIツール導入・設計支援
-・ダッシュボード作成やKPI定義の伴走
-・PdM・マーケターと連携したABテストや行動分析の支援
+クライアント企業と密接にコミュニケーションを取りながら、データの受け渡しや、データベースの構築、データ分析作業、資料作成等を行います。
 
-【業務変更の範囲】
-その他会社サービスおよび運営に関わる業務一式
+3.（ご自身の適性や希望に応じて）コンテンツ企画・開発
 
-【働き方について】
-原則フルリモート",['東京都'],600,900,"['SQL', 'Python', 'Hadoop', 'Salesforce', 'Spark']","['業界未経験歓迎', 'フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', 'toC自社サービス', 'toB自社サービス', '転勤なし', '服装自由']",False,1755153372,True,[],[],"['業界未経験歓迎', 'フルリモート', '週に1回以上のリモート']","{'photo_url': None, 'name': '理工系学生向けリクルーティングサービス「TECH OFFER」', 'introduction': 'TECH OFFERは理工系学生に特化し、企業に求められる人材を効率よく集められます。大学研究室データとAIを活用し、理工系採用のDXを推進する画期的なサービスです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-154493,【データエンジニア】ビッグデータ時代を支える分析基盤を創るデータエンジニアチームのリーダーを募集しています！,データエンジニア（リードエンジニア）※副業・リモート可！モダンな開発環境！【デジタルパートナー事業部】,"{'id': 3470, 'name': '株式会社 ビットエー', 'title': '「デジタル課題を解決し、企業のビジネス成長を加速する」ものづくりプロフェッショナル集団', 'established_at': 1309446000, 'employee_count': 196, 'company_features': ['カジュアル面談歓迎', '上場を目指す', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/627895'}","['https://www.green-japan.com/photo/564610', 'https://www.green-japan.com/photo/571847', 'https://www.green-japan.com/photo/415651']","【ミッション】
-－プロフェッショナルなチームでセカイを変える。－
+コンサル事業で得た知見、ナレッジをメソッドとして昇華させて、スクールや法人研修で使用するコンテンツを作ります。",['東京都'],600,1200,"['SQL', 'Python', 'R']","['転勤なし', '服装自由']",False,1730945872,True,[],[],[],"{'photo_url': None, 'name': 'データサイエンス教育事業', 'introduction': '日本で先駆けてデータサイエンススクールを設立し、年間2000名以上に教育を提供。ビッグデータ、AI、機械学習の知識を深めるプログラムを通して、専門職を育成します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+286419,即戦力優遇！ハイレベルSQLエンジニア募集,SQLを利用したABEMAのデータ分析,"{'id': 10684, 'name': '株式会社 シーエー・アドバンス', 'title': '沖縄のインターネット産業の未来を創る', 'established_at': 1212246000, 'employee_count': 1685, 'company_features': ['カジュアル面談歓迎', '平均年齢20代', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/713063'}","['https://www.green-japan.com/photo/712465', 'https://www.green-japan.com/photo/712464', 'https://www.green-japan.com/photo/712461']","■業務内容
+・データサイエンティストチームの組織マネジメント、育成
+・サービス成長のためのデータ分析
+・KPI分解やセグメント分析などによる仮説立案
+　例）ボトルネックの特定と打ち手の考察
+・ABテストやダッシュボード設計によるPDCA体制の構築
+　例）データ分析を基に実施した施策の良し悪しを判定および改善策の導出",['沖縄県'],540,720,['SQL'],[],False,1748427608,True,[],[],[],"{'photo_url': 'https://www.green-japan.com/photo/712466', 'name': '総合映像プラットフォームの運営事業', 'introduction': 'エンターテインメントの未来を拓く総合映像プラットフォームの運営事業で、多彩なコンテンツを配信しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+128433,【進化計算の分野で日本一を目指したい！】産学連携でのAI研究・開発を担当するエンジニア大募集！,AIエンジニア(進化計算),"{'id': 2892, 'name': '株式会社 タイムインターメディア', 'title': '創業24周年の技術者集団。 確かな技術力・豊富な実績をもとに、多種多様な案件を手掛けるシステム会社のパイオニア', 'established_at': 891356400, 'employee_count': 106, 'company_features': ['上場', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/392343', 'https://www.green-japan.com/photo/392344', 'https://www.green-japan.com/photo/469082']","【こんなお仕事です】
+進化計算の研究開発をご担当いただきます。
+技術成熟度レベル(Technology readiness levels ,TRL) で言えば、TRL3の作業が中心になり、基礎研究から応用への橋渡し部分になります。
+主な内容としては、さまざまな分野について進化計算の適用の可能性、効果などを具体的に判断するためのPoC(Proof of Concept)を作成していただきます。
+なお、顧客への提案、課題解決方法の具体的な提示としてPoCを作成していただくこともあり、顧客とのミーティングに参加することもあります。
+また、進化計算を専門とする大学院の研究室と連携しながら業務を進めることがあります。
 
-テクノロジーは想像以上のスピードで進化しています。
-これまでは、〈ビジネス領域〉に精通したリーダーが企業を牽引していくことがスタンダードでした。しかしながら、昨今テクノロジーやクリエイティブなどの〈専門領域〉に軸足を置いたリーダーが、新しいサービスを創造し、世界的企業に導くケースが多く生まれています。
+【働く環境について】
+■ノートPCを支給。機種、OS等はあなたのリクエストに応えます。
+そのほか、希望に応じてモニター（23.8インチ）を支給。
+またマウスやキーボード、スタンド等周辺機器も自由にカスタマイズOK。勿論会社で負担します◎
 
-私たちは、〈専門領域〉のプロフェッショナルとしてビジネス課題に向き合い、テクノロジーとクリエイティブから生み出されるアイデアで企業成長に寄与し、パートナーとして、ともに発展することを目指します。
+■リモートワークと出社してのオフィスワークを織り交ぜた、ハイブリッド勤務を推奨。
+そのため、週の半分以上（3～4日）はリモートワークで仕事をしている社員が多数います。
+また、オフィスの各箇所にアルコール消毒液を配置。
+社内の会議スペースにはアクリル板を設置しており、飛沫感染対策を徹底しています。
 
-【事業内容】
-日本企業のIT人材不足に対し、ITのプロフェッショナルとしてクライアントのビジネスに大きく貢献する企業として年々存在感を強めるbitA。当方はbitAの中核であるデジタルパートナー事業部です。
+■規模はプロジェクトによりますが、大体2~5名ぐらいのチームで取り組んでいます。
+毎日朝11時から、約10分程度のデイリースクラムで進捗確認を行うほか、SlackやZoomなどのツールを併用しながら、常に気軽に相談できるようにしています。",['東京都'],400,650,"['C#', 'C', 'C++', 'Java']","['転勤なし', '学歴不問', '服装自由']",False,1651122738,True,[],[],[],"{'photo_url': None, 'name': '進化計算を活用したAI研究・開発事業', 'introduction': '進化計算を活用し、AIの研究・開発を推進する重要な役割を担います。PoCを通じて進化計算の可能性を追求し、顧客の課題解決に貢献します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+167082,【データサイエンティスト（AI活用）】IPアドレスをもとに様々な情報を判定する技術「IP Geolocation」を提供する国内オンリーワン企業 #昇給年2回 #年間休日123日 #福利厚生充実！,【データサイエンティスト（AI活用）】IPアドレスをもとに様々な情報を判定する技術「IP Geolocation」を提供する国内オンリーワン企業です。,"{'id': 5479, 'name': '株式会社 Geolocation Technology', 'title': '静岡発・“IP Geolocation”技術を提供する国内唯一の企業!', 'established_at': 949330800, 'employee_count': 59, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/291338', 'https://www.green-japan.com/photo/528770', 'https://www.green-japan.com/photo/466238']","◎年2回昇給あり
+◎ChatGPT 有料版 利用可能
 
-デジタルパートナー事業部では、クライアントビジネスの検討段階から伴走し、課題の見極めからプロダクトのサービス設計、技術の選定、制作から運用、グロース支援まで一貫してソリューションを展開することで、クリエイティブ側からビジネス課題解決を行うボトムアップ型のビジネスモデルを実行しています。
+自社サービスの利用ログや外部のさまざまなデータと当社のIP Geolocation技術を組み合わせ分析し、不正取引の検知、マーケティング効率の向上などインターネットをより安全、便利にするためのモデルの構築とシステムへの組み込みを行います。
 
-ユーザーに本質的な価値を届け、サービスをグロースさせるところに特化しており、”クライアントに言われたものを作るのが仕事ではなく、クライアントの事業／Webサービスの成長を実現するのが我々の仕事である”という考えのもと、事業責任者／サービス責任者と共に膝を突き合わせながらコンセプトや施策を考え、実行・運用に落とし込む体制を提供することで評価を得てきました。
+人による判断が必要な業務においてAIや機械学習を用いて業務の効率化を行い、自社サービスから収集したデータデータを分析、改善点を導き出し、開発内容の検討を行なってもらいます。
+フルリモートでの業務ですが、コミュニケーションツールにより、業務の共有、相談をいつでもできる環境です。
 
-【職務内容】
-デジタルパートナー事業部の”データエンジニア（リードエンジニア）”として、分析基盤の構築・運用やデータ活用プロジェクトの技術的リードを担っていただきます。
-顧客の業種や課題に応じた最適なデータ基盤設計、データパイプラインの構築、データマートの整備など、幅広い領域での技術支援をお任せします。
-※変更範囲：全ての業務への配置転換あり
-
-【仕事内容の例】
-以下のような業務を想定しています：
-・クラウド環境（AWS/GCP/Azure等）におけるデータ分析基盤の設計・構築・運用
-・ETL/ELT処理やデータパイプラインの設計・実装・改善
-・分析用データマートやDWHの設計・実装・保守運用
-・SQLによるデータ抽出・集計処理の開発
-・BIツール導入・データ可視化支援
-・チームの技術リード、コードレビュー、プロジェクト推進
-・クライアントの要件整理、課題ヒアリング、提案支援
-
-【主な取引先】※全体の9割が直案件
-エイベックス / 三菱電機 /トラストバンク / キヤノンマーケティングジャパン / ユニクロ / パナソニック / カシオ計算機 /電通グループ / KADOKAWA / パーソルキャリア / デルフィス /日本経済新聞社 / 博報堂グループ / LINE 他、多数",['東京都'],600,1000,"['SQL', 'Python', 'AWS', 'Apache', 'Azure', 'GCP']","['週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'クライアントワーク', '急募求人', '転勤なし', '学歴不問', '服装自由', '採用枠5名以上', '多国籍な職場']",False,1755054825,True,"[{'id': 269193, 'title': '【BIエンジニア】企業のデータドリブンな意思決定を支えるBIエンジニアを募集しています！', 'name': 'BIエンジニア【デジタルパートナー事業部】', 'min_salary': 550, 'max_salary': 900, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/309006'}]",[],"['週に1回以上のリモート', '副業可']","{'photo_url': 'https://www.green-japan.com/photo/648190', 'name': 'デジタルパートナー事業部', 'introduction': '大手クライアントのデジタル領域の課題を解決するためのソリューションを提供する事業。CLの事業担当者と膝を突き合わせて議論しながら、事業課題を解決するための設計/実装を行う'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-293113,【大阪】データ活用を推進！データエンジニア（Python/AWS/SQL）◆分析基盤構築・運用経験者募集,【大阪】データ分析基盤を支えるデータエンジニア（Python/SQL/クラウド）,"{'id': 7528, 'name': 'ワークスアイディ 株式会社', 'title': '人とテクノロジーのチカラで“働くをデザインする”会社', 'established_at': 930754800, 'employee_count': 1538, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '残業少なめ'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/710236', 'https://www.green-japan.com/photo/710235', 'https://www.green-japan.com/photo/577523']","ワークスアイディでは、様々なプロジェクトで大量のデータを活用した分析やサービス開発が活発に進んでいます。これらのプロジェクトの成功を、データ基盤の専門家として支えるのがデータエンジニアの役割です。
-
-データエンジニアの仕事は、単にデータを処理するだけではありません。お客様のビジネスニーズを理解し、その実現に必要なデータ環境を設計・構築し、運用していくことで、「データドリブンな意思決定」を強力に支援します。
-
-【具体的な業務内容】
-あなたのミッションは、データ活用の最前線で、データ基盤の設計・構築・運用を通じてお客様のビジネスを加速させることです。幅広い業務を通じて、最先端のデータ技術とビジネス貢献のスキルを身につけることができます。
-
-１．データ収集・抽出
-お客様のビジネスに必要なデータを、多様なソース（データベース、API、ファイルなど）から効率的に収集・抽出します。SQLだけでなく、各データベースの特性を理解した最適な方法でデータにアクセスします。リアルタイムデータの処理パイプライン構築も行います。
-
-２．データクリーニング・品質向上
-抽出されたデータは、分析に適さないことがほとんどです。欠損値の補完、異常値の検出と処理、データの標準化・正規化、重複データの排除などを行い、データの品質を向上させます。データの整合性や正確性を確保するための検証ルール設計・実装も担当します。
-
-３．データ変換・加工（ETL/ELT）
-収集・クリーニングされたデータを、分析やサービス開発に適した形式に変換・加工します。データの構造化、正規化・非正規化、集計などを行います。Python（Pandasなど）やDWH/ETLツール（Redshift, BigQueryなど）を活用し、効率的なデータパイプラインを構築します。
-
-４．データ格納・管理
-加工されたデータを、データウェアハウス（Redshift, BigQuery）やデータレイク（Amazon S3など）といった最適な場所に格納し、効率的に管理します。データの検索性能向上や容量効率化のための最適化、データガバナンス（品質、セキュリティ、プライバシー確保）も行います。
-
-５．データモデリング・データベース設計
-ビジネス要件を深く理解し、データの構造を設計し、最適なデータベースを構築します。論理・物理データモデルの設計、リレーショナルデータベース（MySQL, PostgreSQLなど）のテーブル設計、データウェアハウス（スター・スキーマなど）やデータマートの設計を行います。
-
-これらの業務を通して、お客様のデータ基盤を強化し、「データに基づいた意思決定」を強力に支援していきます。
+■自社サービスに関する調査分析
+・どこどこJP
+・どこどこad
+・SURFPOINT
+・らくらくログ解析
+上記のサービスの元になる膨大な様々な種類の情報(データ)から
+より付加価値のある情報を導きだせる方を募集しています。
 
 【環境】
-OS: Linux (CentOS, Ubuntuなど)
-プログラミング言語: Python
-データベース: SQL、PostgreSQL, MySQL, Redshift, BigQuery
-クラウド環境: AWS, Azure, GCP",['大阪府'],420,700,[],"['転勤なし', '学歴不問']",False,1754124022,True,[],[],[],"{'photo_url': 'https://www.green-japan.com/photo/728345', 'name': 'DX/AI・データ活用支援、ビジネスプロセス改革、デジタル人材育成', 'introduction': 'お客様のDX・AI・データ活用における戦略立案から開発、運用まで一貫支援。ビジネス変革を推進し、新たな価値を創造します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-293435,データ分析基盤エンジニア｜Data Platform Engineer,データ分析基盤エンジニア｜Data Platform Engineer,"{'id': 9385, 'name': '株式会社 アクセルスペースホールディングス', 'title': 'フィールドは世界。2008年創業、日本における宇宙ビジネスのパイオニア! 宇宙開発ベンチャー', 'established_at': 1217516400, 'employee_count': 120, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', 'グローバルに活動'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/541803', 'https://www.green-japan.com/photo/541569', 'https://www.green-japan.com/photo/518467']","■業務概要
-データソリューションユニットでは、データ基盤の構築と運用を推進するポジションを募集しています。このポジションは、企業グループ全体のデータ活用戦略を推進し、データの収集、保管、処理、分析のためのインフラストラクチャをIntegration部分も含めて、設計・構築・管理します。ビジネスの意思決定をサポートするために、信頼性が高くスケーラブルなデータ基盤を提供することを目的としています。
+基本的にAWS(Linux)
+■DB：PostgreSQL, MySQL
+■インフラ：AWS(EC2, RDS/Aurora, ELB/ALB ,DynamoDB), Redis, Apache, Nginx, fluentd,  TREASURE DATA
+■コミュニケーション：Slack, Backlog, Git, Zoom
+■個人のPC：Windows/Macは選べます。
 
-■職務内容
-・データ基盤の設計・構築・運用業務
-・データ収集システム、ETLプロセス、BIツールの開発および運用
-・ユーザー部門へのビジネス要件のヒアリング
-・ビジネス要件に基づいたデータウェアハウスおよびデータマートの構築
-・データ品質、データ整合性の保証
-・データベース管理システムの選定・導入・運用
-・データセキュリティおよびプライバシー保護の確立と遵守
-・業界の最新技術動向の把握と導入の検討",['東京都'],500,750,"['SQL', 'Python', 'R', 'AWS', 'Azure']","['フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', 'フレックスタイム', 'toB自社サービス', '急募求人', '服装自由', '多国籍な職場']",False,1754652668,True,[],[],"['フルリモート', '週に1回以上のリモート', 'フレックスタイム']","{'photo_url': None, 'name': '超小型衛星による高頻度地球モニタリングサービス', 'introduction': 'AxelGlobeは高頻度で地球をモニタリングし、新しいインフラを提供します。小型衛星によるデータを活用し、宇宙を手の届く存在にするビジョンを持っています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-292390,GMOメディアのビジネス戦略から携わるデータサイエンティスト・データエンジニア募集！,"データサイエンティスト,データエンジニア","{'id': 2560, 'name': 'ＧＭＯメディア 株式会社', 'title': 'For your Smile,with Internet. ', 'established_at': 970326000, 'employee_count': 175, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/449729', 'https://www.green-japan.com/photo/614735', 'https://www.green-japan.com/photo/449464']","GMOメディアでは、多種多様な事業ドメインとサービスを展開しており、それぞれの事業におけるデータの重要性はますます高まっています。
+【仕事の魅力】
+■既存のサービス・新規事業ともに社内で進めますので、自分の意見・アイデアを反映させる場があります。
+■全ての工程に関わることができるので、自分が作ったサービスが世に出るということをより実感していただけるかと思います。",['静岡県'],400,550,"['SQL', 'Perl', 'PHP', 'Python', 'AWS', 'MySQL', 'Nginx', 'PostgreSQL', 'Apache', 'Redis', 'Fluentd']","['業界未経験歓迎', '週に1回以上のリモート', '時短勤務可', 'toB自社サービス', '転勤なし', '学歴不問', '服装自由']",False,1740137775,True,[],[],"['業界未経験歓迎', '週に1回以上のリモート', '時短勤務可']","{'photo_url': 'https://www.green-japan.com/photo/686787', 'name': '国内唯一の技術IP Geolocationを活用したSaaSサービス事業', 'introduction': 'IPアドレス情報を基盤とした企業向けSaaSサービスを開発・運用します。マーケティング、インターネット広告、コンプライアンス、不正検知など様々な分野で活用されています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+241109,機械学習やAIを使ったサービス、プロダクトなどの開発、運用担当者募集！,【開発】AIエンジニア,"{'id': 9324, 'name': '株式会社 BLOCKSMITH&Co.', 'title': 'ブロックチェーン技術、暗号資産、NFTを活用したGameサービスの開発。2022年設立のスタートアップ＠六本木ヒルズ', 'established_at': 1648738800, 'employee_count': 30, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/531336'}","['https://www.green-japan.com/photo/656263', 'https://www.green-japan.com/photo/656264', 'https://www.green-japan.com/photo/656265']","【業務内容】
+自社サービスやプロダクトのための技術開発及びアプリへの組み込みを担当していただきます。
+基礎研究ではなく、既存の技術を改善して実用化させることが目的です。シーズアウトではなくアプリケーションレイヤーでの""ニーズベース""の技術開発になります。（LLM自体の開発ではありません。またプロンプトエンジニアの募集とも異なります。）
+技術開発
+・機械学習や（生成系を含む）AIを活かしたアルゴリズム、技術の調査
+・技術の精度評価や改善などの仮説検証プロセスの実施
+・モック開発
+組み込み
+・モック開発からシステム開発へのブリッジ
+・実用化に向けたAIエンジンや機械学習モデルの設計、開発、テスト
 
-現在、全社横断のデータ活用を推進する専門組織として「AIデータ推進チーム」が発足し、社内外の多様なデータを利活用する基盤と体制の整備を進めています。
+【技術スタック】
+・Python、Javascript、Typescript
+・Azure、AWS
+・postgresql
+・docker
+・github",['東京都'],500,1500,"['JavaScript', 'Python', 'TypeScript', 'AWS', 'Docker', 'TensorFlow', 'PostgreSQL', 'Azure', 'Kubernetes', 'Keras', 'GCP', 'Chainer']","['週に1回以上のリモート', 'リモート勤務の相談可', '転勤なし', '服装自由']",False,1747288681,True,[],[],['週に1回以上のリモート'],"{'photo_url': None, 'name': 'ブロックチェーン技術活用の新作ゲーム開発事業', 'introduction': 'ブロックチェーン技術を活用した革新的な新作ゲームやサービスの開発を行う事業です。Web3関連サービスやスマートコントラクトの開発を通じて新しいゲーム体験を創造します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+284899,【建設業×AI】生成AI時代の“本質的な処理設計”を手がけませんか？,AIエンジニア / モデル調整 / LangChain設計,"{'id': 8885, 'name': '株式会社 SHO-SAN', 'title': '“未来まで遺るゾクゾク”を創造する、コンサルティング&広告制作会社', 'established_at': 1435676400, 'employee_count': 19, 'company_features': ['上場を目指す', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/540417'}","['https://www.green-japan.com/photo/540464', 'https://www.green-japan.com/photo/622322', 'https://www.green-japan.com/photo/540466']","「建設業×AI」に特化したSaaS・アルゴリズム開発を通じて、
+**“空間設計の生産性革命”**を本気で実現しようとしているスタートアップです。
 
-このチームでは、事業ごとに分散していた分析やデータ基盤の取り組みを一元化・高度化し、より戦略的かつ継続的にデータ価値を引き出すことを目指しています。
+日本の建設業は、GDP比10%超の規模がありながらもIT導入が著しく遅れている業界です。
+SHO-SANはすでにこの業界で150社以上の支援実績があり、SaaS展開における確実なマーケットアクセスを持っています。
 
-さらなる組織強化のため、「データエンジニアとして専門性を発揮いただける新たな仲間」を募集しています。
+◆業務内容
+・LLM（ChatGPT）と数理処理を組み合わせた住宅提案文の自動生成／最適化
+・住宅の要望ヒアリングデータをもとに、幾何制約下で最適な間取りを自動生成
+・過去の設計図面から「間取りの共通構造」を抽出し、類似設計パターン推薦
 
-【業務内容】
-GMOメディアの各事業を横断して支援するAIデータ推進チームの一員として、以下のような業務を担っていただきます。希望・適性・経験に応じて業務内容は調整します。
+これらは単なるAPI連携ではなく、「空間×意味×アルゴリズム」をつなぐ構造設計そのものが求められる領域です。
 
-■ データエンジニアリング
-● 各サービスにおけるデータ基盤の構築・運用（DWH, ETL/ELTなど）
-●  計測環境・トラッキング基盤の設計・整備
-● データパイプラインおよびワークフローの設計・実装・運用
-● AWS / GCP 等を活用したアーキテクチャ設計と保守
+【事業内容】
+「建設業×AI」に特化したSaaS・アルゴリズム開発を通じて、
+**“空間設計の生産性革命”**を本気で実現しようとしているスタートアップです。
 
-■ 分析支援・サービス改善
-● BigQuery 等を活用した大量データ処理
-● サービスやプロダクト改善に向けたデータ分析・可視化
-● 施策立案に向けたレポーティングやダッシュボード作成
-● A/B テストや仮説検証の設計・実行支援
-● データに基づく意思決定を支援する業務プロセス改善
+毎年2倍成長を続ける業界トップクラスの成長企業です。
 
-データ基盤の構築・運用だけでなく、ビジネス部門との連携を通じた業務プロセスの改善提案や経営層への直接提言など、事業インパクトの大きい業務に直接関わっていただきます。
+特にハウスメーカーや地元工務店を支援の基軸とし、クライアントを理解し、クライアントの発展を自らの責任とする、「マーケティングのプロフェッショナル」として、弊社の頭と腕がつながった一気通貫型サービスが、各会社様のマーケティング成果をより「確実に」「スピーディーに」実現します。
 
-「データを軸に、ビジネスにおける課題解決や価値創造に貢献する」ことをミッションにしています。エンジニアリングから分析、業務改善提案までを一気通貫で担い、プロダクト・マーケティング・経営など幅広い部門と連携しています。
+新規事業を複数計画しており、新規事業計画にも関わるチャンスも多数あります！
 
-現在は、全社横断でのデータ基盤の整備や活用の高度化を進めており、さらなるスケールと挑戦のフェーズに入っています。特に、BigQuery 等を活用した AI エージェント開発など、実践的な AI 活用にも着手。業務プロセスの自動化やサービスの知能化を具体的に推進しています。
+▼弊社のvision/mission/value関して
+【vision】
+マーケティングと組織の力で数々の社会課題を解決し、未来に遺るゾクゾクを創造する。
 
-今後はこうした AI の力をより広く取り入れながら、AI 時代のデータ利活用において新たな価値を創出したい方を強く歓迎します。“単なるPoCではなく、本番環境で価値を生む” ことにこだわったチャレンジに一緒に取り組みませんか？
+【mission】
+住宅業界に必要未達成のマーケティングディスラプトを引き起こす。
+※ディスラプト：主に新興企業が業界のルールを再定義し、その業界の既存バリューを一気に時代遅れにしてしまうこと
 
-事業に直結するデータ活用を全社横断で推進していくダイナミックな環境で、AI時代のデータ利活用の在り方を一緒に切り拓いていきませんか？",['東京都'],552,800,"['SQL', 'Python', 'AWS', 'GCP']","['週に1回以上のリモート', 'フレックスタイム', 'toC自社サービス', 'toB自社サービス', '転勤なし', '学歴不問', '服装自由']",False,1753779583,True,[],[],"['週に1回以上のリモート', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/728703', 'name': '企業と顧客の距離をぐっと近づける「GMOリピータス」', 'introduction': 'GMOリピータスは、企業の独自ポイントサイト構築を支援するCRMです。20年以上のノウハウで施策提案や顧客分析を行い、訪問率・売り上げの向上をサポートしています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-280838,【製造業×DX支援のAIスタートアップ】データエンジニア募集！,【技術開発部】データエンジニア,"{'id': 8646, 'name': '株式会社 VRAIN Solution', 'title': '大手製造業を中心に導入実績多数。国内AI関連で上位の実績を誇るAIベンチャー企業', 'established_at': 1582988400, 'employee_count': 97, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/553501'}","['https://www.green-japan.com/photo/492366', 'https://www.green-japan.com/photo/492370', 'https://www.green-japan.com/photo/491768']","主要サービスである画像処理・アルゴリズム開発事業のデータエンジニアとして下記業務をお任せします。
+【value】
+1|学び、考え抜き、確信を持つ
+会社への確信、商品への確信、職種への確信、そして最後に自己確信。全てを持って業務に取り組みます。確信を得るためには学びます。誰よりも考え抜きます。
+誰よりも突き詰めて、自分たちが確信を持てたものでしか勝負しません。
 
-業務内容
+2|責任を掴んで成長する
+社内やクライアント、全方位において責任を負える人間こそが、最も自己成長し成果を還元できる人間になるはずです。
+社員一人一人が、責任を求め、決して逃げず、自己成長し、成果を最大化し、他者に還元する。そんな責任を負い、成長著しい企業を目指します。
 
-機械学習基盤の新バージョン構築・運用・保守（最初は社内向け、将来的にサービス化を検討）
-蓄積された大量の画像データの適切な管理・整理・最適化
-データ管理・機械学習システムのUI/UX改善および機能追加
-アップロードされたデータ・AIモデルの確認、再学習ワークフローの最適化・自動化",['東京都'],600,900,[],"['toB自社サービス', '急募求人', '転勤なし', '学歴不問']",False,1754467238,True,[],[],[],"{'photo_url': 'https://www.green-japan.com/photo/673072', 'name': '製造業向けAIソリューションの提供', 'introduction': '【プロダクト開発事業】（自社プロダクト：Phoenix）【コンサルティング事業】（製造現場のDX支援をするための画像処理／音声認識／自然言語処理／需要予測／IoTなど）'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-289920,データ活用の新たな価値を生み出す「CDP構築プロジェクト」の中核メンバーとして、構想フェーズから実装・運用までを牽引するデータエンジニア／テックリード,※CTO候補※マーケ支援会社のデータエンジニア／テックリード【安定した事業基盤のもと、裁量を持ってゼロイチに挑戦したい方】,"{'id': 3244, 'name': 'アナグラム 株式会社', 'title': '真に価値のあるマーケティングで、豊かな社会を創造する。運用型広告を強みとするマーケティング支援会社。', 'established_at': 1270047600, 'employee_count': 120, 'company_features': ['平均年齢20代', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/531020'}","['https://www.green-japan.com/photo/720632', 'https://www.green-japan.com/photo/720634', 'https://www.green-japan.com/photo/720635']","【こんな思いを抱えていませんか？】
+3|仕事を、私事にする
+シゴトは仕えるものではありません。自発的に当事者意識を持って楽しみ、前向きに取り組む私事であってほしい。
+自分ごと化するからこそ、考え抜けるし責任も負えます。
+楽しく、前向きに私事ができる社員を揃え、一丸になって取り組みます。
 
-- 単なるログ整備やETLの繰り返しに終始していて、もっと上流から設計したい
-- 部分的な役割しか担えず、結局活用されないデータ基盤づくりに虚しさを感じる
-- 技術選定に意見を言える立場で働きたい
-- 自分の成果がビジネスに貢献している実感を持ちたい
-- 経営に近いところで技術を活かしたい
+4|涙が出るまで私事にこだわる
+ビジネスを通して感激し、涙する。それほどの熱量を持って全力で取り組める私事、社員が必要です。
+最高の私事を配ることに会社は責任を持ちます。それを熱量を持って取り組むことに社員は責任を持ちます。そんな組織を社会も評価し、期待し、信頼してくれるはずです。感激し、涙が出るほど突き詰める会社でありたいのです。",['東京都'],500,600,[],[],False,1746679450,True,[],[],[],"{'photo_url': None, 'name': '工務店向け広告運用・マーケティング支援事業', 'introduction': '広告運用で工務店や大手ハウスメーカーの集客支援を行います。広告戦略から効果測定、改善までを一貫して提供するマーケティング事業です。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+112812,AI【機械学習エンジニア】開発経験を活かしAIへ挑戦！画像系AIモデル作成／チューニング　OCR　顔認証　物体検出,AIエンジニア,"{'id': 7359, 'name': '株式会社 ワンズパワー', 'title': '金融業界のインフラ構築に強み。社員のやりたいことをかなえる会社。', 'established_at': 1222786800, 'employee_count': 20, 'company_features': ['残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/575600'}","['https://www.green-japan.com/photo/370066', 'https://www.green-japan.com/photo/711553', 'https://www.green-japan.com/photo/370089']","【概要】
+主に金融系システムを扱っているお客様に対して、新規AIソリューション導入に関わる開発業務となります。
+AI有識者の下で、AIモデル作成や精度改善を目的とした、画像分析ライブラリの処理や新しい機械学習ライブラリ作成、周辺システムに必要なツール作成など担当していただきます。
 
-私たちは、そんな欲求が活かされる場を提供できると考えています。
+【具体的な仕事内容】
+画像識別、OCR、商品レコメンデーションなど
+AIモデル作成、チューニング
+データオーギュメンテーション技術を駆使した製品レベルの開発
+顧客折衝、要件定義、基本設計、詳細設計、プログラミング、テスト
+Python、Java、Javascript
+OpenCV
+
+■プロジェクト事例
+・セキュリティ向け画像認識AIモデル開発および精度改善
+L担当フェーズ：基本設計、詳細設計、製造、結合テスト、総合テスト
+L案件規模：約10～20名程度
+L期間：1年以上
+∟チーム人数：5-6名
+
+【仕事の魅力】
+経験やスキルアップを優先し、各工程を担当するだけでなく、要件定義といった上流工程への参画がで
+きます。知識はあっても経験がない、そんなAIエンジニアに絶好のチャンス。
+
+【社内の雰囲気】
+平均残業時間実績、月13時間以下。
+案件を受けた時点で仕事の総量を見極め、適切な業務設計を考察します。
+長年の付き合いで非常に関係性が良好です。弊社GMも同じ現場で働いているので正当な評価を受けることができ、社員の提案が通ることが多いです。",['東京都'],550,850,"['C', 'JavaScript', 'Java', 'Python', 'TensorFlow', 'OpenCV', 'Keras', 'Chainer']","['急募求人', '転勤なし', '学歴不問', '服装自由', '採用枠5名以上']",False,1748413859,True,[],[],[],"{'photo_url': None, 'name': '金融系システム向けAIソリューション開発', 'introduction': '金融系システム中心にAIモデルの作成・チューニングを行うサービスです。画像分析ライブラリを活用し、要件に基づく新しいAIモデルの導入・改善を行います。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+163804,データマートの要件定義・設計・構築・リリース・維持管理をお任せします！,開発エンジニア（データマート）,"{'id': 6296, 'name': 'ピセ 株式会社', 'title': 'プライム案件が7割。幅広い業界とITのコラボで、安定した経営基盤を築く', 'established_at': 715273200, 'employee_count': 120, 'company_features': [], 'logo_photo_url': None}","['https://www.green-japan.com/photo/688423', 'https://www.green-japan.com/photo/283781', 'https://www.green-japan.com/photo/688410']","大手人材ビジネス事業のデータマート構築対応
+・ビジネス部門のニーズを受け、データ活用に必要なデータを社内システムや社外から収集し、データマートとして構築、維持管理を担当していただきます。",['東京都'],330,510,"['SQL', 'Oracle']",[],False,1740985221,True,[],[],[],"{'photo_url': None, 'name': '大手人材ビジネスのデータマート構築サービス', 'introduction': 'ビジネス部門のニーズに応じたデータマートを構築、維持管理します。データの効果的な活用を通じて、ビジネスの効率化と意思決定を支援します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+272243,AI開発エンジニア（オンライン麻雀AI・ヘルスケア）,AI開発エンジニア◆オンライン麻雀ゲーム・ヘルスケアアプリ,"{'id': 1735, 'name': '株式会社 シグナルトーク', 'title': '報酬、環境、労働時間「クリエイターの理想郷」を目指すインターネットサービス企業', 'established_at': 1036076400, 'employee_count': 35, 'company_features': ['自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/523737'}","['https://www.green-japan.com/photo/429565', 'https://www.green-japan.com/photo/429563', 'https://www.green-japan.com/photo/429559']","■業務概要
+「麻雀」や「ヘルスケア」をテーマに、AIやビッグデータを使ったデジタル上の各種サービスを提供している当社にて、AI開発エンジニアとしてご活躍をいただきます。
+
+■オンライン麻雀について
+・有料ながらも会員数が170万人を超え、初心者から上級者まで毎日約8,000人で賑わうオンライン麻雀ゲーム【Maru-Jan】のWEBアプリケーション開発に携わって頂きま
+す。既存：新規＝５：５程度の割合となっており、全工程を内製しているため、企画～運用の全工程をお任せいたします。
+
+・麻雀AI「KIRIN」
+「Maru-Jan」の牌譜を解析し各種数値化、最適打牌を提案するAIです。
+今後もデータ学習やユーザーの意見を元に研究開発しバージョンアップしていきます。
+
+■ヘルスケアプロジェクトについて
+・Life Leap(ライフリープ)
+NMNサプリメントとAIを組み合わせたエイジングケアのサービスです。統計的情報から独自AIが算出した情報やアドバイスで生活改善を促します。
+
+・コロナラボ(Corona Lab)
+いつも食べている食品や生活習慣に基づいて、新型コロナを“将来”発症するリスクをAIが分析・判定するサービスです。",['東京都'],600,960,"['Python', 'Corona']","['業界未経験歓迎', 'リモート勤務の相談可', '副業可', 'toC自社サービス', '転勤なし', '学歴不問', '服装自由']",False,1754549412,True,[],[],"['業界未経験歓迎', 'リモート勤務の相談可', '副業可']","{'photo_url': 'https://www.green-japan.com/photo/697903', 'name': 'オンライン麻雀ゲーム「Maru-Jan」', 'introduction': 'オンライン麻雀ゲーム「Maru-Jan」は、リアルな体験を提供する進化するプラットフォームです。170万人以上の会員を誇る自社開発の麻雀ゲームで、多くの支持を得ています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+223105,機械学習エンジニア/開発センター配属/AI活用の課題をモデル構築～分析リード,機械学習エンジニア/データやAI利活用提案、PoC、実装まで,"{'id': 2340, 'name': '株式会社 テクノプロ\u3000テクノプロ・デザイン社', 'title': '東証プライム上場｜リモート案件あり◎｜残業代1分単位支給｜研修コース1,000以上｜定着率93.5％｜売上660.2億円｜技術社員数8,059名', 'established_at': 865090800, 'employee_count': 8522, 'company_features': ['カジュアル面談歓迎', '上場', '自社サービス製品あり', 'シェアトップクラス', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/525569'}","['https://www.green-japan.com/photo/562028', 'https://www.green-japan.com/photo/516286', 'https://www.green-japan.com/photo/492292']","主に全国の顧客（製造業）から要望があるAI活用の課題に対し、モデル構築～分析のリードをお任せします。
+デジタル技術や先進手法を用いて、顧客データの利活用や分析手法の検討を行っていただきます。
+※ご経験によっては顧客への提案活動も行っていただきます。
+※その他、会社の定める業務
+
+【組織構成・開発事例】
+■先端技術センター：71名
+※2023年6月時点
+※開発は規模により2～5名のチームで構成されています。
+
+■案件事例
+・自動運転ＡＩ開発/支援ソフトウェアの開発、自動運転の学習データ分類
+・異常検知システム開発
+・機器予防保全ソリューション構築
+・バイタルデータのシステム化
+・ECサイトの顧客分析
+・ドライブレコーダー動画分析
+・バス需要予測システムの開発
+・Ｗｅｂ広告データ分析
+・教育事業の技術論文調査
+・画像分析のデータセット作成
+・分析システム保守・運用
+
+【環境詳細】
+・ライブラリ：一般的なライブラリは全て対応しております。
+・アルゴリズム：公開されているアルゴリズムは全て使用可能です。
+・言語
+　→Python、Rust、SQL、R、Javascript、Typescript、React、Node.js、Haskell、Matlab、C++ 等
+・ツール
+　→Tableau、PowerBI、Looker Studio 等","['東京都', 'フルリモート']",600,900,"['C', 'C++', 'JavaScript', 'SQL', 'Python', 'R', 'Node.js', 'React', 'TypeScript', 'Haskell', 'Rust']","['リモート勤務の相談可', '急募求人', '転勤なし', '学歴不問']",False,1726132954,True,"[{'id': 290550, 'title': '【先端技術センター】リードデータサイエンティスト（PM）/ハイブリッド勤務', 'name': '【先端技術センター】リードデータサイエンティスト（PM）/ハイブリッド勤務', 'min_salary': 600, 'max_salary': 1250, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/708967'}]",[],['リモート勤務の相談可'],"{'photo_url': None, 'name': '技術サービス・ソリューションビジネス', 'introduction': 'プロジェクト参画型の技術サービスを基盤に、最先端領域で活躍できる環境を提供。技術戦略マップや研修を通じエンジニアの成長を支援し、未来のスキルを磨けます。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+188059,【データエンジニア/自社サービス】国内最大の地銀グループで、金融業界のDX化を目指す！データ分析基盤の設計・開発を推進するエンジニア募集,データエンジニア（データレイク＋分析基盤）＜福岡銀行＞,"{'id': 6789, 'name': '株式会社 福岡銀行', 'title': 'デジタルトランスフォーメーションの推進\u3000①次世代金融サービスの構築にゼロから挑むデジタルバンク「みんなの銀行」開発\u3000②福岡銀行の新プロダクト開発', 'established_at': -783853200, 'employee_count': 3718, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり'], 'logo_photo_url': None}",['https://www.green-japan.com/photo/623408'],"弊行のビッグデータの活用の幅の拡大に伴い、データエンジニアを募集いたします。
+
+＜具体的な業務内容＞
+●既存データレイク基盤の設計、開発、運用
+●データを価値に変換する分析基盤(SOI)構築
+●ETLツールを用いたDLake/DWH/DMの構築
+●BIツールの設計、運用
+●データガバナンスの整備、運用
+●上記活用のためのヘルパモジュール開発
+●上記構築のためのインフラ設計、運用",['福岡県'],500,1500,"['SQL', 'Java', 'Python', 'Hadoop', 'AWS', 'Spark']","['リモート勤務の相談可', '転勤なし', '学歴不問']",False,1722563085,True,[],[],['リモート勤務の相談可'],"{'photo_url': None, 'name': '福岡銀行のデジタルバンキングプロジェクト', 'introduction': 'デジタルバンキングで革新的な金融サービスを提供するプロジェクトです。企画から開発、運用まで一貫して内製化し、迅速なプロダクト開発を推進します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+281004,【SQL・PL/SQL・VBA活用】社内開発保守チームのまとめ役募集！！安定的に働きたい方・マネジメント層を目指したい方を探しています,データエンジニア　PL/TL層,"{'id': 9280, 'name': '株式会社 ワールドスカイ', 'title': '【セキュリティに強いSIer】設立以来20期連続で売上増！「社員の幸せ」を第一に掲げさらなる成長フェーズへ', 'established_at': 1086015600, 'employee_count': 101, 'company_features': ['カジュアル面談歓迎', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/523743'}","['https://www.green-japan.com/photo/633808', 'https://www.green-japan.com/photo/698386', 'https://www.green-japan.com/photo/503567']","◎主な仕事内容
+ワールドスカイはセキュリティコンサルティングを軸とし、インフラや開発、保守など一気通貫で担う事が出来るのが最大の特徴です。IT業界のお客様はもちろんの事、官公庁・化粧品会社・大手銀行・病院と他業界の案件も手掛けております。毎年120％以上の業績更新を続けており、100名を超える段階の成長フェーズに突入し、携われる業務は多岐にわたっております。
+ご本人のご希望や将来のキャリアプランを叶えられる業務をお任せさせていただきます。
+
+
+■データマネジメント事業部
+大手企業様を中心に組織全体のデータ戦略を策定し、データマネジメントを統括する責任者の信頼できるパートナーの位置を確立しています。今までで蓄積している膨大なデータを利活用できていないユーザーに対して、「データ品質、データセキュリティ、データ利活用等のデータマネジメント」に関わる領域を支援するデータスチュワードサービスを提供する事業部です。
+
+データマネジメント基盤構築プロセスに沿い、ワールドスカイのポジショニングを確立します。
+
+➀プロジェクト計画
+ 　→ビジネス目標の設計と要件整理
+➁アーキテクト設計
+　 →基盤選定およびソフトウェアのアーキテクト設計
+③データモデリング
+   →データレイクから各層のデータモデリング
+④運用設計　
+   →障害時の運用フローやリカバリ設計、機能拡張リリースフロー設計
+⑤ETL／View実装/単体テスト
+ 　→ETL処理の開発およびデータパイプラインの実装／検証
+⑥システムテスト/受入れテスト
+ 　→ETL処理の開発およびデータパイプラインの実装／検証
+⑦継続的改善
+ 　→基盤保守および継続的改善の実施
+
+
+◎今回募集の具体的な業務内容
+　社内開発保守チームの中核として、少数人数案件の ""若手のまとめ役"" をご担当いただきます。
+
+・SQL、PL/SQLを用いてデータの集計、処理、受け渡し業務
+　→不都合があった際にオブジェクト指向の考えを用いながら解決します
+
+・業務改善
+　→VBAを使用する事が基本です",['東京都'],400,600,"['VBA', 'SQL', 'PHP']","['急募求人', '転勤なし', '学歴不問', '服装自由']",False,1744886731,True,[],[],[],"{'photo_url': 'https://www.green-japan.com/photo/673154', 'name': '【セキュリティに強いSIer】ITセキュリティを推進すべく、更なる成長フェーズへ', 'introduction': 'ワールドスカイはセキュリティコンサルティングを軸として、システム開発・インフラ設計構築・Webコンサル・ヘルプデスク・ECサイト事業と幅広く事業を展開しております。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+282752,【AI×自社サービス】音声解析・OCR・生成AIなど最先端技術に挑むエンジニア募集,AI・機械学習エンジニア（システム開発部）,"{'id': 7638, 'name': '株式会社 くすりの窓口', 'title': 'ユーザーと医療・介護を繋ぐプラットフォームを構築し、新たな価値を世の中へ！', 'established_at': 1093964400, 'employee_count': 370, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', 'シェアトップクラス', '残業少なめ'], 'logo_photo_url': None}","['https://www.green-japan.com/photo/665540', 'https://www.green-japan.com/photo/604219', 'https://www.green-japan.com/photo/604220']","当社が提供する各サービスの生産性向上ツールとして、AI・機械学習を活用した機能開発を担当していただきます。AWSのマネージドサービスやサーバーレスアーキテクチャを活用し、Pythonを用いた開発を行います。
+特に、以下の領域でのAI技術の活用を進めています。
 
 【仕事内容】
-- クライアント各社が保有する購買・行動データを集約し、広告施策に活かせるCDPを構築（ゼロイチ設計）
-- BigQuery・Lookerを用いたデータ基盤およびBI環境の整備
-- 広告プラットフォームとのデータ連携機能の開発
-- データパイプラインやデータベースなどのインフラアーキテクチャの設計及び開発
+①音声解析：音声データのテキスト化、自然言語処理を用いた解析（例：AWS Transcribe、Whisper など）
+②OCR（光学文字認識）：紙やPDFなどのドキュメントデータをデジタル化し、業務プロセスを効率化（例：AWS Textract、Tesseract 、GoogleGemini など）
+生成AI：業務支援のための大規模言語モデル（LLM）の活用、プロンプト設計やファインチューニング（例：Amazon Bedrock、OpenAI API など）
+データパイプライン構築：AIモデルの学習データ収集・前処理・モデルデプロイの自動化（例：AWS SageMaker、Kinesis、Lambda など）
+AI推論APIの開発：各種AIモデルのAPI化・運用（FastAPI、Flask などを活用）
+パフォーマンス改善・精度向上：AIモデルの最適化、推論速度向上、モデル選定
+AWSを活用したクラウドネイティブなAI開発に興味があり、技術的な課題解決を楽しめる方を募集しています。",['東京都'],504,900,"['Python', 'AWS', 'Lambda', 'Flask']","['フルリモート', '週に1回以上のリモート', 'リモート勤務の相談可', 'toC自社サービス', 'toB自社サービス', '学歴不問', '服装自由']",False,1744848861,True,[],[],"['フルリモート', '週に1回以上のリモート']","{'photo_url': 'https://www.green-japan.com/photo/727388', 'name': '医療DX化を推進するソリューション事業', 'introduction': '医療のデジタルトランスフォーメーションを加速させるソリューションを提供しています。患者や医療機関、介護、福祉の生産性を高めるため、日々新しいサービスを創造しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+215138,【サーバーエンジニア】ISPバックボーンネットワークの運用管理業務を担うサーバーエンジニアを募集！【フレックスあり／月平均残業13時間】,ISP運用データ分析/サーバーエンジニア,"{'id': 9468, 'name': 'ニフティ 株式会社', 'title': '自社サービスをフルスタックで開発！オンラインサービスの礎を作った大手ISPが、システム部門を増強中', 'established_at': 1485874800, 'employee_count': 392, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/539700'}","['https://www.green-japan.com/photo/678230', 'https://www.green-japan.com/photo/678227', 'https://www.green-japan.com/photo/651444']","■ ポジションについて
+ニフティ株式会社はインターネットを通じて、人々の暮らしをより豊かにするサービスを提供しています。
+今回の募集は、ニフティのISP事業の主力サービスとなっている「@nifty光」などのネットワークサービスについてのトラフィックデータ分析を通じた品質管理、お客様が接続に利用するサーバーの運用管理に携わっていただきます。
 
-【期待する役割】
-データ活用の新たな価値を生み出す「CDP構築プロジェクト」の中核メンバーとして、構想フェーズから実装・運用までをリードしていただきます。
-今はまだ完成されたシステムがあるわけではなく、ゼロイチで“これからつくる”フェーズです。
-私たちが描くのは、広告やマーケティング支援の現場で直接役立つ、クライアントごとのLTV最適化を見据えたCDP基盤。
-最初のテックリードエンジニアポジションとして、技術的意思決定やデータの扱い方そのものを形にしていく役割を担っていただきます。
-将来的には、内製化を見据えたチームビルドや後進育成にも関わっていただくことを想定しています。
+■ 具体的な業務内容
+・ISPネットワークのトラフィックデータ分析、将来予測 ※データ分析ではツール開発も行います
+・認証やDNSなどのサーバー運用管理 ※システムの内製開発を含みます
+・トラブル対応
+・ツール作成/自動化
+・キャリア交渉を含めたコントロール
+・関連部門との連携
 
-【なぜ、広告会社がテックリードエンジニアを求めるのか】
+■ 魅力・得られる経験
+・ISPの運用管理業務というIT業界でも珍しい業務に携わることができ、幅広い技術知識やスキルを習得できます。
+・ニフティのコア事業であるISPサービスにおける顧客満足度向上とコスト削減を両立させる各種施策に携わることができます。
+・ネットワークはローミングサービス利用が前提ですので、BGPなどを用いたネットワーク設計構築業務はありません。
 
-「広告を“必要なユーザーに届ける工夫”にとどめず、クライアントのビジネス成長を後押しする武器として進化させたい」という想いがあります。
+■ 利用技術
+・言語：シェル, C言語, Python
+・クラウド：AWSなど
+・DNS
+・認証技術
+・その他：ISPネットワーク通信量（トラフィック）に関する知識
+・社内利用ツール：Slack, Notion(NotionAI含む), GitHub Copilot, ChatGPT, Google Workspace, Zoom,  Zapier, OneLogin, Tableau　他
+・社給PC（WindowsまたはMacのどちらか）：
+【Windowsの場合】 Windows 11 Pro / インテル CoreTM Ultra 7 / 32GB / 256GB / 13.3インチ
+【MacBookの場合】 MacOS / Apple M4チップ（10コアCPU・10コアGPU） / 24GB / 512GB / 13インチ",['東京都'],470,750,"['C', 'Python', 'AWS']","['フレックスタイム', 'toC自社サービス', '転勤なし', '学歴不問', '服装自由']",False,1747040580,True,[],[],['フレックスタイム'],"{'photo_url': 'https://www.green-japan.com/photo/647778', 'name': '高品質光回線サービス「@nifty光」', 'introduction': 'フレッツ光回線を利用し、最大10Gbpsの通信速度を実現。\r\nIPv6接続（IPoE方式）対応の安定した接続と豊富なオプションで、快適なインターネット環境を提供します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+265702,AIを社会実装するデータサイエンティスト | アカデミア出身の方も大歓迎,データサイエンティスト,"{'id': 6525, 'name': '株式会社 HACARUS', 'title': '未来を造る人に 次世代の「はかる」を', 'established_at': 1388502000, 'employee_count': 70, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '自社サービス製品あり', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/561088'}","['https://www.green-japan.com/photo/625930', 'https://www.green-japan.com/photo/625910', 'https://www.green-japan.com/photo/625931']","■会社概要
+HACARUSは　”未来を造る人に　次世代の「はかる」を” 　をMissionに掲げる、AIのプロダクト開発やサービス提供を行うテックカンパニーです。インフラを支え、「未来」を築いている製造業や建設業、インフラ業といった人達をテクノロジーの力で支えたいという想いの下、これまで複数のプライム企業や京都大学・東京大学などのアカデミアと連携しながら、100社を超える幅広い事業者様にAIの開発や実用化などのサービスを提供してまいりました。
 
-その鍵を握るのが、広告運用の枠外に眠っている膨大な1st partyデータ(自社で保有・取得した顧客接点の一次データ）です。
+■業務内容
+弊社AIプロダクトに関わるデータ分析及びモデル開発など
+・クライアントへの課題ヒアリング
+・PoC の実施とレポートの作成、データ取得方法の提案
+・データエンジニアリング基盤の構築・運用
+・予測や識別、画像解析等のモデル開発
 
-広告の現場で日々使われているのは、媒体が提供する配信データ（例：MetaやGoogleなどの広告プラットフォーム上のクリック率や、問い合わせ／購入といった特定の行動への転換率など）が中心です。
+■働く環境について
+【①開発環境】
+・Python 3
+・pandas／NumPy／SciPy／scikit-learn／scikit-image／seaborn／opencv／spm-image（自社開発 OSS）
+・Jupyter Notebook／JupyterLab
+・Docker
+・Git
+【②その他全般】
+ほぼ全ての社員が中途採用で入社し、中核人材として活躍しております。また、アカデミア出身の方も数多く在籍し、アカデミックな雰囲気を大事にしながら、ビジネスに向き合っております。ホームページにて中途入社メンバーの入社後のキャリアや業務に関する記事を数多く掲載しておりますので、ぜひご覧ください。
+・従業員数：70人（半数以上がエンジニアです。）
+・新卒・中途比＝2:98
+・主な勤務地：京都：東京＝65:35
+・平均年齢：36歳
+・平均残業時間：18h/月
+・子育てパパママ率：47%
 
-しかし実際には、購買やリピートの履歴、会員属性、購入継続期間、実店舗やサービス窓口への来店・来訪履歴、Web上の行動ログ、といった、より長期的な文脈を持つ顧客接点データがクライアントの社内に存在しています。
+■勤務地・雇用形態
+・勤務地：京都 /東京 ( 京都または東京いずれかの拠点での勤務となります。) 
+※京都・東京の勤務地は相談可能です
+※在宅・出社を併用した勤務形態です（週3日までのリモートワーク）
 
-これらを活用できれば、「誰に」「何を」「どのように」届けるべきかという広告設計の精度は、飛躍的に高められます。
+■プロダクト紹介
+【AI外観検査ソリューション】
+ロボット、照明、カメラのハードウェアと高精度なAIソフトウェアを組み合わせた「HACARUS Check」シリーズを開発・提供しています。複雑形状の自動車部品の検査など、これまで自動化が難しかった領域に導入を進めています。
+【労災防止ソリューション】
+カメラとエッジAIの組み合わせで、製造現場の危険の予兆をリアルタイムで検知し、作業員や管理者にアラートします。エッジAIを使うことでリアルタイム性とセキュリティ面を重視し、人では難しかった常時監視を実現します。
+【KY（危険予知）活動支援サービス】
+HACARUS独自のSaaS「HACARUS KY」を開発。現場で毎日行われるKY（危険予知）活動に、AIが労働災害事例・危険ポイントを提案し、経験が浅い人でも現場に潜む危険への対策を立てやすくなります。作業者の自主的な安全活動を支援し、建設業の労働災害リスク低減に貢献します。
 
-──ですが、多くの企業において、それらのデータは部門間で分断され、未整備のまま埋もれた鉱脈のように眠っていることもしばしば。
-ビジネスの武器になり得る資源でありながら、広告運用の現場に届くことは多くありません。
+少しでも弊社にご関心がございましたら、ご連絡ください。
+まずはお気軽にお話ししましょう！！","['東京都', '京都府']",500,900,"['Python', 'AWS', 'Docker', 'OpenCV', 'Jupyter', 'pandas', 'scikit-learn']","['業界未経験歓迎', '週に1回以上のリモート', 'リモート勤務の相談可', 'フレックスタイム', 'toB自社サービス', '転勤なし', '学歴不問', '服装自由', '語学を活かす', '多国籍な職場']",False,1735025854,True,[],[],"['業界未経験歓迎', '週に1回以上のリモート', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/658916', 'name': 'DX化を推進するAIプロダクトの開発及びサービスの提供', 'introduction': 'AI外観検査ソリューションや作業現場管理AIなど、製造業や建設業を中心に100社を超える幅広い事業者様にAIの開発や実用化などのサービスを提供しております。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+243037,【エンジニア／AIを活用した新規プロダクト】上流工程からお任せできるエンジニアを募集しています！,TE03.開発エンジニア／リモート相談可,"{'id': 9988, 'name': '株式会社 CFPコンサルティング', 'title': '「AI×デジタルマーケティング」の力で「もっと作らなくても、もっと売れる」マーケティング支援を行なっております。', 'established_at': 1272639600, 'employee_count': 30, 'company_features': ['カジュアル面談歓迎', '上場を目指す', '平均年齢20代'], 'logo_photo_url': 'https://www.green-japan.com/photo/599408'}","['https://www.green-japan.com/photo/643536', 'https://www.green-japan.com/photo/672786', 'https://www.green-japan.com/photo/672787']","社内エンジニア第一号としてエンジニアチームの立ち上げにご協力いただける方を募集しています！
+SaasAIの新規プロダクトを開発いただきます。
+（AIを用いたLP生成からオプティマイズまでの新規プロダクト）
 
-私たち広告運用者が直接そのデータを扱えるわけでもなく、広告主の立場であっても、どのように広告施策に活かせるかまでは見通しを持ちにくいまま、活かしきれずにいるケースも少なくないのです。
+ご経験に応じて、プロジェクト責任者や各開発工程のリーダーをお任せしたいです。
 
-この分断と未活用のデータをつなぎ、広告に活かせる形に“翻訳”するのが、テックリードエンジニアの役割です。
+【具体的な業務内容】
+・詳細設計
+・技術選定
+・システムアーキテクチャ作成
+・コードレビュー
+・実装
+・保守管理業務や体制構築
 
-たとえば：
+業務になれてきたら、社内開発チームのメンバー選定等のチームビルディングやリリース後の保守開発用もお任せします。
 
-- CRM（顧客管理システム）やPOS（購買データ）と広告媒体のデータを突合し、「LTV（顧客生涯価値＝顧客が長期的にもたらす利益）の高い顧客像」に向けた配信最適化を実現する
-- 複数ソースを統合したダッシュボードで、広告の短期的成果だけでなく、中長期の顧客育成指標も可視化する
-- データ処理の自動化や設計の汎用化によって、他プロジェクトにも転用できる“基盤”をつくる
+■将来的には・・・
+システム責任者への道もご用意しております。
+サービスロードマップの策定やプロダクトサイドの要望だけでなく自らも追加機能を提案する等の超上流工程をお任せします。
+ゆくゆくは経営戦略を踏まえた事業戦略策定や開発組織図作成、予算策定等の大きな裁量をお渡ししていきます。
 
-といったかたちで、暗躍的にプロジェクトの背骨を支える存在です。
+【開発部門の特徴・強み】
+・ビジネスサービスサイドとして代表・執行役が直接参画しているため、意思決定がスピーディです。
+・プロダクトについての権限を与えるため、責任度合いの高い仕事が可能です。
 
-アナグラムでは、広告運用者・デザイナーと連携し、現場の声を吸い上げながら、CDP構築の意思決定と実行に直接影響を与えるポジションとして、テックリードエンジニアを迎えたいと考えています。
+【技術向上、教育体制】
+・資格取得手当
+・オンライン学習環境
+・外部セミナー参加可
 
-「広告会社のエンジニア」としてではなく、「ビジネスにデータで挑む技術者」として、自由度の高い挑戦ができます。",['東京都'],1000,0,"['SQL', 'AWS', 'GCP']","['業界未経験歓迎', '週に1回以上のリモート', '副業可', 'フレックスタイム', '転勤なし', '学歴不問', '服装自由']",False,1752125752,True,"[{'id': 289927, 'title': '【テックリードエンジニアの求人についてちょっと話をきいてみたい方向け】何のために広告代理店がCDP構築を進めているの？代表・小山と気軽に詳しく双方向でお話いただくための場をご案内しています', 'name': '【代表・小山とのカジュアル面談】まずはデータエンジニア／テックリードの仕事内容について話をきく／「広告会社のエンジニア」ではなく、「ビジネスにデータで挑む技術者」として自由度の高い挑戦がしたい方へ', 'min_salary': 1000, 'max_salary': 0, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/720646'}]",[],"['業界未経験歓迎', '週に1回以上のリモート', '副業可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/720636', 'name': '1st partyデータを活用した広告基盤構築プロジェクト', 'introduction': '広告配信データだけでなく、社内に眠る顧客接点データを統合し、“使える”データ基盤を整えるプロジェクトです。社長直下のチームで、その中核を担うエンジニアを募集しています。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-173246,【データ基盤構築エンジニア】福利厚生サービス「ベネフィット・ステーション」を提供する当社が次に挑む人事DXを実現するためのデータ活用プラットフォームエンジニア募集／フレックスタイム／リモート勤務併用可能,データ基盤構築エンジニア,"{'id': 3605, 'name': '株式会社 ベネフィット・ワン', 'title': '福利厚生サービス「ベネフィット・ステーション」運営企業、人事DXプラットフォーム企業へ成長を牽引するエンジニア積極採用中', 'established_at': 825606000, 'employee_count': 1192, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', 'シェアトップクラス', 'グローバルに活動'], 'logo_photo_url': 'https://www.green-japan.com/photo/628751'}","['https://www.green-japan.com/photo/483904', 'https://www.green-japan.com/photo/483903', 'https://www.green-japan.com/photo/648038']","ベネフィット・ワンが保有する各サービスプロダクトにおける従業員情報およびベネフィット・ステーションの実績情報について、データ基盤を共通化し、データドリブンな意思決定を推進する基盤の構築をお任せします。				
-■大規模なデータの分析に最適なプラットフォームの構想・設計（構築・運用）と実装計画の立案				
-■SQLなどのデータ操作言語を用いたデータ抽出・加工、データベースの管理やテーブル設計				
-■データマートの作成				
-■データ関連組織のプロジェクトマネジメント",['東京都'],500,1200,['SQL'],"['週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'フレックスタイム', 'toC自社サービス', 'toB自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",False,1755216394,True,[],[],"['週に1回以上のリモート', '副業可', 'フレックスタイム']","{'photo_url': None, 'name': '人事のDXを推進する『ベネワン・プラットフォーム』', 'introduction': '従業員データを活用し、人事部のDXを実現する画期的なプラットフォームです。健康状態やパフォーマンスに基づき、最適なサービスを自動提供する未来を目指します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-288436,【リモート・時差勤務・副業可】マイナビが保有する各種サービスのデータを起点とした横断的なデータ利活用の施策を立案から実行まで全て担えます◎単一サービスで物足りなさを感じている方、ぜひお話しませんか？,【リモート・時差・副業可】データマーケター,"{'id': 4234, 'name': '株式会社 マイナビ', 'title': '人々の「日常生活に当たり前の存在」をめざす総合情報サービス企業', 'established_at': 112978800, 'employee_count': 12400, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', 'シェアトップクラス'], 'logo_photo_url': 'https://www.green-japan.com/photo/672920'}","['https://www.green-japan.com/photo/731626', 'https://www.green-japan.com/photo/611152', 'https://www.green-japan.com/photo/672862']","＜業務詳細＞
-マイナビの各種サービスのユーザーデータ可視化や、横断的なデータ活用の企画立案、環境構築をご担当いただきます。
+【支給マシン】
+必要に応じてノートPCを支給
 
-マイナビでは進学情報、就職情報、転職情報など、様々なサービスを提供してきたものの、ユーザーデータなどは各サービスごとに管理されており、サービスを跨いだデータの利活用は出来ていない状況でした。
-しかしながら、ユーザーにとって新たな価値提供を進めていくためにも、また、マイナビが掲げる「一人ひとりの可能性と向き合い、未来が見える世界を作る。」というパーパスの実現のためにも、点でのタッチポイントではなく線のタッチポイントを創出すべく、マイナビが保有する各種サービスのデータを起点とした施策を検討し、実行していきたいと考えております。
+【インフラ管理】
+Chef、Puppet、AWS CloudFormation、Ansible、Kubernetes
 
-◆具体的に担当いただきたい内容
-＜マーケティング各種データの集約・可視化の基盤構築＞
-GoogleAnalyticsや各種広告レポートなどをもとに、全社的なマーケティング分析の基盤構築、運用をご担当いただきます。
+【環境】
+Linux
+エンジニア評価の仕組み
 
-＜CDP基盤構築＞
-サービス単体でのデータ施策にとどまらず、さらなるユーザーへの価値提供のため、サービス、事業部の枠を超えたデータ活用施策の立案に携わっていただきます。具体的には、CDP基盤の構築、全社横断のマーケティング施策の立案、ユーザー行動・属性の分析、データ利用規約の調整などになります。
+■開発環境
+使用している技術
+・言語：Python、Node.js、TypeScript
+・フレームワーク：Next.js
+・データベース：Firestore, Cloud SQL
+・ソースコード管理：GitHub
+・情報共有ツール：Slack
+・プロジェクト管理：Asana
+・CI/CD：Docker, GCP CodeBuild, Cloud Deploy
+・監視：Cloud Logging, Cloud Monitoring
+・その他：GitHub Copilot、ChatGPTなど
 
-＜事業部横断のマーケティング基盤・ルール整備＞
-アドフラウドツールの導入・促進、CMPツールの導入・促進、ユーザーデータの取り扱いに関する社内ルール整備などを行います。
+【開発内容タイプ】
+自社製品/自社サービス、B2B、アドテク、SaaS、AI",['東京都'],600,800,"['SQL', 'Python', 'Node.js', 'TypeScript', 'AWS', 'Docker', 'Kubernetes', 'GCP']","['週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'toB自社サービス', '急募求人', '転勤なし', '学歴不問', '服装自由']",False,1750842518,True,[],[],"['週に1回以上のリモート', '副業可']","{'photo_url': None, 'name': 'AIを活用したLP生成・最適化プロダクト', 'introduction': 'AI技術でランディングページを自動生成・最適化する新規プロダクトです。広告運用を効率化し、クライアントのマーケティング支援を革新するサービスです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+227444,データサイエンティストとして、国内トップレベルのシェアを有するサービスから得られるデータを用いて新たな価値を創造しませんか？,データサイエンティスト,"{'id': 4551, 'name': '株式会社 リクルート', 'title': 'まだ、ここにない、出会い。', 'established_at': 1349017200, 'employee_count': 20767, 'company_features': ['上場', '自社サービス製品あり', 'シェアトップクラス', 'グローバルに活動', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/571102'}","['https://www.green-japan.com/photo/397523', 'https://www.green-japan.com/photo/397529', 'https://www.green-japan.com/photo/397522']","グループの国内外の販促メディア事業やHR事業等を統括する弊社において、グループ各社の既存事業及び新規事業の成長・拡大を実現するために必要となるデータ分析業務に携わるデータサイエンティストを幅広く募集いたします。
 
-<チームのミッション（目指している方向性）>
-組織横断的チームの一員として、各サービスの課題を発見し、データ・デジタル技術を用いて解決する実行力のある組織を目指しています。
-マーケティングテクノロジーを用いてユーザー体験を高めることをミッションとしています。
+【概要】
+国内トップレベルのシェアを有するサービスから日々膨大に蓄積されている弊社のデータ。弊社のデータサイエンティストはこれらのデータを扱い、幅広い領域において新たな価値の創造に貢献します。
 
-＜本ポジションにて従事する社員のご紹介＞
-『マイナビバイト』『マイナビ20××』『マイナビ転職』各領域の現状と展望",['東京都'],450,700,"['SQL', 'GCP']","['業界未経験歓迎', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'toC自社サービス', 'toB自社サービス', '急募求人', '学歴不問', '服装自由']",False,1754992947,True,"[{'id': 284800, 'title': '【リモート・時差勤務・副業可】マイナビ社内データ利活用向上に向けて""denodoプラットフォーム""の運用ならびにポリシー作成をお任せいたします！データ活用に対する思いを全社に反映出来ます◎', 'name': '【リモート・時差・副業可】データ仮想基盤の運用担当', 'min_salary': 450, 'max_salary': 700, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/672864'}, {'id': 278031, 'title': '【リモート・時差勤務・副業可】マイナビのビックデータを活用して、全事業部横断でのデータ基盤構築に携わりませんか？人材業界のドメイン知識も豊富に得られます◎', 'name': '【リモート・時差・副業可】事業横断データエンジニア', 'min_salary': 450, 'max_salary': 700, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/648817'}]",[],"['業界未経験歓迎', '週に1回以上のリモート', '副業可']","{'photo_url': 'https://www.green-japan.com/photo/647081', 'name': '【マイナビ20××/転職/バイトetc.】総合キャリア支援プラットフォーム事業', 'introduction': '就職や転職、進学、アルバイトなどに関する情報を提供し、より良いキャリア構築を支援します。多様なサービスを通じて利用者に優れたキャリア支援を提供するプラットフォームです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-288107,【中国・四国勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア,【中国・四国勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア,"{'id': 2148, 'name': '株式会社 ニジボックス', 'title': 'リクルートグループのUI UXデザイン会社', 'established_at': 1288537200, 'employee_count': 297, 'company_features': ['カジュアル面談歓迎', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/533625'}","['https://www.green-japan.com/photo/307872', 'https://www.green-japan.com/photo/295337']","リクナビ、ホットペッパー、Airなど幅広い事業領域のサービスから日々膨大に蓄積されているリクルートグループのデータ。その中でデータドリブンな意思決定支援を実現するために、ソフトウェア・エンジニアリングの手法を活用しながら、信頼性・作業効率性の高いデータ環境の整備や BI ダッシュボードの開発などを推進します。
+【詳細】
+・担当事業の戦略に基づいて、意思決定支援、 売上・利益最大化となるデータ活用プロダクトの企画/モデル設計/実装および改善
+・プロダクトにおけるWebアクセスログ、アンケート、売上、効果などのデータを用いた戦略の立案/推進
 
-【BIダッシュボードの設計・最適化】
-・数百万〜数千万件のデータを扱うダッシュボードをTableau/Looker(Looker Studio)などのBIツールで構築
-・経営層やビジネス部門が日々の意思決定に使うため、パフォーマンス最適化（クエリ負荷軽減、キャッシュ制御）やUX設計が求められる
-例：Tableau Cloud経由でBigQueryに発行されるクエリの最適化、ビューのキャッシュ制御による負荷軽減
+例えば、下記のようなお仕事をご担当いただきます。
+・営業現場におけるデータ活用支援
+・マーケティングにおけるコスト最適化分析
+・マーケットの需要に応じた市場予測/最適化
+・アクション・売上最大化のための最適化
 
-【BigQueryを用いたデータマートの構築・運用】
-・サービスで扱うデータだけでなく、顧客接点や営業、外部のデータなど、分析に活用できるデータを収集して、利用できるように加工して提供
-・Webログ、広告、CRMなど複数のデータソースを統合し、分析しやすく・高速に動作するデータマートを設計、開発
-・dbtやdataformなど、transformationツールを使ったチーム開発が求められる
+【ポジションの魅力】
+◆技術選定における裁量が大きい
+サービス推進の観点で合理性が認められれば積極的に新たな技術や手法が採用される環境です。
+開発手法は、サービス規模や成長ステージによって様々ですが、より良い手法とわかれば、開発途中で手法を切り替えるフットワークの軽さがあります。
 
-【データの利便維持と品質管理のためのデータマネジメント」
-・TB〜PB級のデータのセキュリティやメタデータ管理をするためのデータマネジメントのスキルが求められる
-・データマートの要件やロジックを考慮したデータテストを実施し、高品質なデータ分析環境を提供する","['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県']",625,814,"['SQL', 'AWS', 'Azure', 'GCP']","['職種未経験歓迎', '業界未経験歓迎', '週に1回以上のリモート', 'リモート勤務の相談可', '副業可', 'フレックスタイム', 'クライアントワーク', '転勤なし', '学歴不問', '服装自由', '採用枠5名以上']",False,1754990527,True,"[{'id': 288128, 'title': '【東海勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【東海勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['愛知県', '岐阜県', '静岡県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 263093, 'title': 'リクルートグループ案件におけるアナリティクスエンジニア / BIエンジニア', 'name': '【ポテンシャル歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281645, 'title': '【中国・四国勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【中国・四国勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288117, 'title': '【北海道/札幌勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【北海道/札幌勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['北海道'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288124, 'title': '【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288127, 'title': '【北陸/甲信越勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【北陸/甲信越勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['新潟県', '富山県', '石川県', '福井県', '山梨県', '長野県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281639, 'title': '【東北勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【東北勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288118, 'title': '【東北勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【東北勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281640, 'title': '【東海勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【東海勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['愛知県', '岐阜県', '静岡県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288122, 'title': '【中国・四国勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【中国･四国勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281641, 'title': '【東海勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【東海勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['愛知県', '岐阜県', '静岡県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288119, 'title': '【北陸/甲信越勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【北陸/甲信越勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['新潟県', '富山県', '石川県', '福井県', '山梨県', '長野県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288120, 'title': '【東海勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【東海勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['愛知県', '岐阜県', '静岡県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288129, 'title': '【関西勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【関西勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['大阪府', '兵庫県', '京都府', '滋賀県', '奈良県', '和歌山県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288053, 'title': '【北海道 / 札幌勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【北海道 / 札幌勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['北海道'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288105, 'title': '【関西勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【関西勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['大阪府', '兵庫県', '京都府', '滋賀県', '奈良県', '和歌山県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281636, 'title': '【北海道 / 札幌勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【北海道 / 札幌勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['北海道'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288121, 'title': '【関西勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【関西勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['大阪府', '兵庫県', '京都府', '滋賀県', '奈良県', '和歌山県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281637, 'title': '【東北勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【東北勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288103, 'title': '【東北勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【東北勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288108, 'title': '【九州/福岡勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【九州/福岡勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288104, 'title': '【東海勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【東海勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['愛知県', '岐阜県', '静岡県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288123, 'title': '【九州/福岡勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【九州/福岡勤務】【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281642, 'title': '【北陸甲信越勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【北陸甲信越勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['新潟県', '富山県', '石川県', '福井県', '山梨県', '長野県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281646, 'title': '【九州/福岡勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【九州/福岡勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288109, 'title': '【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【エキスパート / リード経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288126, 'title': '【東北勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【東北勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['青森県', '岩手県', '宮城県', '秋田県', '山形県', '福島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 270012, 'title': '【関西勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【関西勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['大阪府', '兵庫県', '京都府', '滋賀県', '奈良県', '和歌山県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288055, 'title': '【北陸甲信越勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【北陸甲信越勤務】【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['新潟県', '富山県', '石川県', '福井県', '山梨県', '長野県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 261573, 'title': 'リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288130, 'title': '【中国･四国勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【中国･四国勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 261572, 'title': 'リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281644, 'title': '【中国・四国勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【中国・四国勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['鳥取県', '島根県', '岡山県', '広島県', '山口県', '徳島県', '香川県', '愛媛県', '高知県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281643, 'title': '【北陸甲信越勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【北陸甲信越勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['新潟県', '富山県', '石川県', '福井県', '山梨県', '長野県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 283326, 'title': '【関西勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【関西勤務】【経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['大阪府', '兵庫県', '京都府', '滋賀県', '奈良県', '和歌山県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288125, 'title': '【北海道/札幌勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【北海道/札幌勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['北海道'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288131, 'title': '【九州/福岡勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'name': '【九州/福岡勤務】【経験者歓迎】リクルートグループのアクセスログの活用を推進するアナリティクスエンジニア / BIエンジニア', 'min_salary': 512, 'max_salary': 743, 'areas': ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 270013, 'title': '【九州/福岡勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【九州/福岡勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['福岡県', '佐賀県', '長崎県', '熊本県', '大分県', '宮崎県', '鹿児島県'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 281635, 'title': '【北海道 / 札幌勤務】リクルートグループ案件におけるデータエンジニア/BIエンジニア', 'name': '【北海道 / 札幌勤務】【ポテンシャル歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 420, 'max_salary': 625, 'areas': ['北海道'], 'photo_url': 'https://www.green-japan.com/photo/307872'}, {'id': 288052, 'title': '【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'name': '【エキスパート / リード経験者歓迎】リクルートグループにおけるデータ利活用を推進するBIエンジニア', 'min_salary': 625, 'max_salary': 814, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/307872'}]",[],"['職種未経験歓迎', '業界未経験歓迎', '週に1回以上のリモート', '副業可', 'フレックスタイム']","{'photo_url': None, 'name': 'デザイン思考に基づくUI・UX制作事業', 'introduction': 'デザイン思考を基にしたUI・UXデザインと開発・運用のワンストップサービス。クライアントの課題に真正面から向き合う伴走型のサポートで革新を形にします。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
-177585,【データエンジニア】自社取得のテレビ視聴データの仕組み・基盤を整え、レガシーなテレビCMの巨大市場をまるごとDX化する【IPO準備中】,データエンジニア,"{'id': 5652, 'name': '株式会社 スイッチメディア', 'title': '「広告費の無駄を成長への投資に変える」テクノロジーの力で変革することを目指す上場直前のスタートアップ', 'established_at': 1349017200, 'employee_count': 31, 'company_features': ['上場を目指す', '自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/630473'}","['https://www.green-japan.com/photo/468853', 'https://www.green-japan.com/photo/468865', 'https://www.green-japan.com/photo/364567']","「テレビ広告のDX」×「自社収集データ基盤の仕組みづくり×データエンジニア」
-
-【業務内容】
-データを効率的に管理・分析するための仕組みづくりをお任せします
-
-- 自社収集した一次データをサービスとして利活用するための仕組み(ETL)を整える
-- 業務DBなどから収集したデータのモニタリング、正確性の担保
-- Web開発のために必要なデータの準備
-- 分析用のデータベースの設計・構築、運用
-- ダッシュボードなどによるデータ可視化・データ抽出
+開発組織・環境や技術面において、弊社は今、まさに変革の時を迎えています。
+そのため、新しい開発手法の検討から実施までを、エンジニア一人ひとりが主体者として積極的に取り組むことができ、また会社からもそれを求められます。
 
 【開発環境】
-現在、新プロダクトの開発を行っており、
-Kotlin＋DDDのモダンな技術を取り入れています。
+・プログラミング言語
+　SQL、 Python、R、Hive／Spark、等
+・インフラ
+　Google Cloud(BigQuery、等)
+　AWS(EC2、EMR、Redis、S3、等)
+・チーム開発ツール
+　JIRA、Confluence、Bitbucket、Gitlab／Gitlab CI、Slack、等
 
-　- 言語：Kotlin（Ktor）、Vuejs（TypeScript）
-　- DB：Aurora PostgreSQL, AWS EMR（Hadoop）
-　- インフラ：AWS、Terraform、CloudFormation
+【変更の範囲】全ての業務への配置転換の可能性あり",['東京都'],544,1379,"['SQL', 'Python', 'R', 'AWS', 'Redis', 'Spark']","['週に1回以上のリモート', 'リモート勤務の相談可', '転勤なし', '服装自由']",False,1741866529,True,"[{'id': 130243, 'title': '【リモート/フレックス/週休約3日】国内トップクラスの大規模なシステム開発に携われます！スペシャリストとともにデータとテクノロジーを活用して、社会価値を最大化する仕事に挑戦しませんか？', 'name': 'データエンジニア ※Webエンジニア歓迎', 'min_salary': 543, 'max_salary': 1378, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/571093'}, {'id': 215443, 'title': '【リモート/フレックス/週休約3日】リクルートグループのデータを司るアナリティクスエンジニア募集！', 'name': 'アナリティクスエンジニア', 'min_salary': 543, 'max_salary': 1378, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/571093'}, {'id': 216091, 'title': '【リモート/フレックス/週休約3日】国内トップクラスの大規模なシステム開発に携われます！スペシャリストとともにデータとテクノロジーを活用して、社会価値を最大化する仕事に挑戦しませんか？', 'name': 'ソフトウェアエンジニア', 'min_salary': 735, 'max_salary': 1048, 'areas': ['東京都'], 'photo_url': 'https://www.green-japan.com/photo/571093'}]",[],['週に1回以上のリモート'],"{'photo_url': None, 'name': 'データ活用のマッチングプラットフォーム', 'introduction': '膨大なデータを活用し、今までにないマッチング精度と価値を提供します。Google CloudやAWSを駆使し、データパイプラインや分析基盤の開発をリードします。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+282510,データドリブンな事業支援体制の中核を担うデータテクノロジスト《セルフマネジメント/フルフレックス/リモートOK（ハイブリッド勤務）/大阪本社》,データテクノロジスト【戦略的なデジタルマーケティング支援の根幹を支えるスペシャリスト】,"{'id': 4455, 'name': 'a-works 株式会社', 'title': '【クライアントとともに10倍成長をめざす】コンサル伴走×広告執行×システム支援での「伴走型マーケティング支援」', 'established_at': 1222786800, 'employee_count': 38, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり'], 'logo_photo_url': 'https://www.green-japan.com/photo/530463'}","['https://www.green-japan.com/photo/701920', 'https://www.green-japan.com/photo/608727', 'https://www.green-japan.com/photo/701919']","「データテクノロジスト」はマーケティングデータ分析環境の構築運用を軸に、マーケティング支援事業の根幹を支えるポジションです。
 
-※上記の経験全てお持ちの方でなくても、習得する意欲のある方であれば歓迎です
+将来的には、クライアントのビジネス構造や自社の事業戦略を理解し、データを活用した差別化戦略の企画や設計など、上流工程にも積極的に携わっていただきます。
 
-【開発チームメンバー】
-開発チームは未踏エンジニアがCTOを務め、現在は業務委託の方を中心にシステム開発を進めております。
-その他、noteやコナミ、NTTグループ出身者など様々なメンバーが在籍しています。
+a-worksメンバーとともに学び、考え、変化を楽しみながら「a-worksにしかできない事業支援」のあり方を一緒に作っていきませんか？
 
-【プロダクトについて】
-テレビCMを売上につなげるための新SaaS「TVAL」
-多額のマーケティング投資を必要とするテレビCMが、「売上にどれだけ貢献しているのか」「どれだけ効率化できるのか」分からないということが、経営者やマーケターにとって長年の悩みでした。 私たちが提供するプロダクトは、精度の高いテレビ視聴データや、購買履歴やパソコン・スマートフォンの閲覧履歴の実データを活用し、テレビCMを視聴した人が実際に商品を購入したのかを分析し、成果につなげることができます。さらなる展望としては、Netflixなどのインターネットテレビのデータの取得・提供すべく、データ取得の仕組みの研究を進めているところです。
 
-▼主要取引先
-花王、Google、資生堂、ユニ・チャーム、電通、博報堂、ADK、サイバーエー ジェント、オプト、民放キー局　他多数
+■■具体的な仕事内容■■
+クライアント企業が抱えるマーケティング課題に対して、データドリブンな意思決定を支援する環境づくりに携わります。
 
-【サービスの競合優位性】
-テレビ広告やインターネット広告などで「安価にテレビCMを配信可能」「テレビ広告の成果を可視化する」といったサービスを目にした機会があるかもしれません。
-弊社はそうしたサービス事業者に対して「独自のテレビ視聴データ」の情報を提供する側であり、独自のポジショニングを確立しています。
+社内のプロデューサーやマーケティングディレクターと議論しながら、クライアントの課題に合わせたデータ分析基盤の設計から実装、そして運用までを担当します。
 
-■量の優位性：国内トップクラスのテレビ視聴パネルを構築（10,000世帯、24,000人）
-■質の優位性：年収や車・家電の所有状況、ライフスタイルなど150項目以上の詳細な属性で視聴者分析が可能となり、広告主はよりターゲットに近い人にテレビCＭを届けることが可能
+＜具体的な業務内容＞
+■プロデューサーやマーケティングディレクターへのデータ分析支援
+■BigQueryを用いたデータウェアハウスの構築・運用
+■SQLやPythonを使用したデータ集計・加工および分析環境の設計・実装
+■Looker等のBIツールを活用したデータの可視化および分析支援
+■マーケティング施策の効果測定に関するデータ集計方法の企画・設計・実装
+■分析精度向上を目的としたデータ活用基盤（データウェアハウス等）の企画・設計・運用
+■クライアント企業や社内関係者（プロデューサー、マーケティングディレクター等）とのディスカッションを通じた新たな分析手法の検討および試作
 
-【組織風土】
-「ワンチーム」という言葉の元に全員でプロダクトを作りにいく
-テレビCMを取り巻く市場にはまだ多くの課題が残されており、日々その課題を一番触れているのは現場のメンバー達です。わたしたちは現場主義を重要視しており、裁量は非常に大きく、組織はフラット。「全員でプロダクトを作りにいく」というフェーズにありコミュニケーションは非常に取りやすい環境です。
-会社としても、業界としても、非常に大きな変化を迎えている時期であり、かつ世の中に模倣できる前例がないからこそ、一人ひとりの主体的な行動や提案が業界のデファクトスタンダードとなるチャンスも多くあります。他では得難い経験を積むことができるフェーズのど真ん中であることは間違いありません。",['東京都'],650,900,"['C', 'SQL', 'Hadoop', 'TypeScript', 'AWS', 'PostgreSQL', 'Kotlin', 'DDD']","['週に1回以上のリモート', 'リモート勤務の相談可', 'フレックスタイム', 'toB自社サービス', '転勤なし', '学歴不問', '服装自由']",False,1755053770,True,[],[],"['週に1回以上のリモート', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/646149', 'name': 'テレビ×デジタル 広告分析サービス「TVAL」', 'introduction': 'テレビCMとインターネット広告の効果を横断的に分析し、売上や成果への貢献度を定量的に可視化できるマーケティングSaaSです。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+a-worksメンバーのマーケティング知見と、データとテクノロジーを融合させ、より本質的な事業支援体制をともに創り上げましょう。
+
+
+■■ミッション■■
+a-worksは、創業からクライアントやパートナーと深い信頼関係を築きながら、広告事業を軸として多くの成果を生み出してきました。
+
+a-worksの一番の強みは、新規獲得数の最大化だけでなく「CPO※」を守りながら「F2※」の向上に徹底的に向き合うことで、健全な構造での事業成長支援、ブランドスケール支援を実現できることです。
+
+※CPO＝1件の注文を獲得するのにかかった費用のこと
+※F2＝消費者の二回目購入率のこと
+
+一般的に広告代理店は、新規獲得の数を追うことが多いため、顧客の質に言及することは少ないです。しかし、クライアント企業にとっては、新規獲得した顧客がその後の継続的な購入につながっているかどうかも非常に重要になります。そのため、単なる獲得数の向上だけでは、クライアント企業にとって本質的な事業支援にならない恐れがあります。
+
+a-worksの広告運用では、ロイヤルカスタマーを丁寧に紐解き、F2を越えた顧客層に合わせて新規獲得向けクリエイティブを再定義。配信ターゲットの調整を日々日々細かく行うことでブランドエンゲージメントと共に売上が伸びる構造を作り込み、クライアントのD2C事業にブレイクスルーをご提供しています。
+
+この価値提供を続け、より高めていくためには、「新規獲得数」のような部分的なデータだけではなく、CPOやF2などをはじめとするクライアント事業の重要指標を中心に、多様なデータを多面的な切り口で網羅的に分析できる環境が不可欠となります。
+
+その分析環境のあるべき姿を描き、実現にむけて牽引することが、a-worksでのデータテクノロジストとしてのミッションです。
+
+データテクノロジストは、より高度なデータ活用とテクノロジーをa-works事業の武器として強化するために、2025年から新設されたポジションとなります。ジョブローテーションにて既に活躍しているメンバーも社内にいますが、「a-worksにおけるデータテクノロジストの在り方」は、これから具体的に固めていくフェーズとなります。
+
+具体的な業務の推進のみでなく、より上流のコンセプト設計など、データを軸とした組織の成長牽引へ裁量大きく挑戦したい方にご入社いただきたいです。",['大阪府'],400,700,"['SQL', 'Python']","['週に1回以上のリモート', 'リモート勤務の相談可', '副業可', '時短勤務可', 'フレックスタイム', '急募求人', '学歴不問', '服装自由']",False,1750123148,True,[],[],"['週に1回以上のリモート', '副業可', '時短勤務可', 'フレックスタイム']","{'photo_url': 'https://www.green-japan.com/photo/668942', 'name': 'マーケティングを通して顧客を事業成功へ導くブランド事業支援', 'introduction': 'ブランドの価値を高めるマーケティング支援。経営目的「関わる人の人生の意義を高める」へ向かい、成し遂げるべき「強い想い」を持つ人や企業、ブランドへ、圧倒的な成果で応えます。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+253161,痛みの見える化を通じて世界中の医療に貢献する研究と開発を行う大阪大学発ベンチャー/データサイエンティスト募集,AIエンジニア・データサイエンティスト,"{'id': 10144, 'name': 'PaMeLa 株式会社', 'title': '脳波とAIで痛みを視覚化。世界の医療現場を革新するスタートアップ企業', 'established_at': 1454252400, 'employee_count': 9, 'company_features': ['カジュアル面談歓迎', '自社サービス製品あり', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/623145'}","['https://www.green-japan.com/photo/625119', 'https://www.green-japan.com/photo/625108', 'https://www.green-japan.com/photo/625129']","当社が開発する痛み推定装置のアルゴリズム開発・評価および取得データのバリデーションおよび精査
+具体的には、
+・痛み推定装置のアルゴリズム設計および評価
+・痛み推定装置のアルゴリズム評価指標の確立
+・臨床・非臨床試験取得データのバリデーション
+・機械学習モデルを複数用いたプロセスフローの確立
+・機械学習モデルの選択メカニズム開発や計算プロセスの最適化
+・システム開発に関わるメンバーとの開発プロジェクト参画および推進
+・特許出願等",['大阪府'],500,700,"['C#', 'C', 'C++', 'Java', 'Python', 'React', 'TensorFlow', 'Keras']","['リモート勤務の相談可', 'フレックスタイム', '転勤なし', '語学を活かす', '多国籍な職場']",False,1718165221,True,"[{'id': 253162, 'title': '痛みの見える化を通じて世界中の医療に貢献する研究と開発を行う大阪大学発ベンチャー/データサイエンティストマネージャー募集', 'name': 'AIエンジニア・データサイエンティスト\u3000マネージャー', 'min_salary': 700, 'max_salary': 1200, 'areas': ['大阪府'], 'photo_url': 'https://www.green-japan.com/photo/625120'}]",[],"['リモート勤務の相談可', 'フレックスタイム']","{'photo_url': None, 'name': '脳波解析による痛み定量化システム開発', 'introduction': '脳波を解析し痛みを数値化する革新的な医療システムを開発中です。手術後の痛み管理をサポートするため、より精密な疼痛評価を実現します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"
+207594,データベースエンジニア募集！在宅勤務あり/上流工程◎,データベースエンジニア,"{'id': 3517, 'name': 'フレックシステムズ 株式会社', 'title': '変化する時代に適応し、 企業と人をつなぐソリューションを創造します', 'established_at': 1064934000, 'employee_count': 56, 'company_features': ['カジュアル面談歓迎', '残業少なめ'], 'logo_photo_url': 'https://www.green-japan.com/photo/524968'}","['https://www.green-japan.com/photo/529314', 'https://www.green-japan.com/photo/529317', 'https://www.green-japan.com/photo/529321']","DWH/データカタログを用いたシステム構築、運用保守
+
+《具体的には》
+・各基幹システムが持っているデータを収集するための連携処理の製造、およびジョブ化。
+・各基幹システムから集約したデータの仮想DB化。
+・仮想DB化されたデータからデータカタログの作成。
+・上記作成したシステムの運用保守。","['東京都', '神奈川県', '千葉県', '埼玉県']",400,600,['SQL'],"['週に1回以上のリモート', 'リモート勤務の相談可', '急募求人', '学歴不問', '採用枠5名以上']",False,1732769179,True,[],[],['週に1回以上のリモート'],"{'photo_url': None, 'name': 'オープン系Webシステム開発・運用事業', 'introduction': '顧客のニーズに応じたシステム開発から運用・保守までを一貫して提供します。小規模から大規模システムまで、傾向を掴んだ最適なソリューションを実現します。'}","{'is_already_favorite_from_user': False, 'is_already_favorite_from_client': False, 'is_already_want_to_talk': False, 'is_already_want_to_meet': False}","{'can_apply': True, 'is_job_offer_closed': False, 'is_scout_received': False, 'message_thread_id': 0}"

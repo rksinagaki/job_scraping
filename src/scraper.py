@@ -11,25 +11,13 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'
 }
 
-# 全ての求人情報を格納するリスト
+# 求人情報リスト
 all_job_offers = []
 
-# 正しいペイロードを定義（オフセットを0に固定）
+# payload設定
 payload = {
-    "offset": 0,
-    "order_type": "jobOfferScore",
     "user_search": {
-        "area_ids": [],
-        "company_feature_ids": [],
-        "job_feature_ids": [],
-        "job_tag_ids": [60],
-        "keyword": "",
-        "new_flg": False,
-        "over_employees": 0,
-        "over_establish_yyyy": 0,
-        "salary_bottom_id": 0,
-        "under_employees": 0,
-        "under_establish_yyyy": 0
+        "job_tag_ids": [60] #61,62
     }
 }
 
@@ -41,7 +29,7 @@ try:
     # 取得した求人情報をリストに追加
     job_offers_list = data.get("job_offers", [])
     all_job_offers.extend(job_offers_list)
-    print(f"✅ オフセット 0 の求人情報を取得しました。")
+    print(f"オフセット 0 の求人情報を取得しました。")
 
 except requests.exceptions.RequestException as e:
     print(f"APIリクエスト中にエラーが発生しました: {e}")
@@ -75,20 +63,13 @@ df_filtered = df[columns_to_keep]
 df_filtered['client_name'] = df_filtered['client'].apply(
     lambda x: ast.literal_eval(x)['name'] if pd.notna(x) else None
 )
-
+df_filtered['employee_count'] = df_filtered['client'].apply(
+    lambda x: ast.literal_eval(x)['employee_count'] if pd.notna(x) else None
+)
 df_filtered = df_filtered.drop('client', axis = 1)
 
-df_filtered['skills_list'] = df_filtered['job_offer_skill_names'].apply(ast.literal_eval)
+df_filtered['job_offer_skill_names'] = df_filtered['job_offer_skill_names'].apply(ast.literal_eval)
 
 print("\n必要な情報のみに絞り込みました:")
 
 df_filtered.to_csv('filtered.csv')
-
-
-# ここから　スキルと勤務地をリストでデータに格納する。
-print(df_filtered.loc[1,['skills_list']])
-test_list = df_filtered.loc[1,['skills_list']]
-for i in test_list:
-    print(i)
-    print('-------------')
-
