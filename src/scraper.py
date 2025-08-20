@@ -20,8 +20,16 @@ all_job_offers = []
 # 職種タグ
 job_tag_ids = [60, 61, 62]
 
-# ページネーション（offset は 0始まりのページ番号とみなす）
+# ページネーション
 offset = 0
+
+def process_page_response(data, offset, list):
+    job_offers_list = data.get("job_offers")
+    list.extend(job_offers_list)
+    print(f"[page={offset}] 取得（{len(job_offers_list)}件）。")
+    # next_offset_value = data.get("next_offset")
+    # return (next_offset_value if isinstance(next_offset_value, int) else None), False
+
 
 while True:
     payload = {
@@ -31,27 +39,19 @@ while True:
             "job_tag_ids": job_tag_ids
         }
     }
+
     try:
         response = requests.post(api_url, json=payload, headers=headers, timeout=10)
         response.raise_for_status()
         data = response.json()
 
-        total_count = data.get("total_count") or data.get("total") or data.get("job_offers_total_count")
-        job_offers_list = data.get("job_offers", [])
-        if not job_offers_list:
-            print("これ以上の求人情報はありません。")
+        result = process_page_response(data, offset, all_job_offers)
+        next_offset_value = result[0]
+        is_last = result[1]
+        if is_last:
             break
-
-        all_job_offers.extend(job_offers_list)
-        got = len(job_offers_list)
-        if total_count is not None:
-            print(f"[page={offset}] 取得（{got}件 / total={total_count}）。")
-        else:
-            print(f"[page={offset}] 取得（{got}件）。")
-
-        next_offset = data.get("next_offset") or data.get("nextOffset")
-        if isinstance(next_offset, int):
-            offset = next_offset
+        if next_offset_value is not None:
+            offset = next_offset_value
         else:
             offset += 1
 
@@ -65,27 +65,7 @@ while True:
             print(f"APIリクエスト中にエラーが発生しました: {e} | status={status_code} | body={body}")
         except Exception:
             print(f"APIリクエスト中にエラーが発生しました: {e}")
-        # 軽いリトライ（1回）
-        try:
-            time.sleep(1.0)
-            response = requests.post(api_url, json=payload, headers=headers, timeout=15)
-            response.raise_for_status()
-            data = response.json()
-            job_offers_list = data.get("job_offers", [])
-            if not job_offers_list:
-                print("これ以上の求人情報はありません。（リトライ後空）")
-                break
-            all_job_offers.extend(job_offers_list)
-            print(f"[Retry OK][page={offset}] 取得（{len(job_offers_list)}件）。")
-            next_offset = data.get("next_offset") or data.get("nextOffset")
-            if isinstance(next_offset, int):
-                offset = next_offset
-            else:
-                offset += 1
-            continue
-        except Exception as e2:
-            print(f"リトライでも失敗しました。処理を終了します: {e2}")
-            break
+        break
 
 # 取得した全データをDataFrameに変換
 df = pd.DataFrame(all_job_offers)
