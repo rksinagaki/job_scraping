@@ -245,7 +245,8 @@ st.markdown("* 職種別求人割合(表)")
 st.dataframe(job_proportions.round(1))
 
 
-# ここからヒートマップのコード読解とスキルと求人数を表にもプロット
+# ここは後で理解するーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+# ヒートマップのコード読解とスキルと求人数を表にもプロット
 # 職種ごとのスキルヒートマップ
 all_skills = [skill for sublist in df_filtered_final['job_offer_skill_names'].dropna() for skill in sublist]
 skill_counts = Counter(all_skills)
@@ -278,6 +279,8 @@ df_skill_counts = pd.DataFrame(
     skill_counts.most_common(),
     columns=['スキル名', '求人件数']
 )
+
+# ここまでーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 st.subheader("スキル別求人件数")
 st.dataframe(df_skill_counts)

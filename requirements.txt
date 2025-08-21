@@ -6,3 +6,5 @@ streamlit
 selenium
 japanize-matplotlib
 matplotlib
+psycopg2-binary
+sqlalchemy
