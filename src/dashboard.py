@@ -10,7 +10,10 @@ from collections import Counter
 
 df = pd.read_csv('./data/all_pages.csv')
 
+
+# -----------------
 # コラム厳選
+# -----------------
 columns_to_keep = [
     'job_offer_id',
     'job_offer_name',
@@ -37,7 +40,6 @@ def to_dict_if_needed(value):
         return None
     return None
 
-
 def to_list_if_needed(value):
     if value is None:
         return None
@@ -52,7 +54,10 @@ def to_list_if_needed(value):
         return None
     return None
 
-#データの整形
+
+# -----------------
+# データ整形
+# -----------------
 if 'client' in df_filtered.columns:
     df_filtered['client_dict'] = df_filtered['client'].apply(to_dict_if_needed)
     df_filtered['client_name'] = df_filtered['client_dict'].apply(lambda d: d.get('name') if isinstance(d, dict) else None)
@@ -74,15 +79,30 @@ if 'job_offer_name' in df_filtered.columns:
     df_filtered.loc[df_filtered['job_offer_name'].str.contains('データサイエンティスト|データアナリスト'), 'job_tag'] = 'データサイエンティスト'
     df_filtered.loc[df_filtered['job_offer_name'].str.contains('AIエンジニア|機械学習エンジニア|AI開発エンジニア'), 'job_tag'] = 'AIエンジニア'
 
+# 欠損値中央値補完
+if 'job_offer_max_salary' in df_filtered.columns:
+    median_salary = df_filtered['job_offer_max_salary'].median()
+    df_filtered['job_offer_max_salary'] = df_filtered['job_offer_max_salary'].replace(0, np.nan)
+    df_filtered['job_offer_max_salary'] = df_filtered['job_offer_max_salary'].fillna(median_salary)
+
+if 'job_offer_max_salary' in df_filtered.columns and 'job_offer_min_salary' in df_filtered.columns:
+    df_filtered['avg_salary'] = (df_filtered['job_offer_max_salary'] + df_filtered['job_offer_min_salary'])/2
+
 df_filtered.to_csv('data/filtered.csv', index=False, encoding='utf-8-sig')
 
 print("\n必要なデータ絞り込みました:")
 
 
-#dashboard化-----------------------------------------------------
+# -----------------
+# ダッシュボード化
+# -----------------
 st.title('データ職種求人ダッシュボード')
 st.sidebar.header('フィルタ')
 
+
+# -----------------
+# サイドバー
+# -----------------
 # 職種
 job_options = ['すべて','AIエンジニア','データサイエンティスト','データエンジニア','その他']
 selected_job = st.sidebar.selectbox('職種を選択:', options=job_options)
@@ -96,11 +116,28 @@ unique_areas = list(set(all_areas))
 area_options = ['すべて'] + unique_areas
 selected_area = st.sidebar.selectbox('勤務地:', options=area_options)
 
+#給与
+with st.sidebar.expander("給与フィルター"):
+    #最小値給与
+    min_salary_options = ['すべて', '300万未満','300万～', '400万～', '500万～', '600万～', '700万～', '800万～', '900万～', '1000万～']
+    selected_min_range = st.selectbox('最低年収:', options=min_salary_options)
+
+    # 最大値給与
+    max_salary_options = ['すべて', '300万未満','300万～', '400万～', '500万～', '600万～', '700万～', '800万～', '900万～', '1000万～']
+    selected_max_range = st.selectbox('最高年収:', options=max_salary_options)
+
+    # 代表値給与
+    avg_salary_options = ['すべて', '300万未満','300万～', '400万～', '500万～', '600万～', '700万～', '800万～', '900万～', '1000万～']
+    selected_avg_range = st.selectbox('年収の代表値):', options=avg_salary_options)
+
 # 従業員数
 employee_options = ['すべて', '〜100人', '101〜500人', '501〜1000人', '1001人〜']
 selected_emp_range = st.sidebar.selectbox('従業員数:', options=employee_options)
 
 
+# -----------------
+# フィルター
+# -----------------
 # 職種フィルタリング
 if selected_job != 'すべて':
     df_filtered_by_job = df_filtered[df_filtered['job_tag'] == selected_job]
@@ -110,44 +147,83 @@ else:
 # 勤務地フィルタリング
 if selected_area != 'すべて':
     df_filtered_by_area = df_filtered_by_job[df_filtered_by_job['job_offer_areas'].apply(
-        # ここからーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+        # 不明
         lambda x: any(item in selected_area for item in x)
     )]
 else:
     df_filtered_by_area = df_filtered_by_job
 
-#給与フィルタリング
+# 給与フィルタリング
+salary_filters = {
+    'すべて': None,
+    '300万未満': 300,
+    '300万～': 300,
+    '400万～': 400,
+    '500万～': 500,
+    '600万～': 600,
+    '700万～': 700,
+    '800万～': 800,
+    '900万～': 900,
+    '1000万～': 1000,
+}
+# 最小値フィルタ
+selected_min_salary_value = salary_filters[selected_min_range]
+if selected_min_salary_value is None:
+    df_filtered_by_min = df_filtered_by_area
+elif selected_min_range == '300万未満':
+    df_filtered_by_min = df_filtered_by_area[df_filtered_by_area['job_offer_min_salary'] < selected_min_salary_value]
+else:
+    df_filtered_by_min = df_filtered_by_area[df_filtered_by_area['job_offer_min_salary'] >= selected_min_salary_value]
 
+# 最大値フィルタ
+selected_max_salary_value = salary_filters[selected_max_range]
+if selected_max_salary_value is None:
+    df_filtered_by_max = df_filtered_by_min
+elif selected_max_range == '300万未満':
+    df_filtered_by_max = df_filtered_by_min[df_filtered_by_min['job_offer_max_salary'] < selected_max_salary_value]
+else:
+    df_filtered_by_max = df_filtered_by_min[df_filtered_by_min['job_offer_max_salary'] >= selected_max_salary_value]
+
+# 代表値フィルタ
+selected_avg_salary_value = salary_filters[selected_avg_range]
+if selected_avg_salary_value is None:
+    df_filtered_by_avg = df_filtered_by_max
+elif selected_avg_range == '300万未満':
+    df_filtered_by_avg = df_filtered_by_max[df_filtered_by_max['avg_salary'] < selected_avg_salary_value]
+else:
+    df_filtered_by_avg = df_filtered_by_max[df_filtered_by_max['avg_salary'] >= selected_avg_salary_value]
 
 # 従業員数フィルタリング
 if selected_emp_range == '〜100人':
-    df_filtered_final = df_filtered_by_area[df_filtered_by_area['employee_count'] <= 100]
+    df_filtered_final = df_filtered_by_avg[df_filtered_by_avg['employee_count'] <= 100]
 elif selected_emp_range == '101〜500人':
-    df_filtered_final = df_filtered_by_area[(df_filtered_by_area['employee_count'] > 100) & (df_filtered_by_area['employee_count'] <= 500)]
+    df_filtered_final = df_filtered_by_avg[(df_filtered_by_avg['employee_count'] > 100) & (df_filtered_by_avg['employee_count'] <= 500)]
 elif selected_emp_range == '501〜1000人':
-    df_filtered_final = df_filtered_by_area[(df_filtered_by_area['employee_count'] > 500) & (df_filtered_by_area['employee_count'] <= 1000)]
+    df_filtered_final = df_filtered_by_avg[(df_filtered_by_avg['employee_count'] > 500) & (df_filtered_by_avg['employee_count'] <= 1000)]
 elif selected_emp_range == '1001人〜':
-    df_filtered_final = df_filtered_by_area[df_filtered_by_area['employee_count'] > 1000]
+    df_filtered_final = df_filtered_by_avg[df_filtered_by_avg['employee_count'] > 1000]
 else:
-    df_filtered_final = df_filtered_by_area
+    df_filtered_final = df_filtered_by_avg
 
 st.write(f"合計 {df_filtered_final['job_offer_id'].count()} 件の求人情報")
 st.dataframe(df_filtered_final)
 
+
 # -----------------
-# 3. グラフの可視化
+# プロットする情報
 # -----------------
 st.header('主要な分析')
 
 # 職種別の求人割合
 job_counts = df_filtered_final['job_tag'].value_counts()
-fig_job_pie = px.pie(
+fig_job_bar = px.bar(
     job_counts,
-    values=job_counts.values,
-    names=job_counts.index,
-    title='職種別求人割合'
+    x=job_counts.index,
+    y=job_counts.values,
+    title='職種別求人割合',
+    labels={'x': '職種', 'y': '求人件数'}
 )
-st.plotly_chart(fig_job_pie)
+st.plotly_chart(fig_job_bar)
 
 # 職種ごとのスキルヒートマップ
 all_skills = [skill for sublist in df_filtered_final['job_offer_skill_names'].dropna() for skill in sublist]
