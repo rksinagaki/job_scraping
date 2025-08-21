@@ -7,6 +7,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from collections import Counter
+import japanize_matplotlib
 
 df = pd.read_csv('./data/all_pages.csv')
 
@@ -26,7 +27,7 @@ columns_to_keep = [
 
 df_filtered = df.loc[:, columns_to_keep].copy()
 
-def to_dict_if_needed(value):
+def to_dict(value):
     if value is None:
         return None
     if isinstance(value, dict):
@@ -40,7 +41,7 @@ def to_dict_if_needed(value):
         return None
     return None
 
-def to_list_if_needed(value):
+def to_list(value):
     if value is None:
         return None
     if isinstance(value, list):
@@ -59,25 +60,26 @@ def to_list_if_needed(value):
 # データ整形
 # -----------------
 if 'client' in df_filtered.columns:
-    df_filtered['client_dict'] = df_filtered['client'].apply(to_dict_if_needed)
-    df_filtered['client_name'] = df_filtered['client_dict'].apply(lambda d: d.get('name') if isinstance(d, dict) else None)
-    df_filtered['employee_count'] = df_filtered['client_dict'].apply(lambda d: d.get('employee_count') if isinstance(d, dict) else None)
-    df_filtered['established'] = df_filtered['client_dict'].apply(lambda d: d.get('established_at') if isinstance(d, dict) else None)
-    # df_filtered['established'] = df_filtered.to_datetime('established', unit='s')
+    df_filtered['client_dict'] = df_filtered['client'].apply(to_dict)
+    df_filtered['client_name'] = [d.get('name') for d in df_filtered['client_dict']]
+    df_filtered['employee_count'] = [d.get('employee_count') for d in df_filtered['client_dict']]
+    df_filtered['established'] = [d.get('established_at') for d in df_filtered['client_dict']]
+    # df_filtered['employee_count'] = df_filtered['client_dict'].apply(lambda d: d.get('employee_count') if isinstance(d, dict) else None)
+    # df_filtered['established'] = df_filtered['client_dict'].apply(lambda d: d.get('established_at') if isinstance(d, dict) else None)
     df_filtered['established'] = pd.to_datetime(df_filtered['established'], unit='s')
     df_filtered = df_filtered.drop(['client', 'client_dict'], axis=1, errors='ignore')
 
 if 'job_offer_skill_names' in df_filtered.columns:
-    df_filtered['job_offer_skill_names'] = df_filtered['job_offer_skill_names'].apply(to_list_if_needed)
+    df_filtered['job_offer_skill_names'] = df_filtered['job_offer_skill_names'].apply(to_list)
 
 if 'job_offer_areas' in df_filtered.columns:
-    df_filtered['job_offer_areas'] = df_filtered['job_offer_areas'].apply(to_list_if_needed)
+    df_filtered['job_offer_areas'] = df_filtered['job_offer_areas'].apply(to_list)
 
 if 'job_offer_name' in df_filtered.columns:
     df_filtered['job_tag'] = 'その他'
-    df_filtered.loc[df_filtered['job_offer_name'].str.contains('データ基盤エンジニア|データエンジニア|データベースエンジニア'), 'job_tag'] = 'データエンジニア'
+    df_filtered.loc[df_filtered['job_offer_name'].str.contains('データ基盤エンジニア|データエンジニア|データベースエンジニア|データ分析基盤エンジニア|DBエンジニア'), 'job_tag'] = 'データエンジニア'
     df_filtered.loc[df_filtered['job_offer_name'].str.contains('データサイエンティスト|データアナリスト'), 'job_tag'] = 'データサイエンティスト'
-    df_filtered.loc[df_filtered['job_offer_name'].str.contains('AIエンジニア|機械学習エンジニア|AI開発エンジニア'), 'job_tag'] = 'AIエンジニア'
+    df_filtered.loc[df_filtered['job_offer_name'].str.contains('AIエンジニア|機械学習エンジニア|AI開発エンジニア|LLMエンジニア|MLエンジニア'), 'job_tag'] = 'AIエンジニア'
 
 # 欠損値中央値補完
 if 'job_offer_max_salary' in df_filtered.columns:
@@ -87,6 +89,21 @@ if 'job_offer_max_salary' in df_filtered.columns:
 
 if 'job_offer_max_salary' in df_filtered.columns and 'job_offer_min_salary' in df_filtered.columns:
     df_filtered['avg_salary'] = (df_filtered['job_offer_max_salary'] + df_filtered['job_offer_min_salary'])/2
+
+new_order = [
+    'job_offer_id',
+    'client_name',
+    'job_offer_name',
+    'job_tag',
+    'job_offer_areas',
+    'job_offer_skill_names',
+    'employee_count',
+    'established',
+    'job_offer_min_salary',
+    'job_offer_max_salary',
+    'avg_salary',
+]
+df_filtered = df_filtered[new_order]
 
 df_filtered.to_csv('data/filtered.csv', index=False, encoding='utf-8-sig')
 
@@ -212,8 +229,6 @@ st.dataframe(df_filtered_final)
 # -----------------
 # プロットする情報
 # -----------------
-st.header('主要な分析')
-
 # 職種別の求人割合
 job_counts = df_filtered_final['job_tag'].value_counts()
 fig_job_bar = px.bar(
@@ -225,6 +240,12 @@ fig_job_bar = px.bar(
 )
 st.plotly_chart(fig_job_bar)
 
+job_proportions = (df_filtered_final['job_tag'].value_counts()) / (df_filtered_final['job_tag'].value_counts().sum())*100
+st.markdown("* 職種別求人割合(表)")
+st.dataframe(job_proportions.round(1))
+
+
+# ここからヒートマップのコード読解とスキルと求人数を表にもプロット
 # 職種ごとのスキルヒートマップ
 all_skills = [skill for sublist in df_filtered_final['job_offer_skill_names'].dropna() for skill in sublist]
 skill_counts = Counter(all_skills)
@@ -245,14 +266,57 @@ fig_heatmap = px.imshow(
     labels=dict(x="職種", y="スキル", color="件数"),
     title="職種別スキルヒートマップ"
 )
+fig_heatmap.update_layout(
+    height= 800,
+    width=1200
+)
+
 st.plotly_chart(fig_heatmap)
 
+# スキル表
+df_skill_counts = pd.DataFrame(
+    skill_counts.most_common(),
+    columns=['スキル名', '求人件数']
+)
+
+st.subheader("スキル別求人件数")
+st.dataframe(df_skill_counts)
+
+# 職種ごとの平均年収
+jobs = ['AIエンジニア', 'データサイエンティスト', 'データエンジニア']
+for job in jobs:
+    df_job = df_filtered_final[df_filtered_final['job_tag'] == job]
+    df_job = df_job[df_job['avg_salary'] >= 100]
+
+    fig = px.histogram(
+        df_job,
+        x='avg_salary',
+        title=f'{job}の平均年収分布',
+        labels={'avg_salary': '平均年収（万円）', 'count': '求人件数'}
+    )
+    st.plotly_chart(fig)
+
+# target_jobs = ['AIエンジニア', 'データサイエンティスト', 'データエンジニア']
+# plt.style.use('seaborn-v0_8-whitegrid') # スタイルを適用して見やすくする
+
+# for job in target_jobs:
+#     df_job = df_filtered_final[df_filtered_final['job_tag'] == job]
+
+#     plt.figure(figsize=(3, 2))
+#     df_job['avg_salary'].hist(bins=20, alpha=0.8)
+
+#     plt.title(f'{job}の平均年収分布', fontsize=10)
+#     plt.xlabel('平均年収（万円）', fontsize=10)
+#     plt.ylabel('求人件数', fontsize=10)
+
+#     st.pyplot(plt)
+
+
 # 給与の中央値（箱ひげ図）
-st.subheader('給与の中央値')
-salary_df = df_filtered_final.copy()
-salary_df['avg_salary'] = (salary_df['job_offer_min_salary'] + salary_df['job_offer_max_salary']) / 2
+st.subheader('代表値の分布')
+
 fig_salary = px.box(
-    salary_df,
+    df_filtered_final,
     x='job_tag',
     y='avg_salary',
     points='all',
@@ -260,8 +324,35 @@ fig_salary = px.box(
 )
 st.plotly_chart(fig_salary)
 
+# 給与の最低値（箱ひげ図）
+st.subheader('最低値の分布')
+
+fig_salary = px.box(
+    df_filtered_final,
+    x='job_tag',
+    y='job_offer_min_salary',
+    points='all',
+    title='職種別給与分布'
+)
+st.plotly_chart(fig_salary)
+
+# 給与の最大値（箱ひげ図）
+st.subheader('最大値の分布')
+
+fig_salary = px.box(
+    df_filtered_final,
+    x='job_tag',
+    y='job_offer_max_salary',
+    points='all',
+    title='職種別給与分布'
+)
+st.plotly_chart(fig_salary)
+
+
 # 企業の規模（従業員数）の分布
 st.subheader('企業の規模')
+
+fig_emp = px.histogram(df_filtered_final, x='employee_count', title='従業員数の分布（対数スケール）',nbins=20)
 fig_emp = px.histogram(
     df_filtered_final,
     x='employee_count',
@@ -269,3 +360,26 @@ fig_emp = px.histogram(
     title='従業員数の分布'
 )
 st.plotly_chart(fig_emp)
+
+#　求人棒グラフ
+# 他の求人サイトが大体下記のような従業員での分け方だったので、それを参考に決定
+bins = [0, 50, 100, 500, 1000, 5000, 10000, float('inf')]
+labels = ['~50人','51~100人', '101~500人', '501~1000人', '1001~5000人', '5001~10000人', '10001人~']
+
+df_filtered_final['employee_category'] = pd.cut(
+    df_filtered_final['employee_count'],
+    bins=bins,
+    labels=labels
+)
+
+employee_counts = df_filtered_final['employee_category'].value_counts().reindex(labels)
+
+fig_employee_bar = px.bar(
+    employee_counts,
+    x=employee_counts.index,
+    y=employee_counts.values,
+    title='企業規模別の求人件数',
+    labels={'x': '企業規模（従業員数）', 'y': '求人件数'}
+)
+
+st.plotly_chart(fig_employee_bar)
