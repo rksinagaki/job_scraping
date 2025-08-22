@@ -5,11 +5,11 @@ from dashboard import df_filtered
 # ------------------
 # 接続情報を設定
 # ------------------
-user = 'postgres'
-password = 'takuma1815T!'
-host = 'localhost'
-port = '5432'
-dbname = 'inagaki_test'
+user = '*****'
+password = '*****'
+host = '*****'
+port = '*****'
+dbname = '*****'
 
 # --------------------------------
 # DataFrameをPostgreSQLに書き出す
