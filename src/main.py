@@ -1,9 +1,7 @@
 import subprocess
-import time
 import os
 
 print("========== データパイプラインを開始します ==========")
-start_time = time.time()
 script_dir = os.path.dirname(__file__)
 project_dir = os.path.dirname(script_dir)
 os.chdir(project_dir)
@@ -36,6 +34,4 @@ except subprocess.CalledProcessError as e:
     print(f"エラー: database_manager.py の実行中に問題が発生しました。詳細: {e}")
     exit()
 
-end_time = time.time()
-elapsed_time = end_time - start_time
-print(f"========== データパイプラインが完了しました (実行時間: {elapsed_time:.2f}秒) ==========")
+print(f"========== データパイプラインが完了しました。) ==========")
