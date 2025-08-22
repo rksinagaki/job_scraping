@@ -64,8 +64,6 @@ if 'client' in df_filtered.columns:
     df_filtered['client_name'] = [d.get('name') for d in df_filtered['client_dict']]
     df_filtered['employee_count'] = [d.get('employee_count') for d in df_filtered['client_dict']]
     df_filtered['established'] = [d.get('established_at') for d in df_filtered['client_dict']]
-    # df_filtered['employee_count'] = df_filtered['client_dict'].apply(lambda d: d.get('employee_count') if isinstance(d, dict) else None)
-    # df_filtered['established'] = df_filtered['client_dict'].apply(lambda d: d.get('established_at') if isinstance(d, dict) else None)
     df_filtered['established'] = pd.to_datetime(df_filtered['established'], unit='s')
     df_filtered = df_filtered.drop(['client', 'client_dict'], axis=1, errors='ignore')
 
