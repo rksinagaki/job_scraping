@@ -1,15 +1,16 @@
 import pandas as pd
+import os
 from sqlalchemy import create_engine
 from dashboard import df_filtered
 
 # ------------------
 # 接続情報を設定
 # ------------------
-user = '*****'
-password = '*****'
-host = '*****'
-port = '*****'
-dbname = '*****'
+user = os.getenv('DB_USER')
+password = os.getenv('DB_PASSWORD')
+host = os.getenv('DB_HOST')
+port = os.getenv('DB_PORT')
+dbname = os.getenv('DB_NAME')
 
 # --------------------------------
 # DataFrameをPostgreSQLに書き出す
