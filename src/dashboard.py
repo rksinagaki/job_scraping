@@ -11,7 +11,7 @@ import japanize_matplotlib
 
 try:
 
-    df = pd.read_csv('./data/all_pages.csv')
+    df = pd.read_csv('s3://myproject-row-data1/all_pages.csv')
 
     # -----------------
     # コラム厳選

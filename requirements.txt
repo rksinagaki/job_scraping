@@ -8,3 +8,6 @@ japanize-matplotlib
 matplotlib
 psycopg2-binary
 sqlalchemy
+seaborn
+plotly
+boto3
