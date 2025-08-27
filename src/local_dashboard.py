@@ -2,17 +2,14 @@ import pandas as pd
 import os
 import ast
 import streamlit as st
-import seaborn as sns
-import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from collections import Counter
-import japanize_matplotlib
+
 
 try:
-    df = pd.read_csv('s3://myproject-row-data1/all_pages.csv')
-    # df = pd.read_csv('./data/all_pages.csv')
+    df = pd.read_csv('./data/all_pages.csv')
 
     # -----------------
     # コラム厳選

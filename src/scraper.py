@@ -81,82 +81,20 @@ while True:
         
         break
 
-#---------
-#ローカル出力pandasバージョン
-#---------
+# ---------
+# ローカル出力pandasバージョン
+# ---------
 
-# # 取得した全データをDataFrameに変換
-# df = pd.DataFrame(all_job_offers)
+# 取得した全データをDataFrameに変換
+df = pd.DataFrame(all_job_offers)
 
-# # CSVファイルに出力
-# output_directory = "data"
-# if not os.path.exists(output_directory):
-#     os.makedirs(output_directory)
+# CSVファイルに出力
+output_directory = "data"
+if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
 
-# all_csv_path = os.path.join(output_directory, "all_pages.csv")
+all_csv_path = os.path.join(output_directory, "all_pages.csv")
 
-# df.to_csv(all_csv_path, index=False, encoding='utf-8-sig')
+df.to_csv(all_csv_path, index=False, encoding='utf-8-sig')
 
-# print(f"\n合計 {len(all_job_offers)} 件の求人情報を'{all_csv_path}'に保存しました。")
-
-
-#---------
-#ローカル出力csvバージョン
-#---------
-# output_directory = "data"
-# if not os.path.exists(output_directory):
-#     os.makedirs(output_directory)
-
-# all_csv_path = os.path.join(output_directory, "all_pages.csv")
-
-# # CSVファイルに書き込む
-# with open(all_csv_path, 'w', newline='', encoding='utf-8-sig') as f:
-#     # データが空でなければヘッダーを書き込む
-#     if all_job_offers:
-#         # ヘッダー（列名）を辞書のキーから取得
-#         fieldnames = list(all_job_offers[0].keys())
-#         writer = csv.DictWriter(f, fieldnames=fieldnames)
-        
-#         # ヘッダーを書き込む
-#         writer.writeheader()
-        
-#         # リストの各行を書き込む
-#         writer.writerows(all_job_offers)
-
-# print(f"\n合計 {len(all_job_offers)} 件の求人情報を'{all_csv_path}'に保存しました。")
-
-
-
-
-# ーーーーーーーーーー
-# S3に接続
-# ーーーーーーーーーー
-s3_client = boto3.client('s3')
-bucket_name = 'myproject-row-data1'
-file_key = 'all_pages.csv'
-
-# CSVデータをメモリ上で作成
-output = io.StringIO()
-
-# データが空でなければヘッダーとデータを書き込む
-if all_job_offers:
-    fieldnames = list(all_job_offers[0].keys())
-    writer = csv.DictWriter(output, fieldnames=fieldnames)
-    
-    writer.writeheader()
-    writer.writerows(all_job_offers)
-
-# 作成したCSV文字列を取得
-csv_string = output.getvalue()
-
-# S3にアップロード
-try:
-    s3_client.put_object(
-        Bucket=bucket_name,
-        Key=file_key,
-        Body=csv_string.encode('utf-8-sig'),
-        ContentType='text/csv'
-    )
-    print(f"\n合計 {len(all_job_offers)} 件の求人情報をS3バケット '{bucket_name}' の '{file_key}' にアップロードしました。")
-except Exception as e:
-    print(f"S3へのアップロード中にエラーが発生しました: {e}")
+print(f"\n合計 {len(all_job_offers)} 件の求人情報を'{all_csv_path}'に保存しました。")
