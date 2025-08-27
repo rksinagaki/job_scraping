@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 from sqlalchemy import create_engine
-from dashboard import df_filtered
+from local_dashboard import df_filtered
 
 # ------------------
 # 接続情報を設定

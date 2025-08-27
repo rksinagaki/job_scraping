@@ -8,7 +8,9 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 from collections import Counter
-import japanize_matplotlib
+import boto3
+from io import StringIO
+
 
 try:
     # s3のcsvを取得するバージョン
@@ -106,9 +108,33 @@ try:
     ]
     df_filtered = df_filtered[new_order]
 
-    df_filtered.to_csv('data/filtered.csv', index=False, encoding='utf-8-sig')
+    # df_filtered.to_csv('data/filtered.csv', index=False, encoding='utf-8-sig')　←ローカルのインスタンスに保存
+    # print("\n必要なデータ絞り込みました:")
 
-    print("\n必要なデータ絞り込みました:")
+    # ーーーーーーー
+    # S3に保存
+    # ーーーーーーー
+    csv_buffer = StringIO()
+    df_filtered.to_csv(csv_buffer, index=False, encoding='utf-8')
+
+    # S3クライアントを初期化
+    s3_client = boto3.client('s3')
+
+    # S3バケットにCSVファイルをアップロード
+    bucket_name = 'myproject-row-data1 '
+    file_key = 'filtered.csv' # S3に保存されるファイル名
+
+    try:
+        s3_client.put_object(
+            Bucket=bucket_name,
+            Key=file_key,
+            Body=csv_buffer.getvalue()
+        )
+        print(f"S3に加工済みデータをアップロードしました: s3://{bucket_name}/{file_key}")
+    except Exception as e:
+        print(f"アップロードに失敗しました: {e}")
+
+    
 
 
     # -----------------
@@ -299,21 +325,6 @@ try:
             labels={'avg_salary': '平均年収（万円）', 'count': '求人件数'}
         )
         st.plotly_chart(fig)
-
-    # target_jobs = ['AIエンジニア', 'データサイエンティスト', 'データエンジニア']
-    # plt.style.use('seaborn-v0_8-whitegrid') # スタイルを適用して見やすくする
-
-    # for job in target_jobs:
-    #     df_job = df_filtered_final[df_filtered_final['job_tag'] == job]
-
-    #     plt.figure(figsize=(3, 2))
-    #     df_job['avg_salary'].hist(bins=20, alpha=0.8)
-
-    #     plt.title(f'{job}の平均年収分布', fontsize=10)
-    #     plt.xlabel('平均年収（万円）', fontsize=10)
-    #     plt.ylabel('求人件数', fontsize=10)
-
-    #     st.pyplot(plt)
 
 
     # 給与の中央値（箱ひげ図）

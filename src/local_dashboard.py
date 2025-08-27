@@ -296,21 +296,6 @@ try:
         )
         st.plotly_chart(fig)
 
-    # target_jobs = ['AIエンジニア', 'データサイエンティスト', 'データエンジニア']
-    # plt.style.use('seaborn-v0_8-whitegrid') # スタイルを適用して見やすくする
-
-    # for job in target_jobs:
-    #     df_job = df_filtered_final[df_filtered_final['job_tag'] == job]
-
-    #     plt.figure(figsize=(3, 2))
-    #     df_job['avg_salary'].hist(bins=20, alpha=0.8)
-
-    #     plt.title(f'{job}の平均年収分布', fontsize=10)
-    #     plt.xlabel('平均年収（万円）', fontsize=10)
-    #     plt.ylabel('求人件数', fontsize=10)
-
-    #     st.pyplot(plt)
-
 
     # 給与の中央値（箱ひげ図）
     st.subheader('代表値の分布')
