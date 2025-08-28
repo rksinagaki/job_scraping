@@ -1,16 +1,11 @@
+boto3
 requests
 beautifulsoup4
 pandas
 numpy
 streamlit
-selenium
-japanize-matplotlib
-matplotlib
 psycopg2-binary
 sqlalchemy
-seaborn
 plotly
-boto3
 fsspec
-s3fs
 python-dotenv
