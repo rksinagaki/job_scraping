@@ -121,7 +121,7 @@ try:
     s3_client = boto3.client('s3')
 
     # S3バケットにCSVファイルをアップロード
-    bucket_name = 'myproject-row-data1 '
+    bucket_name = 'myproject-row-data1'
     file_key = 'filtered.csv' # S3に保存されるファイル名
 
     try:
